@@ -1,0 +1,175 @@
+[03-05-2024 @ 01:31:12.391 GMT] [initChat()@PhantomBot.java:409] Detected new installation, starting setup process...
+[03-05-2024 @ 01:31:12.482 GMT] [initChat()@PhantomBot.java:425] Will check again in 5 seconds
+[03-05-2024 @ 01:31:17.499 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 01:31:17.501 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 01:31:17.501 GMT] [initChat()@PhantomBot.java:425] Will check again in 10 seconds
+[03-05-2024 @ 01:31:28.584 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 01:31:28.597 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 01:31:28.599 GMT] [initChat()@PhantomBot.java:425] Will check again in 20 seconds
+[03-05-2024 @ 01:31:48.614 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 01:31:48.615 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 01:31:48.615 GMT] [initChat()@PhantomBot.java:425] Will check again in 40 seconds
+[03-05-2024 @ 01:32:28.624 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 01:32:28.625 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 01:32:28.625 GMT] [initChat()@PhantomBot.java:425] Will check again in 60 seconds
+[03-05-2024 @ 01:33:28.637 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 01:33:28.638 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 01:33:28.638 GMT] [initChat()@PhantomBot.java:425] Will check again in 60 seconds
+[03-05-2024 @ 01:34:28.645 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 01:34:28.646 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 01:34:28.647 GMT] [initChat()@PhantomBot.java:425] Will check again in 60 seconds
+[03-05-2024 @ 01:35:28.658 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:35:28.659 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:35:28.660 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:35:28.661 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-05-2024 @ 01:36:18.022 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:36:18.023 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:36:18.023 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:36:18.025 GMT] [initChat()@PhantomBot.java:438] Will check again in 5 seconds
+[03-05-2024 @ 01:36:23.032 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:36:23.033 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:36:23.034 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:36:23.035 GMT] [initChat()@PhantomBot.java:438] Will check again in 10 seconds
+[03-05-2024 @ 01:36:33.051 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:36:33.052 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:36:33.052 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:36:33.053 GMT] [initChat()@PhantomBot.java:438] Will check again in 20 seconds
+[03-05-2024 @ 01:38:13.708 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:38:13.709 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:38:13.709 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:38:13.711 GMT] [initChat()@PhantomBot.java:438] Will check again in 5 seconds
+[03-05-2024 @ 01:38:20.320 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:38:20.321 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:38:20.334 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:38:20.338 GMT] [initChat()@PhantomBot.java:438] Will check again in 10 seconds
+[03-05-2024 @ 01:38:30.342 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:38:30.343 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:38:30.343 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:38:30.344 GMT] [initChat()@PhantomBot.java:438] Will check again in 20 seconds
+[03-05-2024 @ 01:38:50.356 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:38:50.357 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:38:50.358 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:38:50.359 GMT] [initChat()@PhantomBot.java:438] Will check again in 40 seconds
+[03-05-2024 @ 01:39:30.363 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:39:30.364 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:39:30.365 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:39:30.366 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-05-2024 @ 01:40:30.378 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:40:30.378 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:40:30.379 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:40:30.379 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-05-2024 @ 01:41:27.332 GMT] [handleRequest()@Helix.java:316] Helix rejected a request [/users?login=&login=potatosol] 400 Bad Request: Invalid username(s), email(s), or ID(s). Bad Identifiers.
+[03-05-2024 @ 01:41:30.383 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:41:30.383 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:41:30.385 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:41:30.386 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-05-2024 @ 01:41:44.297 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:41:44.298 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:41:44.298 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:41:44.300 GMT] [initChat()@PhantomBot.java:438] Will check again in 5 seconds
+[03-05-2024 @ 01:41:45.137 GMT] [handleRequest()@Helix.java:316] Helix rejected a request [/users?login=&login=potatosol] 400 Bad Request: Invalid username(s), email(s), or ID(s). Bad Identifiers.
+[03-05-2024 @ 01:41:49.315 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:41:49.316 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:41:49.317 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:41:49.317 GMT] [initChat()@PhantomBot.java:438] Will check again in 10 seconds
+[03-05-2024 @ 01:41:59.333 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:41:59.335 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:41:59.337 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:41:59.339 GMT] [initChat()@PhantomBot.java:438] Will check again in 20 seconds
+[03-05-2024 @ 01:42:19.345 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:42:19.345 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:42:19.346 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:42:19.347 GMT] [initChat()@PhantomBot.java:438] Will check again in 40 seconds
+[03-05-2024 @ 01:42:51.351 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:42:51.352 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:42:51.353 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:42:51.355 GMT] [initChat()@PhantomBot.java:438] Will check again in 5 seconds
+[03-05-2024 @ 01:42:56.371 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:42:56.372 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:42:56.372 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:42:56.373 GMT] [initChat()@PhantomBot.java:438] Will check again in 10 seconds
+[03-05-2024 @ 01:43:06.382 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 01:43:06.383 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 01:43:06.384 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 01:43:06.385 GMT] [initChat()@PhantomBot.java:438] Will check again in 20 seconds
+[03-05-2024 @ 01:55:22.177 GMT] [initChat()@PhantomBot.java:409] Detected new installation, starting setup process...
+[03-05-2024 @ 01:55:22.217 GMT] [initChat()@PhantomBot.java:425] Will check again in 5 seconds
+[03-05-2024 @ 01:55:27.233 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 01:55:27.235 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 01:55:27.235 GMT] [initChat()@PhantomBot.java:425] Will check again in 10 seconds
+[03-05-2024 @ 01:55:37.250 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 01:55:37.251 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 01:55:37.253 GMT] [initChat()@PhantomBot.java:425] Will check again in 20 seconds
+[03-05-2024 @ 01:55:57.259 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 01:55:57.259 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 01:55:57.260 GMT] [initChat()@PhantomBot.java:425] Will check again in 40 seconds
+[03-05-2024 @ 01:56:37.264 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 01:56:37.265 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 01:56:37.266 GMT] [initChat()@PhantomBot.java:425] Will check again in 60 seconds
+[03-05-2024 @ 01:57:37.280 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 01:57:37.280 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 01:57:37.281 GMT] [initChat()@PhantomBot.java:425] Will check again in 60 seconds
+[03-05-2024 @ 02:02:27.314 GMT] [initChat()@PhantomBot.java:409] Detected new installation, starting setup process...
+[03-05-2024 @ 02:02:27.403 GMT] [initChat()@PhantomBot.java:425] Will check again in 5 seconds
+[03-05-2024 @ 02:02:32.522 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 02:02:32.536 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 02:02:32.536 GMT] [initChat()@PhantomBot.java:425] Will check again in 10 seconds
+[03-05-2024 @ 02:02:42.539 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 02:02:42.540 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 02:02:42.540 GMT] [initChat()@PhantomBot.java:425] Will check again in 20 seconds
+[03-05-2024 @ 02:03:02.549 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 02:03:02.550 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 02:03:02.550 GMT] [initChat()@PhantomBot.java:425] Will check again in 40 seconds
+[03-05-2024 @ 02:03:42.567 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 02:03:42.568 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 02:03:42.570 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 02:03:42.570 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-05-2024 @ 02:04:42.584 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 02:04:42.585 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 02:04:42.587 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 02:04:42.587 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-05-2024 @ 02:05:42.599 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 02:05:42.600 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 02:05:42.600 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 02:05:42.601 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-05-2024 @ 02:06:42.611 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-05-2024 @ 02:06:42.611 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-05-2024 @ 02:06:42.611 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-05-2024 @ 02:06:42.612 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-05-2024 @ 02:07:32.562 GMT] [initChat()@PhantomBot.java:409] Detected new installation, starting setup process...
+[03-05-2024 @ 02:07:32.599 GMT] [initChat()@PhantomBot.java:425] Will check again in 5 seconds
+[03-05-2024 @ 02:07:38.748 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 02:07:38.761 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 02:07:38.764 GMT] [initChat()@PhantomBot.java:425] Will check again in 10 seconds
+[03-05-2024 @ 02:07:48.771 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 02:07:48.772 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 02:07:48.773 GMT] [initChat()@PhantomBot.java:425] Will check again in 20 seconds
+[03-05-2024 @ 02:08:08.781 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 02:08:08.782 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 02:08:08.782 GMT] [initChat()@PhantomBot.java:425] Will check again in 40 seconds
+[03-05-2024 @ 02:08:48.880 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as . Some features may not work
+[03-05-2024 @ 02:08:48.881 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-05-2024 @ 02:08:48.881 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-05-2024 @ 02:08:48.882 GMT] [initChat()@PhantomBot.java:425] Will check again in 60 seconds
+[03-05-2024 @ 02:09:17.649 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as . Some features may not work
+[03-05-2024 @ 02:09:18.080 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as . Some features may not work
+[03-05-2024 @ 02:09:18.080 GMT] [initChat()@PhantomBot.java:419] Channel to join is not set
+[03-05-2024 @ 02:09:18.080 GMT] [initChat()@PhantomBot.java:420] Please go the the bots built-in setup page and setup the Admin section
+[03-05-2024 @ 02:09:18.081 GMT] [initChat()@PhantomBot.java:421] The default URL is http://localhost:25000/setup/
+[03-05-2024 @ 02:09:18.083 GMT] [initChat()@PhantomBot.java:425] Will check again in 5 seconds
+[03-05-2024 @ 02:09:23.171 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as . Some features may not work
+[03-05-2024 @ 02:09:23.173 GMT] [initChat()@PhantomBot.java:419] Channel to join is not set
+[03-05-2024 @ 02:09:23.174 GMT] [initChat()@PhantomBot.java:420] Please go the the bots built-in setup page and setup the Admin section
+[03-05-2024 @ 02:09:23.175 GMT] [initChat()@PhantomBot.java:421] The default URL is http://localhost:25000/setup/
+[03-05-2024 @ 02:09:23.178 GMT] [initChat()@PhantomBot.java:425] Will check again in 10 seconds
+[03-05-2024 @ 02:09:33.263 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as . Some features may not work
+[03-05-2024 @ 02:09:33.263 GMT] [initChat()@PhantomBot.java:419] Channel to join is not set
+[03-05-2024 @ 02:09:33.264 GMT] [initChat()@PhantomBot.java:420] Please go the the bots built-in setup page and setup the Admin section
+[03-05-2024 @ 02:09:33.264 GMT] [initChat()@PhantomBot.java:421] The default URL is http://localhost:25000/setup/
+[03-05-2024 @ 02:09:33.265 GMT] [initChat()@PhantomBot.java:425] Will check again in 20 seconds
+[03-05-2024 @ 02:10:42.689 GMT] [onClose()@TwitchMessageInterface.java:399] Connection to TMI closed [0, channel closed]
+[03-05-2024 @ 02:10:42.884 GMT] [reconnect()@TwitchSession.java:162] Delaying next reconnect 1 seconds...
+[03-05-2024 @ 02:10:42.926 GMT] [onClose()@TwitchPubSub.java:381] Code [0] Reason [channel closed]
+[03-05-2024 @ 02:10:42.931 GMT] [reconnect()@TwitchPubSub.java:147] Delaying next reconnect (PubSub) 1 seconds...
+[03-05-2024 @ 02:10:44.635 GMT] [lambda$new$0()@TwitchSession.java:52] Failed to connect to TMI and join #potatosol, reconnecting...
+[03-05-2024 @ 02:10:44.887 GMT] [reconnect()@TwitchSession.java:162] Delaying next reconnect 2 seconds...

@@ -1,0 +1,497 @@
+[03-07-2024 @ 02:14:13.482 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:14:17.152 GMT] potatosol: !fudge @venmoapp
+[03-07-2024 @ 02:14:22.024 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:14:27.521 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 02:14:34.025 GMT] potatosol: !lastseen venmoapp
+[03-07-2024 @ 02:14:34.028 GMT] mangb0t2: @PotatoSol, I haven't seen venmoapp yet.
+[03-07-2024 @ 02:14:38.130 GMT] potatosol: !lastseen potatosol
+[03-07-2024 @ 02:14:38.132 GMT] mangb0t2: @PotatoSol, PotatoSol has last been seen on March 6, 2024 @ 4:16:46 AM EST
+[03-07-2024 @ 02:14:40.847 GMT] mangb0t2: @PotatoSol, PotatoSol has last been seen on March 6, 2024 @ 4:16:46 AM EST
+[03-07-2024 @ 02:14:40.845 GMT] potatosol: !lastseen potatosol 󠀀
+[03-07-2024 @ 02:14:42.154 GMT] mangb0t2: @PotatoSol, PotatoSol has last been seen on March 6, 2024 @ 4:16:46 AM EST
+[03-07-2024 @ 02:14:42.153 GMT] potatosol: !lastseen potatosol
+[03-07-2024 @ 02:14:43.411 GMT] mangb0t2: @PotatoSol, PotatoSol has last been seen on March 6, 2024 @ 4:16:46 AM EST
+[03-07-2024 @ 02:14:43.409 GMT] potatosol: !lastseen potatosol 󠀀
+[03-07-2024 @ 02:14:47.044 GMT] mangb0t2: @PotatoSol, PotatoSol has last been seen on March 6, 2024 @ 4:16:46 AM EST
+[03-07-2024 @ 02:14:47.043 GMT] potatosol: !lastseen potatosol
+[03-07-2024 @ 02:14:48.246 GMT] potatosol: !lastseen potatosol 󠀀
+[03-07-2024 @ 02:14:48.248 GMT] mangb0t2: @PotatoSol, PotatoSol has last been seen on March 6, 2024 @ 4:16:46 AM EST
+[03-07-2024 @ 02:14:49.442 GMT] mangb0t2: @PotatoSol, PotatoSol has last been seen on March 6, 2024 @ 4:16:46 AM EST
+[03-07-2024 @ 02:14:49.440 GMT] potatosol: !lastseen potatosol
+[03-07-2024 @ 02:15:51.529 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:15:54.057 GMT] potatosol: !armor venmoapp
+[03-07-2024 @ 02:15:54.060 GMT] mangb0t2: venmoapp armored up! They have 1 layer of armor.
+[03-07-2024 @ 02:15:56.330 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:15:56.334 GMT] mangb0t2: venmoapp had armor!
+[03-07-2024 @ 02:15:56.342 GMT] mangb0t2: venmoapp, are you dumb?
+[03-07-2024 @ 02:15:59.303 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 02:18:56.053 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:19:56.350 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 02:19:56.356 GMT] mangb0t2: actually we're here
+[03-07-2024 @ 02:19:59.614 GMT] mangb0t2: actually we're here
+[03-07-2024 @ 02:19:59.610 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:20:39.038 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 02:20:39.044 GMT] mangb0t2: actually we're here
+[03-07-2024 @ 02:20:39.053 GMT] mangb0t2: doing this, fudgestacks: 10 inputFudge: 10 timestamp: 0 currentTime: 1709778039.04
+[03-07-2024 @ 02:20:58.539 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:20:58.542 GMT] mangb0t2: actually we're here
+[03-07-2024 @ 02:20:58.554 GMT] mangb0t2: doing this, fudgestacks: 10 inputFudge: 10 timestamp: 0 currentTime: 1709778058.539
+[03-07-2024 @ 02:21:00.355 GMT] mangb0t2: actually we're here
+[03-07-2024 @ 02:21:00.353 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 02:21:00.366 GMT] mangb0t2: doing this, fudgestacks: 10 inputFudge: 10 timestamp: 0 currentTime: 1709778060.353
+[03-07-2024 @ 02:22:45.223 GMT] mangb0t2: actually we're here
+[03-07-2024 @ 02:22:45.217 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 02:22:45.229 GMT] mangb0t2: 1709778165.219
+[03-07-2024 @ 02:22:45.242 GMT] mangb0t2: 0
+[03-07-2024 @ 02:22:45.255 GMT] mangb0t2: doing this, fudgestacks: 10 inputFudge: 10 timestamp: 0 currentTime: 1709778165.219
+[03-07-2024 @ 02:23:40.991 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:23:40.997 GMT] mangb0t2: actually we're here
+[03-07-2024 @ 02:23:41.004 GMT] mangb0t2: 1709778220.993
+[03-07-2024 @ 02:23:41.020 GMT] mangb0t2: 0
+[03-07-2024 @ 02:23:41.037 GMT] mangb0t2: doing this, fudgestacks: 10 inputFudge: 10 timestamp: 0 currentTime: 1709778220.993
+[03-07-2024 @ 02:23:55.685 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:23:55.688 GMT] mangb0t2: actually we're here
+[03-07-2024 @ 02:23:55.698 GMT] mangb0t2: 1709778235.686
+[03-07-2024 @ 02:23:55.709 GMT] mangb0t2: 0
+[03-07-2024 @ 02:23:55.720 GMT] mangb0t2: doing this, fudgestacks: 0 inputFudge: 10 timestamp: 0 currentTime: 1709778235.686
+[03-07-2024 @ 02:25:51.857 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:25:51.862 GMT] mangb0t2: actually we're here
+[03-07-2024 @ 02:25:51.870 GMT] mangb0t2: 1709778351
+[03-07-2024 @ 02:25:51.883 GMT] mangb0t2: 0
+[03-07-2024 @ 02:25:51.897 GMT] mangb0t2: doing this, fudgestacks: 0 inputFudge: 10 timestamp: 0 currentTime: 1709778351
+[03-07-2024 @ 02:26:29.413 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:26:29.420 GMT] mangb0t2: actually we're here
+[03-07-2024 @ 02:26:29.429 GMT] mangb0t2: 1709778389
+[03-07-2024 @ 02:26:29.444 GMT] mangb0t2: 1709778235
+[03-07-2024 @ 02:26:29.457 GMT] mangb0t2: doing this, fudgestacks: 0 inputFudge: 10 timestamp: 1709778235 currentTime: 1709778389
+[03-07-2024 @ 02:27:45.037 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:27:45.043 GMT] mangb0t2: currentTime: 1709778465
+[03-07-2024 @ 02:27:45.050 GMT] mangb0t2: timestamp: 1709778235
+[03-07-2024 @ 02:27:45.061 GMT] mangb0t2: delta: 230
+[03-07-2024 @ 02:27:45.073 GMT] mangb0t2: 1709778465
+[03-07-2024 @ 02:27:45.086 GMT] mangb0t2: 1709778235
+[03-07-2024 @ 02:27:45.098 GMT] mangb0t2: doing this, fudgestacks: 0 inputFudge: 10 timestamp: 1709778235 currentTime: 1709778465
+[03-07-2024 @ 02:29:55.904 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 02:30:04.946 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:30:04.952 GMT] mangb0t2: currentTime: 1709778604
+[03-07-2024 @ 02:30:04.959 GMT] mangb0t2: timestamp: 1709778235
+[03-07-2024 @ 02:30:04.970 GMT] mangb0t2: delta: 369
+[03-07-2024 @ 02:30:04.984 GMT] mangb0t2: doing this, fudgestacks: 0 inputFudge: 10 timestamp: 1709778604 currentTime: 1709778604
+[03-07-2024 @ 02:31:29.520 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:31:29.526 GMT] mangb0t2: currentTime: 1709778689
+[03-07-2024 @ 02:31:29.534 GMT] mangb0t2: timestamp: 1709778604
+[03-07-2024 @ 02:31:29.544 GMT] mangb0t2: delta: 85
+[03-07-2024 @ 02:31:29.561 GMT] mangb0t2: doing this, fudgestacks: 0 inputFudge: 10 timestamp: 1709778689 currentTime: 1709778689
+[03-07-2024 @ 02:31:31.398 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 02:31:33.145 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:31:37.976 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 02:31:37.979 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 02:31:41.911 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 02:31:41.910 GMT] potatosol: !smooch venmoapp 󠀀
+[03-07-2024 @ 02:31:45.976 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 02:31:45.979 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 02:32:00.521 GMT] mangb0t2: currentTime: 1709778720
+[03-07-2024 @ 02:32:00.518 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:32:00.530 GMT] mangb0t2: timestamp: 1709778689
+[03-07-2024 @ 02:32:00.540 GMT] mangb0t2: delta: 31
+[03-07-2024 @ 02:32:00.552 GMT] mangb0t2: doing this, fudgestacks: 0 inputFudge: 10 timestamp: 1709778720 currentTime: 1709778720
+[03-07-2024 @ 02:32:04.459 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 02:33:34.767 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:33:39.387 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 02:57:08.819 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 02:57:13.609 GMT] potatosol: !untimeout venmoapp
+[03-07-2024 @ 02:57:20.862 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:17:25.357 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 03:17:47.584 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:20:18.726 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 03:21:31.349 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:21:35.312 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 03:21:38.061 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:21:38.059 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:21:56.192 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:22:02.955 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:22:02.957 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:22:05.674 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:22:05.672 GMT] potatosol: !smooch venmoapp 󠀀
+[03-07-2024 @ 03:22:07.215 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:22:07.213 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:22:08.320 GMT] potatosol: !smooch venmoapp 󠀀
+[03-07-2024 @ 03:22:08.322 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:22:10.044 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:22:10.043 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:22:13.836 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:22:17.069 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:22:17.067 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:23:39.217 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:23:42.920 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 03:23:46.748 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:23:46.746 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:23:46.760 GMT] mangb0t2: 10
+[03-07-2024 @ 03:23:46.772 GMT] mangb0t2: 10
+[03-07-2024 @ 03:24:19.823 GMT] potatosol: !smooch venmoapp 󠀀
+[03-07-2024 @ 03:24:19.826 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:24:19.837 GMT] mangb0t2: 0
+[03-07-2024 @ 03:24:19.849 GMT] mangb0t2: 0
+[03-07-2024 @ 03:24:26.933 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:24:26.931 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:24:29.867 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:24:32.049 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:24:32.048 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:24:32.060 GMT] mangb0t2: 0
+[03-07-2024 @ 03:24:32.071 GMT] mangb0t2: 0
+[03-07-2024 @ 03:26:46.951 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:26:50.494 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:26:50.491 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:26:50.510 GMT] mangb0t2: 0
+[03-07-2024 @ 03:26:50.523 GMT] mangb0t2: 0
+[03-07-2024 @ 03:27:04.491 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:27:07.462 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 03:27:09.833 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:27:09.831 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:27:09.845 GMT] mangb0t2: 10
+[03-07-2024 @ 03:27:09.857 GMT] mangb0t2: 10
+[03-07-2024 @ 03:27:18.944 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:27:18.942 GMT] potatosol: !smooch venmoapp 󠀀
+[03-07-2024 @ 03:27:18.957 GMT] mangb0t2: 0
+[03-07-2024 @ 03:27:18.968 GMT] mangb0t2: 0
+[03-07-2024 @ 03:27:22.238 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:27:22.240 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:28:16.162 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:28:19.189 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:28:19.192 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:28:19.201 GMT] mangb0t2: 10 1709782096 1709782099
+[03-07-2024 @ 03:28:19.214 GMT] mangb0t2: 0
+[03-07-2024 @ 03:28:19.225 GMT] mangb0t2: 0
+[03-07-2024 @ 03:28:53.000 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:28:56.633 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 03:28:59.591 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:28:59.593 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:28:59.605 GMT] mangb0t2: 20 1709782133 1709782139
+[03-07-2024 @ 03:28:59.617 GMT] mangb0t2: 10
+[03-07-2024 @ 03:28:59.627 GMT] mangb0t2: 10
+[03-07-2024 @ 03:30:03.087 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:30:05.243 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 03:30:09.502 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:30:09.500 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:30:09.514 GMT] mangb0t2: 20 1709782133 1709782209 -76
+[03-07-2024 @ 03:30:09.525 GMT] mangb0t2: 10
+[03-07-2024 @ 03:30:09.535 GMT] mangb0t2: 10
+[03-07-2024 @ 03:32:53.784 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:32:58.295 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:32:58.297 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:32:58.309 GMT] mangb0t2: 20 1709782133 1709782378 -245
+[03-07-2024 @ 03:32:58.322 GMT] mangb0t2: 10
+[03-07-2024 @ 03:32:58.332 GMT] mangb0t2: 10
+[03-07-2024 @ 03:33:04.656 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:33:04.654 GMT] potatosol: !smooch venmoapp 󠀀
+[03-07-2024 @ 03:33:04.666 GMT] mangb0t2: 10 1709782133 1709782384 -251
+[03-07-2024 @ 03:33:04.678 GMT] mangb0t2: 0
+[03-07-2024 @ 03:33:08.874 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:33:11.415 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:33:11.414 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:33:11.426 GMT] mangb0t2: 10 1709782388 1709782391 -3
+[03-07-2024 @ 03:33:11.438 GMT] mangb0t2: 0
+[03-07-2024 @ 03:33:14.310 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:33:15.442 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 03:33:18.390 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:33:18.388 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:33:18.399 GMT] mangb0t2: 20 1709782394 1709782398 -4
+[03-07-2024 @ 03:33:18.411 GMT] mangb0t2: 10
+[03-07-2024 @ 03:33:18.421 GMT] mangb0t2: 10
+[03-07-2024 @ 03:33:21.724 GMT] potatosol: !smooch venmoapp 󠀀
+[03-07-2024 @ 03:33:21.726 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:33:21.736 GMT] mangb0t2: 10 1709782394 1709782401 -7
+[03-07-2024 @ 03:33:21.748 GMT] mangb0t2: 0
+[03-07-2024 @ 03:38:06.786 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:38:51.004 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 03:38:53.033 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:38:54.873 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 03:38:56.171 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:40:19.003 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 03:40:28.176 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 03:40:28.179 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:40:32.506 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 03:40:32.504 GMT] potatosol: !smooch venmoapp 󠀀
+[03-07-2024 @ 03:40:36.340 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:40:43.143 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 03:40:49.360 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:43:56.159 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 03:46:06.029 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:50:47.548 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 03:51:29.715 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:52:49.770 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 03:53:15.866 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 03:58:50.258 GMT] potatosol: !timeout venmoapp
+[03-07-2024 @ 04:02:55.846 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 04:03:09.517 GMT] potatosol: ./untimeout
+[03-07-2024 @ 04:03:14.843 GMT] potatosol: /untimeout
+[03-07-2024 @ 04:03:28.688 GMT] potatosol: !blacklist
+[03-07-2024 @ 04:03:28.691 GMT] mangb0t2: @PotatoSol, Usage: !blackList [add / remove]
+[03-07-2024 @ 04:03:34.451 GMT] potatosol: !blacklist add word
+[03-07-2024 @ 04:03:34.453 GMT] mangb0t2: @PotatoSol, Usage: !blackList add (timeout time) (message | regex) - Use regex: to specify a regex.
+[03-07-2024 @ 04:03:48.061 GMT] potatosol: !blacklist add 600 word
+[03-07-2024 @ 04:03:50.678 GMT] potatosol: word
+[03-07-2024 @ 04:05:03.467 GMT] potatosol: !blacklist remove word
+[03-07-2024 @ 04:05:07.810 GMT] potatosol: hello
+[03-07-2024 @ 04:05:09.013 GMT] potatosol: test
+[03-07-2024 @ 04:05:39.661 GMT] potatosol: ! test
+[03-07-2024 @ 04:05:42.603 GMT] potatosol: !test
+[03-07-2024 @ 04:05:47.101 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 04:05:47.104 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:07:47.549 GMT] potatosol: asdf
+[03-07-2024 @ 04:07:50.502 GMT] potatosol: !hello
+[03-07-2024 @ 04:07:51.713 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:07:51.710 GMT] potatosol: !wow
+[03-07-2024 @ 04:07:51.723 GMT] mangb0t2: SERVER: WHITEMANE | FACTION: HORDE SMOrc mangoMarth | CLASS/RACE: TAUREN SHAMAN
+[03-07-2024 @ 04:08:46.654 GMT] potatosol: d
+[03-07-2024 @ 04:08:47.626 GMT] potatosol: asdf
+[03-07-2024 @ 04:08:48.339 GMT] potatosol: !f
+[03-07-2024 @ 04:08:51.527 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 04:09:32.609 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:09:32.606 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 04:10:54.627 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:10:54.626 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 04:10:54.637 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 04:10:57.231 GMT] potatosol: !smooch venmoapp 󠀀
+[03-07-2024 @ 04:10:57.233 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:10:57.243 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 04:11:00.014 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:11:00.013 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 04:11:00.023 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 04:11:03.487 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:11:03.486 GMT] potatosol: !smooch venmoapp 󠀀
+[03-07-2024 @ 04:11:03.498 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 04:11:04.623 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 04:11:04.625 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:11:04.634 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 04:11:10.904 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:11:10.903 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 04:11:13.720 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:11:13.718 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 04:11:15.144 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:11:15.144 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 04:11:21.199 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:11:21.198 GMT] potatosol: !smooch @venmoapp
+[03-07-2024 @ 04:11:21.211 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 04:11:23.768 GMT] potatosol: !smooch @venmoapp 󠀀
+[03-07-2024 @ 04:11:23.769 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:11:23.780 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 04:11:25.871 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:11:25.869 GMT] potatosol: !smooch @venmoapp
+[03-07-2024 @ 04:11:25.881 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 04:11:34.465 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 04:11:34.466 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:11:37.102 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:11:37.100 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 04:11:42.430 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 04:11:42.431 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:11:42.441 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 04:11:44.688 GMT] mangb0t2: wowowowo
+[03-07-2024 @ 04:11:44.687 GMT] potatosol: !smooch venmoapp 󠀀
+[03-07-2024 @ 04:11:44.699 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 04:22:06.696 GMT] potatosol: test
+[03-07-2024 @ 04:22:50.824 GMT] potatosol: test 󠀀
+[03-07-2024 @ 04:22:50.837 GMT] mangb0t2: hello
+[03-07-2024 @ 04:24:51.293 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 04:26:29.223 GMT] potatosol: hello
+[03-07-2024 @ 04:27:57.851 GMT] potatosol: hello 󠀀
+[03-07-2024 @ 04:27:57.864 GMT] mangb0t2: hello
+[03-07-2024 @ 04:39:02.992 GMT] mangb0t2: hello
+[03-07-2024 @ 04:39:03.018 GMT] potatosol: !timeout venmoapp
+[03-07-2024 @ 04:41:40.338 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 04:41:40.740 GMT] mangb0t2: hello
+[03-07-2024 @ 04:41:53.635 GMT] potatosol: !dork
+[03-07-2024 @ 04:41:54.758 GMT] potatosol: dork
+[03-07-2024 @ 04:41:56.678 GMT] potatosol: !fudge dork
+[03-07-2024 @ 05:09:21.970 GMT] potatosol: !gettimeout venmoapp
+[03-07-2024 @ 05:10:14.045 GMT] potatosol: !gettimeout venmoapp 󠀀
+[03-07-2024 @ 05:10:29.471 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 05:10:49.449 GMT] potatosol: !smooch venmoapp 󠀀
+[03-07-2024 @ 05:11:16.908 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 05:12:04.792 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 05:12:57.367 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 05:14:57.404 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 05:15:42.875 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 05:16:44.252 GMT] potatosol: !fudge venmoapp 󠀀
+[03-07-2024 @ 05:22:55.805 GMT] potatosol: !fudgemine
+[03-07-2024 @ 05:24:21.495 GMT] potatosol: !fudgemine 󠀀
+[03-07-2024 @ 05:25:20.229 GMT] potatosol: !fudgemine
+[03-07-2024 @ 05:25:20.236 GMT] mangb0t2: Wow!
+[03-07-2024 @ 05:27:02.136 GMT] potatosol: !fudgemine 󠀀
+[03-07-2024 @ 05:29:39.330 GMT] potatosol: !fudgemine
+[03-07-2024 @ 05:29:39.340 GMT] mangb0t2: ["hello", "bye", "good"]
+[03-07-2024 @ 05:30:20.051 GMT] potatosol: !fudgemine 󠀀
+[03-07-2024 @ 05:30:20.060 GMT] mangb0t2: ["hello", "bye", "good"]
+[03-07-2024 @ 05:30:39.321 GMT] potatosol: !fudgemine
+[03-07-2024 @ 05:30:39.331 GMT] mangb0t2: ["hello", "bye", "good"]
+[03-07-2024 @ 05:30:39.342 GMT] mangb0t2: ["hello", "bye", "good"]
+[03-07-2024 @ 05:38:07.154 GMT] potatosol: !fudgemine dork
+[03-07-2024 @ 05:38:27.287 GMT] potatosol: !fudgemine dork 󠀀
+[03-07-2024 @ 05:41:09.453 GMT] potatosol: !fudgemine yo
+[03-07-2024 @ 05:42:28.221 GMT] potatosol: !fudgemine yo 󠀀
+[03-07-2024 @ 05:44:27.658 GMT] potatosol: !fudgemine yo
+[03-07-2024 @ 05:44:27.670 GMT] mangb0t2: potatosol planted a mine! There are now 4 mines planted!
+[03-07-2024 @ 05:44:32.386 GMT] potatosol: !fudgemine lol
+[03-07-2024 @ 05:44:32.401 GMT] mangb0t2: potatosol planted a mine! There are now 5 mines planted!
+[03-07-2024 @ 05:56:14.356 GMT] potatosol: !fudgemine lolhey
+[03-07-2024 @ 05:56:14.370 GMT] mangb0t2: potatosol planted a mine! There are now 7 mines planted!
+[03-07-2024 @ 05:56:17.890 GMT] potatosol: lolhey
+[03-07-2024 @ 05:57:03.295 GMT] potatosol: lolhey 󠀀
+[03-07-2024 @ 05:57:38.760 GMT] potatosol: lolhey
+[03-07-2024 @ 05:57:46.547 GMT] potatosol: test
+[03-07-2024 @ 06:02:00.320 GMT] potatosol: lolhey
+[03-07-2024 @ 06:03:39.162 GMT] potatosol: lolhey 󠀀
+[03-07-2024 @ 06:03:47.664 GMT] potatosol: whats up dog
+[03-07-2024 @ 06:04:50.459 GMT] potatosol: hello 󠀀
+[03-07-2024 @ 06:04:50.476 GMT] mangb0t2: object
+[03-07-2024 @ 06:05:25.423 GMT] potatosol: hello
+[03-07-2024 @ 06:05:25.443 GMT] mangb0t2: object
+[03-07-2024 @ 06:05:55.325 GMT] potatosol: hello 󠀀
+[03-07-2024 @ 06:05:55.343 GMT] mangb0t2: helo
+[03-07-2024 @ 06:06:18.324 GMT] potatosol: hello
+[03-07-2024 @ 06:06:18.340 GMT] mangb0t2: string
+[03-07-2024 @ 06:13:56.414 GMT] potatosol: !fudgemine hello
+[03-07-2024 @ 06:16:40.554 GMT] potatosol: !fudgemine hello 󠀀
+[03-07-2024 @ 06:17:06.783 GMT] potatosol: !fudgemine laksdm
+[03-07-2024 @ 06:17:42.229 GMT] potatosol: !fudgemine laksdm 󠀀
+[03-07-2024 @ 06:18:04.311 GMT] potatosol: !fudgemine laksdm
+[03-07-2024 @ 06:18:04.314 GMT] mangb0t2: enteredlaksdm
+[03-07-2024 @ 06:19:22.459 GMT] potatosol: !fudgemine hello
+[03-07-2024 @ 06:19:58.586 GMT] potatosol: !fudgemine hello 󠀀
+[03-07-2024 @ 06:19:58.615 GMT] mangb0t2: potatosol ran over a mine!
+[03-07-2024 @ 06:20:07.554 GMT] potatosol: !fudgemine hello
+[03-07-2024 @ 06:20:07.568 GMT] mangb0t2: potatosol ran over a mine!
+[03-07-2024 @ 06:20:22.364 GMT] potatosol: !fudgemine asldkmlaksdm
+[03-07-2024 @ 06:20:22.377 GMT] mangb0t2: potatosol ran over a mine!
+[03-07-2024 @ 06:22:13.398 GMT] potatosol: !fudgemine asldkmlaksdm 󠀀
+[03-07-2024 @ 06:22:13.413 GMT] mangb0t2: potatosol ran over a mine!/\b\b/gi!fudgemine asldkmlaksdm 󠀀
+[03-07-2024 @ 06:22:56.274 GMT] potatosol: asdlfkm
+[03-07-2024 @ 06:22:57.758 GMT] potatosol: fudgemine
+[03-07-2024 @ 06:22:59.403 GMT] potatosol: !fudgemine
+[03-07-2024 @ 06:23:03.862 GMT] potatosol: !fudgemine alskdm
+[03-07-2024 @ 06:23:03.875 GMT] mangb0t2: potatosol ran over a mine!/\b\b/gi!fudgemine alskdm
+[03-07-2024 @ 06:24:11.175 GMT] potatosol: !fudgemine hallo
+[03-07-2024 @ 06:24:11.189 GMT] mangb0t2: potatosol ran over a mine!/\b\b/gi!fudgemine hallo
+[03-07-2024 @ 06:24:44.197 GMT] potatosol: !fudgemine hallo 󠀀
+[03-07-2024 @ 06:24:44.214 GMT] mangb0t2: potatosol ran over a mine!/\b\b/gi!fudgemine hallo 󠀀
+[03-07-2024 @ 06:25:19.396 GMT] potatosol: !fudgemine alskdmklasdf
+[03-07-2024 @ 06:25:19.408 GMT] mangb0t2: potatosol ran over a mine!/\b\b/gi!fudgemine alskdmklasdf
+[03-07-2024 @ 06:27:18.490 GMT] potatosol: asdf
+[03-07-2024 @ 06:27:19.006 GMT] potatosol: asdf 󠀀
+[03-07-2024 @ 06:27:19.937 GMT] potatosol: asdfasdfsdf
+[03-07-2024 @ 06:27:21.093 GMT] potatosol: dfa
+[03-07-2024 @ 06:27:22.318 GMT] potatosol: asd asd
+[03-07-2024 @ 06:27:26.562 GMT] potatosol: !fudge venmoapp
+[03-07-2024 @ 06:27:34.393 GMT] potatosol: !smooch venmoapp
+[03-07-2024 @ 06:27:34.395 GMT] mangb0t2: potatosol gives venmoapp a smooch! <3
+[03-07-2024 @ 06:28:30.341 GMT] potatosol: !fudgemine hallo
+[03-07-2024 @ 06:28:30.354 GMT] mangb0t2: potatosol ran over a mine!undefined!fudgemine hallo
+[03-07-2024 @ 06:30:00.017 GMT] potatosol: !fudgemine alsdkmfkalsdmfl
+[03-07-2024 @ 06:30:00.031 GMT] mangb0t2: potatosol ran over a mine!undefined!fudgemine alsdkmfkalsdmfl
+[03-07-2024 @ 06:31:09.599 GMT] potatosol: !fudgemine asdf
+[03-07-2024 @ 06:31:13.255 GMT] potatosol: !fudgemine hi
+[03-07-2024 @ 06:31:13.270 GMT] mangb0t2: potatosol ran over a mine!undefined!fudgemine hi
+[03-07-2024 @ 06:31:58.416 GMT] potatosol: !fudgemine hi 󠀀
+[03-07-2024 @ 06:31:58.430 GMT] mangb0t2: potatosol ran over a mine!!fudgemine hi 󠀀
+[03-07-2024 @ 06:32:31.424 GMT] potatosol: !fudgemine aslkdmf
+[03-07-2024 @ 06:32:31.438 GMT] mangb0t2: potatosol ran over a mine!!fudgemine aslkdmf
+[03-07-2024 @ 06:33:53.054 GMT] potatosol: !fudgemine hello
+[03-07-2024 @ 06:34:30.304 GMT] potatosol: !fudgemine hello 󠀀
+[03-07-2024 @ 06:34:41.053 GMT] potatosol: !fudgemine hello
+[03-07-2024 @ 06:35:02.533 GMT] potatosol: !fudgemine hello 󠀀
+[03-07-2024 @ 06:35:02.548 GMT] mangb0t2: potatosol ran over a mine!!fudgemine hello 󠀀
+[03-07-2024 @ 06:35:39.954 GMT] potatosol: !fudgemine hello
+[03-07-2024 @ 06:35:41.247 GMT] potatosol: !fudgemine hello 󠀀
+[03-07-2024 @ 06:35:43.607 GMT] potatosol: !fudgemine alsdkmfaklsfd
+[03-07-2024 @ 06:38:34.838 GMT] potatosol: !fudgemine alsdkmfaklsfd 󠀀
+[03-07-2024 @ 06:38:34.852 GMT] mangb0t2: 󠀀
+[03-07-2024 @ 06:38:34.862 GMT] mangb0t2: potatosol ran over a mine!󠀀!fudgemine alsdkmfaklsfd 󠀀
+[03-07-2024 @ 06:38:43.237 GMT] potatosol: !fudgemine dork
+[03-07-2024 @ 06:38:47.008 GMT] potatosol: !fudgemine dork 󠀀
+[03-07-2024 @ 06:38:47.022 GMT] mangb0t2: 󠀀
+[03-07-2024 @ 06:38:47.034 GMT] mangb0t2: potatosol ran over a mine!󠀀!fudgemine dork 󠀀
+[03-07-2024 @ 06:39:46.150 GMT] potatosol: !fudgemine haha
+[03-07-2024 @ 06:39:47.450 GMT] potatosol: haha
+[03-07-2024 @ 06:39:59.370 GMT] potatosol: haha 󠀀
+[03-07-2024 @ 06:40:02.723 GMT] potatosol: !fudgemine wowo
+[03-07-2024 @ 06:40:30.195 GMT] potatosol: !fudgemine wowo 󠀀
+[03-07-2024 @ 06:40:30.209 GMT] mangb0t2: wowo
+[03-07-2024 @ 06:40:30.219 GMT] mangb0t2: potatosol ran over a mine!wowo!fudgemine wowo 󠀀
+[03-07-2024 @ 06:40:37.606 GMT] potatosol: wowow
+[03-07-2024 @ 06:40:41.129 GMT] potatosol: !fudgemine dog
+[03-07-2024 @ 06:40:41.140 GMT] mangb0t2: dog
+[03-07-2024 @ 06:40:41.152 GMT] mangb0t2: potatosol ran over a mine!dog!fudgemine dog
+[03-07-2024 @ 06:40:47.662 GMT] potatosol: !fudgemine winnie
+[03-07-2024 @ 06:40:47.675 GMT] mangb0t2: winnie
+[03-07-2024 @ 06:40:47.688 GMT] mangb0t2: potatosol ran over a mine!winnie!fudgemine winnie
+[03-07-2024 @ 06:40:49.736 GMT] potatosol: winnie
+[03-07-2024 @ 06:41:53.546 GMT] potatosol: !fudgemine wow
+[03-07-2024 @ 06:41:53.552 GMT] mangb0t2: potatosol planted a mine! There are now 2 mines planted!
+[03-07-2024 @ 06:41:53.559 GMT] mangb0t2: wow
+[03-07-2024 @ 06:41:53.571 GMT] mangb0t2: potatosol ran over a mine!wow!fudgemine wow
+[03-07-2024 @ 06:42:19.474 GMT] mangb0t2: potatosol planted a mine! There are now 2 mines planted!
+[03-07-2024 @ 06:42:19.470 GMT] potatosol: !fudgemine mabel
+[03-07-2024 @ 06:42:19.484 GMT] mangb0t2: mabel
+[03-07-2024 @ 06:42:19.497 GMT] mangb0t2: potatosol ran over a mine!mabel!fudgemine mabel
+[03-07-2024 @ 06:43:29.478 GMT] mangb0t2: potatosol planted a mine! There are now 2 mines planted!
+[03-07-2024 @ 06:43:29.472 GMT] potatosol: !fudgemine mabel 󠀀
+[03-07-2024 @ 06:43:32.420 GMT] potatosol: mabel
+[03-07-2024 @ 06:43:32.432 GMT] mangb0t2: mabel
+[03-07-2024 @ 06:43:32.443 GMT] mangb0t2: potatosol ran over a mine!mabelmabel
+[03-07-2024 @ 06:43:39.256 GMT] mangb0t2: potatosol planted a mine! There are now 2 mines planted!
+[03-07-2024 @ 06:43:39.252 GMT] potatosol: !fudgemine dog
+[03-07-2024 @ 06:43:41.741 GMT] mangb0t2: potatosol planted a mine! There are now 3 mines planted!
+[03-07-2024 @ 06:43:41.738 GMT] potatosol: !fudgemine asdlkm
+[03-07-2024 @ 06:43:46.598 GMT] mangb0t2: potatosol planted a mine! There are now 4 mines planted!
+[03-07-2024 @ 06:43:46.594 GMT] potatosol: !fudgemine cat
+[03-07-2024 @ 06:43:49.333 GMT] potatosol: catboy
+[03-07-2024 @ 06:43:49.345 GMT] mangb0t2: asdlkm
+[03-07-2024 @ 06:43:49.355 GMT] mangb0t2: cat
+[03-07-2024 @ 06:43:49.365 GMT] mangb0t2: potatosol ran over a mine!catcatboy
+[03-07-2024 @ 06:45:07.481 GMT] mangb0t2: potatosol planted a mine! There are now 4 mines planted!
+[03-07-2024 @ 06:45:07.475 GMT] potatosol: !fudgemine mangoBB
+[03-07-2024 @ 06:45:11.210 GMT] potatosol: mangoBB
+[03-07-2024 @ 06:45:11.223 GMT] mangb0t2: potatosol ran over a mine!
+[03-07-2024 @ 06:46:36.794 GMT] mangb0t2: potatosol has launched a nuke!
+[03-07-2024 @ 06:46:36.790 GMT] potatosol: !fudgenuke 󠀀
+[03-07-2024 @ 06:46:36.804 GMT] mangb0t2: The nuke hit undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, and undefined
+[03-07-2024 @ 06:47:25.702 GMT] mangb0t2: potatosol challenges venmoapp to a duel...potatosol shoots first!
+[03-07-2024 @ 06:47:25.700 GMT] potatosol: !fudgeduel venmoapp
+[03-07-2024 @ 06:47:27.464 GMT] mangb0t2: potatosol challenges venmoapp to a duel...potatosol shoots first!
+[03-07-2024 @ 06:47:27.462 GMT] potatosol: !fudgeduel venmoapp 󠀀
+[03-07-2024 @ 06:47:28.642 GMT] mangb0t2: potatosol challenges venmoapp to a duel...potatosol shoots first!
+[03-07-2024 @ 06:47:28.640 GMT] potatosol: !fudgeduel venmoapp
+[03-07-2024 @ 06:47:29.508 GMT] potatosol: !fudgeduel venmoapp 󠀀
+[03-07-2024 @ 06:47:29.510 GMT] mangb0t2: potatosol challenges venmoapp to a duel...potatosol shoots first!
+[03-07-2024 @ 06:47:30.310 GMT] mangb0t2: potatosol challenges venmoapp to a duel...potatosol shoots first!
+[03-07-2024 @ 06:47:30.308 GMT] potatosol: !fudgeduel venmoapp
+[03-07-2024 @ 06:48:51.344 GMT] potatosol: !fudgeduel venmoapp 󠀀
+[03-07-2024 @ 06:48:51.348 GMT] mangb0t2: potatosol challenges venmoapp to a duel...potatosol shoots first!
+[03-07-2024 @ 06:48:54.776 GMT] mangb0t2: potatosol challenges venmoapp to a duel...potatosol shoots first!
+[03-07-2024 @ 06:48:54.774 GMT] potatosol: !fudgeduel venmoapp
+[03-07-2024 @ 06:49:02.206 GMT] mangb0t2: potatosol challenges venmoapp to a duel...potatosol shoots first!
+[03-07-2024 @ 06:49:02.204 GMT] potatosol: !fudgeduel venmoapp 󠀀
+[03-07-2024 @ 06:49:28.934 GMT] potatosol: !fudgeduel venmoapp
+[03-07-2024 @ 06:49:28.938 GMT] mangb0t2: potatosol challenges venmoapp to a duel...venmoapp shoots first!
+[03-07-2024 @ 06:49:31.460 GMT] mangb0t2: potatosol challenges venmoapp to a duel...potatosol shoots first!
+[03-07-2024 @ 06:49:31.458 GMT] potatosol: !fudgeduel venmoapp 󠀀
+[03-07-2024 @ 06:49:33.144 GMT] mangb0t2: potatosol challenges venmoapp to a duel...potatosol shoots first!
+[03-07-2024 @ 06:49:33.143 GMT] potatosol: !fudgeduel venmoapp
+[03-07-2024 @ 06:49:34.802 GMT] potatosol: !fudgeduel venmoapp 󠀀
+[03-07-2024 @ 06:49:34.804 GMT] mangb0t2: potatosol challenges venmoapp to a duel...venmoapp shoots first!
+[03-07-2024 @ 06:49:45.184 GMT] potatosol: !fudgekamikaze venmoapp
+[03-07-2024 @ 06:49:45.186 GMT] mangb0t2: potatosol goes out in a blaze of glory! venmoapp was blown up!
+[03-07-2024 @ 06:49:57.573 GMT] potatosol: !fudgenuke
+[03-07-2024 @ 06:49:57.575 GMT] mangb0t2: potatosol has launched a nuke!
+[03-07-2024 @ 06:49:57.587 GMT] mangb0t2: The nuke hit mangb0t2, potatosol, mangb0t2, potatosol, potatosol, potatosol, potatosol, potatosol, mangb0t2, potatosol, mangb0t2, potatosol, potatosol, mangb0t2, potatosol, mangb0t2, potatosol, potatosol, mangb0t2, potatosol, mangb0t2, mangb0t2, mangb0t2, potatosol, and potatosol
+[03-07-2024 @ 06:50:13.052 GMT] potatosol: !fudgenade
+[03-07-2024 @ 06:50:34.916 GMT] potatosol: !fudgenade 󠀀
+[03-07-2024 @ 06:55:10.827 GMT] potatosol: !fudgenade
+[03-07-2024 @ 06:55:38.938 GMT] potatosol: !fudgenade 󠀀
+[03-07-2024 @ 06:55:38.947 GMT] mangb0t2: potatosol pulls the pin on a grenade...and throws!undefined was blown up! 
+[03-07-2024 @ 06:56:22.172 GMT] potatosol: !fudgenade
+[03-07-2024 @ 06:56:22.174 GMT] mangb0t2: potatosol pulls the pin on a grenade...and throws! mangb0t2, and potatosol were shielded from the grenade!
+[03-07-2024 @ 06:56:34.364 GMT] mangb0t2: potatosol pulls the pin on a grenade...and throws! mangb0t2, and potatosol were shielded from the grenade!
+[03-07-2024 @ 06:56:34.362 GMT] potatosol: !fudgenade 󠀀
+[03-07-2024 @ 06:57:02.847 GMT] mangb0t2: potatosol pulls the pin on a grenade...and forgets to throw!
+[03-07-2024 @ 06:57:02.844 GMT] potatosol: !fudgenade

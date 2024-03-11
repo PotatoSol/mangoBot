@@ -1,0 +1,101 @@
+[03-08-2024 @ 01:44:52.907 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:266] CHAT (oauth) does not have chat:edit. Bot may be unable to respond
+[03-08-2024 @ 01:44:52.908 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as potatosol. Some features may not work
+[03-08-2024 @ 01:44:53.628 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:266] CHAT (oauth) does not have chat:edit. Bot may be unable to respond
+[03-08-2024 @ 01:44:53.628 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as potatosol. Some features may not work
+[03-08-2024 @ 01:44:53.629 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-08-2024 @ 01:44:53.630 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-08-2024 @ 01:44:53.630 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-08-2024 @ 01:44:53.632 GMT] [initChat()@PhantomBot.java:438] Will check again in 5 seconds
+[03-08-2024 @ 01:44:59.031 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:266] CHAT (oauth) does not have chat:edit. Bot may be unable to respond
+[03-08-2024 @ 01:44:59.032 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as potatosol. Some features may not work
+[03-08-2024 @ 01:44:59.032 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-08-2024 @ 01:44:59.033 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-08-2024 @ 01:44:59.033 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-08-2024 @ 01:44:59.034 GMT] [initChat()@PhantomBot.java:438] Will check again in 10 seconds
+[03-08-2024 @ 01:52:52.335 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:266] CHAT (oauth) does not have chat:edit. Bot may be unable to respond
+[03-08-2024 @ 01:52:52.336 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as potatosol. Some features may not work
+[03-08-2024 @ 01:52:53.054 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:266] CHAT (oauth) does not have chat:edit. Bot may be unable to respond
+[03-08-2024 @ 01:52:53.054 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as potatosol. Some features may not work
+[03-08-2024 @ 01:52:53.055 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-08-2024 @ 01:52:53.056 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-08-2024 @ 01:52:53.056 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-08-2024 @ 01:52:53.059 GMT] [initChat()@PhantomBot.java:438] Will check again in 5 seconds
+[03-08-2024 @ 01:52:58.433 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:266] CHAT (oauth) does not have chat:edit. Bot may be unable to respond
+[03-08-2024 @ 01:52:58.434 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as potatosol. Some features may not work
+[03-08-2024 @ 01:52:58.435 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-08-2024 @ 01:52:58.435 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-08-2024 @ 01:52:58.435 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-08-2024 @ 01:52:58.436 GMT] [initChat()@PhantomBot.java:438] Will check again in 10 seconds
+[03-08-2024 @ 01:53:08.811 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:266] CHAT (oauth) does not have chat:edit. Bot may be unable to respond
+[03-08-2024 @ 01:53:08.812 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as potatosol. Some features may not work
+[03-08-2024 @ 01:53:08.814 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-08-2024 @ 01:53:08.814 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-08-2024 @ 01:53:08.814 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-08-2024 @ 01:53:08.815 GMT] [initChat()@PhantomBot.java:438] Will check again in 20 seconds
+[03-08-2024 @ 01:53:29.178 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:266] CHAT (oauth) does not have chat:edit. Bot may be unable to respond
+[03-08-2024 @ 01:53:29.179 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as potatosol. Some features may not work
+[03-08-2024 @ 01:53:29.179 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-08-2024 @ 01:53:29.180 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-08-2024 @ 01:53:29.180 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-08-2024 @ 01:53:29.181 GMT] [initChat()@PhantomBot.java:438] Will check again in 40 seconds
+[03-08-2024 @ 01:54:09.569 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:266] CHAT (oauth) does not have chat:edit. Bot may be unable to respond
+[03-08-2024 @ 01:54:09.569 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as potatosol. Some features may not work
+[03-08-2024 @ 01:54:09.569 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-08-2024 @ 01:54:09.570 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-08-2024 @ 01:54:09.570 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-08-2024 @ 01:54:09.571 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-08-2024 @ 01:54:29.041 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:266] CHAT (oauth) does not have chat:edit. Bot may be unable to respond
+[03-08-2024 @ 01:54:29.041 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as potatosol. Some features may not work
+[03-08-2024 @ 01:54:29.900 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:266] CHAT (oauth) does not have chat:edit. Bot may be unable to respond
+[03-08-2024 @ 01:54:29.900 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as potatosol. Some features may not work
+[03-08-2024 @ 01:54:29.901 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-08-2024 @ 01:54:29.901 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-08-2024 @ 01:54:29.902 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-08-2024 @ 01:54:29.904 GMT] [initChat()@PhantomBot.java:438] Will check again in 5 seconds
+[03-08-2024 @ 01:54:35.409 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:266] CHAT (oauth) does not have chat:edit. Bot may be unable to respond
+[03-08-2024 @ 01:54:35.410 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as potatosol. Some features may not work
+[03-08-2024 @ 01:54:35.410 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-08-2024 @ 01:54:35.411 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-08-2024 @ 01:54:35.411 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-08-2024 @ 01:54:35.412 GMT] [initChat()@PhantomBot.java:438] Will check again in 10 seconds
+[03-08-2024 @ 01:54:45.925 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:266] CHAT (oauth) does not have chat:edit. Bot may be unable to respond
+[03-08-2024 @ 01:54:45.926 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as potatosol. Some features may not work
+[03-08-2024 @ 01:54:45.927 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-08-2024 @ 01:54:45.927 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-08-2024 @ 01:54:45.927 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-08-2024 @ 01:54:45.928 GMT] [initChat()@PhantomBot.java:438] Will check again in 20 seconds
+[03-08-2024 @ 01:55:11.907 GMT] [initChat()@PhantomBot.java:409] Detected new installation, starting setup process...
+[03-08-2024 @ 01:55:11.945 GMT] [initChat()@PhantomBot.java:425] Will check again in 5 seconds
+[03-08-2024 @ 01:55:16.947 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-08-2024 @ 01:55:16.948 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-08-2024 @ 01:55:16.948 GMT] [initChat()@PhantomBot.java:425] Will check again in 10 seconds
+[03-08-2024 @ 01:55:26.958 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-08-2024 @ 01:55:26.959 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-08-2024 @ 01:55:26.959 GMT] [initChat()@PhantomBot.java:425] Will check again in 20 seconds
+[03-08-2024 @ 01:55:46.966 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-08-2024 @ 01:55:46.966 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-08-2024 @ 01:55:46.967 GMT] [initChat()@PhantomBot.java:425] Will check again in 40 seconds
+[03-08-2024 @ 01:56:26.981 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-08-2024 @ 01:56:26.981 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-08-2024 @ 01:56:26.982 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-08-2024 @ 01:56:26.982 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-08-2024 @ 01:57:26.987 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-08-2024 @ 01:57:26.987 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-08-2024 @ 01:57:26.988 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-08-2024 @ 01:57:26.989 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-08-2024 @ 01:58:26.998 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-08-2024 @ 01:58:26.999 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-08-2024 @ 01:58:26.999 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-08-2024 @ 01:58:27.000 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-08-2024 @ 01:59:03.405 GMT] [handleRequest()@Helix.java:316] Helix rejected a request [/users?login=&login=potatosol] 400 Bad Request: Invalid username(s), email(s), or ID(s). Bad Identifiers.
+[03-08-2024 @ 01:59:27.015 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-08-2024 @ 01:59:27.017 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-08-2024 @ 01:59:27.018 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-08-2024 @ 01:59:27.019 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-08-2024 @ 02:01:26.598 GMT] [handleRequest()@Helix.java:316] Helix rejected a request [/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289] 400 Bad Request: The user specified in the user_id field may not be banned/timed out.
+[03-08-2024 @ 02:45:41.947 GMT] [handleRequest()@Helix.java:316] Helix rejected a request [/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289] 400 Bad Request: The user specified in the user_id field may not be banned/timed out.
+[03-08-2024 @ 03:49:03.416 GMT] [onClose()@TwitchMessageInterface.java:399] Connection to TMI closed [0, channel closed]
+[03-08-2024 @ 03:49:03.674 GMT] [reconnect()@TwitchSession.java:162] Delaying next reconnect 1 seconds...
+[03-08-2024 @ 04:20:48.060 GMT] [onClose()@TwitchMessageInterface.java:399] Connection to TMI closed [0, channel closed]
+[03-08-2024 @ 04:20:48.321 GMT] [reconnect()@TwitchSession.java:162] Delaying next reconnect 1 seconds...
+[03-08-2024 @ 07:34:34.061 GMT] [handleRequest()@Helix.java:316] Helix rejected a request [/whispers?from_user_id=1042485289&to_user_id=37155370] 401 Unauthorized: the sender does not have a verified phone number

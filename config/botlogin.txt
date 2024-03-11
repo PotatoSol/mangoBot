@@ -1,0 +1,31 @@
+#PhantomBot Configuration File
+#
+#                     +---------+
+#                     | WARNING |
+#                     +---------+
+#       DO NOT MODIFY WHILE THE BOT IS RUNNING!
+# CHANGES MADE WHILE THE BOT IS RUNNING WILL BE LOST!
+#
+#Fri Mar 08 02:34:34 EST 2024
+apiexpires=1709898047304
+apioauth=oauth\:mdeqq1vxewe2t3oj23z48njwe2ie70
+apirefresh=nesrssqkbfg6acd4roncusx257rlllvp2g2uriipp8n7otfrsb
+baseport=25000
+channel=potatosol
+clientid=rh43do53sgmkd1c23uwtg5v8frau6n
+clientsecret=o03e67wbpltah25ieff5pns949amr8
+musicenable=true
+newsetup=false
+oauth=oauth\:zqildoc1uinbv66nk7sj4tzcnqnc70
+oauthexpires=1709893533875
+owner=potatosol
+panelpassword=pass
+refresh=gvfqhxwwtblolcpocx6veql7wr76csnztx8yfx49ck9uv2xn6n
+rollbarid=664f0f6d-64fd-4478-a347-78ff1544680c
+usehttps=true
+userollbar=true
+webauth=3qzOOZv3iXH2y4teILVu3RhrKwVqZr
+webauthro=9GwJwIlsfw8McDWDOamiKw5qkTAjkM
+webenable=true
+ytauth=QiiTIFqjFtwQwd5hdhQjkTPUXWC9UV
+ytauthro=8bu45cn7LlNMcrzZjjQY0Qlf43gwUZ

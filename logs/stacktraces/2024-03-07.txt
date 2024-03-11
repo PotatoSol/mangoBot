@@ -1,0 +1,6 @@
+[2024-03-07] java.lang.NullPointerException: Cannot invoke "com.gmt2001.datastore2.Datastore2.dslContext()" because the return value of "com.gmt2001.datastore2.Datastore2.instance()" is null
+	at com.gmt2001.datastore.DataStore.dsl(DataStore.java:120)
+	at com.gmt2001.datastore.DataStore.GetFileList(DataStore.java:131)
+	at tv.phantombot.PhantomBot.<init>(PhantomBot.java:345)
+	at tv.phantombot.PhantomBot.main(PhantomBot.java:1188)
+

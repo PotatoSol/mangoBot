@@ -1,0 +1,340 @@
+[03-08-2024 @ 01:44:51.823 GMT] [refreshBotOAuth()@TwitchAuthorizationCodeFlow.java:130] Failed to refresh Chat (Bot) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:44:51.969 GMT] [refreshAPIOAuth()@TwitchAuthorizationCodeFlow.java:161] Failed to refresh API (Caster) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:44:53.483 GMT] [refreshBotOAuth()@TwitchAuthorizationCodeFlow.java:130] Failed to refresh Chat (Bot) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:44:53.627 GMT] [refreshAPIOAuth()@TwitchAuthorizationCodeFlow.java:161] Failed to refresh API (Caster) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:44:58.889 GMT] [refreshBotOAuth()@TwitchAuthorizationCodeFlow.java:130] Failed to refresh Chat (Bot) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:44:59.030 GMT] [refreshAPIOAuth()@TwitchAuthorizationCodeFlow.java:161] Failed to refresh API (Caster) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:52:51.136 GMT] [refreshBotOAuth()@TwitchAuthorizationCodeFlow.java:130] Failed to refresh Chat (Bot) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:52:51.284 GMT] [refreshAPIOAuth()@TwitchAuthorizationCodeFlow.java:161] Failed to refresh API (Caster) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:52:52.912 GMT] [refreshAPIOAuth()@TwitchAuthorizationCodeFlow.java:161] Failed to refresh API (Caster) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:52:53.053 GMT] [refreshBotOAuth()@TwitchAuthorizationCodeFlow.java:130] Failed to refresh Chat (Bot) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:52:58.293 GMT] [refreshBotOAuth()@TwitchAuthorizationCodeFlow.java:130] Failed to refresh Chat (Bot) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:52:58.433 GMT] [refreshAPIOAuth()@TwitchAuthorizationCodeFlow.java:161] Failed to refresh API (Caster) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:53:08.664 GMT] [refreshAPIOAuth()@TwitchAuthorizationCodeFlow.java:161] Failed to refresh API (Caster) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:53:08.810 GMT] [refreshBotOAuth()@TwitchAuthorizationCodeFlow.java:130] Failed to refresh Chat (Bot) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:53:29.037 GMT] [refreshBotOAuth()@TwitchAuthorizationCodeFlow.java:130] Failed to refresh Chat (Bot) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:53:29.177 GMT] [refreshAPIOAuth()@TwitchAuthorizationCodeFlow.java:161] Failed to refresh API (Caster) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:54:09.423 GMT] [refreshAPIOAuth()@TwitchAuthorizationCodeFlow.java:161] Failed to refresh API (Caster) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:54:09.568 GMT] [refreshBotOAuth()@TwitchAuthorizationCodeFlow.java:130] Failed to refresh Chat (Bot) OAuth, Token or Refresh was missing: {"message":"invalid client secret","status":403}
+[03-08-2024 @ 01:54:27.833 GMT] [refreshBotOAuth()@TwitchAuthorizationCodeFlow.java:130] Failed to refresh Chat (Bot) OAuth, Token or Refresh was missing: {"message":"Invalid refresh token","status":400}
+[03-08-2024 @ 01:54:28.057 GMT] [refreshAPIOAuth()@TwitchAuthorizationCodeFlow.java:161] Failed to refresh API (Caster) OAuth, Token or Refresh was missing: {"message":"Invalid refresh token","status":400}
+[03-08-2024 @ 01:54:29.685 GMT] [refreshBotOAuth()@TwitchAuthorizationCodeFlow.java:130] Failed to refresh Chat (Bot) OAuth, Token or Refresh was missing: {"message":"Invalid refresh token","status":400}
+[03-08-2024 @ 01:54:29.899 GMT] [refreshAPIOAuth()@TwitchAuthorizationCodeFlow.java:161] Failed to refresh API (Caster) OAuth, Token or Refresh was missing: {"message":"Invalid refresh token","status":400}
+[03-08-2024 @ 01:54:35.201 GMT] [refreshBotOAuth()@TwitchAuthorizationCodeFlow.java:130] Failed to refresh Chat (Bot) OAuth, Token or Refresh was missing: {"message":"Invalid refresh token","status":400}
+[03-08-2024 @ 01:54:35.408 GMT] [refreshAPIOAuth()@TwitchAuthorizationCodeFlow.java:161] Failed to refresh API (Caster) OAuth, Token or Refresh was missing: {"message":"Invalid refresh token","status":400}
+[03-08-2024 @ 01:54:45.708 GMT] [refreshBotOAuth()@TwitchAuthorizationCodeFlow.java:130] Failed to refresh Chat (Bot) OAuth, Token or Refresh was missing: {"message":"Invalid refresh token","status":400}
+[03-08-2024 @ 01:54:45.924 GMT] [refreshAPIOAuth()@TwitchAuthorizationCodeFlow.java:161] Failed to refresh API (Caster) OAuth, Token or Refresh was missing: {"message":"Invalid refresh token","status":400}
+[03-08-2024 @ 01:58:27.068 GMT] [run()@TwitchValidate.java:346] Attempt to validate API (apioauth) OAUTH token failed.
+[03-08-2024 @ 02:00:37.329 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 02:01:26.599 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You ran over a mine! hello\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-08-2024 @ 02:45:41.947 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You ran over a mine! test\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-08-2024 @ 03:00:38.060 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 03:48:41.697 GMT] [handleRequest()@Helix.java:228] java.util.concurrent.TimeoutException: null
+[03-08-2024 @ 03:48:41.708 GMT] [handleRequest()@Helix.java:228]
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at com.gmt2001.httpclient.HttpClient.request(HttpClient.java:113)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:276)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:225)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:355)
+	at tv.phantombot.twitch.api.Helix.lambda$getChattersAsync$49(Helix.java:3081)
+	at tv.phantombot.twitch.api.Helix.lambda$handleQueryAsync$3(Helix.java:362)
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:58)
+	at reactor.core.publisher.MonoCacheTime.subscribeOrReturn(MonoCacheTime.java:143)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4480)
+	at reactor.core.publisher.Mono.block(Mono.java:1711)
+	at com.gmt2001.twitch.cache.ViewerCache.lambda$getChatters$5(ViewerCache.java:188)
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:58)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4495)
+	at reactor.core.publisher.Mono.subscribeWith(Mono.java:4561)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4323)
+	at com.gmt2001.twitch.cache.ViewerCache.getChatters(ViewerCache.java:249)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+[03-08-2024 @ 03:48:41.709 GMT] [lambda$getChatters$12()@ViewerCache.java:248] java.lang.RuntimeException: {"_success":false,"_post":"","_exception":"TimeoutException","_type":"GET","_url":"/chat/chatters?broadcaster_id=37155370&moderator_id=37155370&first=1000","_http":0,"error":"Exception"}
+[03-08-2024 @ 03:48:41.710 GMT] [lambda$getChatters$12()@ViewerCache.java:248]
+java.lang.RuntimeException: {"_success":false,"_post":"","_exception":"TimeoutException","_type":"GET","_url":"/chat/chatters?broadcaster_id=37155370&moderator_id=37155370&first=1000","_http":0,"error":"Exception"}
+	at com.gmt2001.twitch.cache.ViewerCache.lambda$getChatters$5(ViewerCache.java:213)
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:58)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4495)
+	at reactor.core.publisher.Mono.subscribeWith(Mono.java:4561)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4323)
+	at com.gmt2001.twitch.cache.ViewerCache.getChatters(ViewerCache.java:249)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+[03-08-2024 @ 03:48:42.828 GMT] [handleRequest()@Helix.java:228] java.util.concurrent.TimeoutException: null
+[03-08-2024 @ 03:48:42.828 GMT] [handleRequest()@Helix.java:228] java.util.concurrent.TimeoutException: null
+[03-08-2024 @ 03:48:42.829 GMT] [handleRequest()@Helix.java:228]
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at com.gmt2001.httpclient.HttpClient.request(HttpClient.java:113)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:276)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:225)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:355)
+	at tv.phantombot.twitch.api.Helix.lambda$getStreamsAsync$11(Helix.java:724)
+	at tv.phantombot.twitch.api.Helix.lambda$handleQueryAsync$3(Helix.java:362)
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:58)
+	at reactor.core.publisher.MonoCacheTime.subscribeOrReturn(MonoCacheTime.java:143)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4480)
+	at reactor.core.publisher.Mono.subscribeWith(Mono.java:4561)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4323)
+	at tv.phantombot.cache.TwitchCache.updateCache(TwitchCache.java:303)
+	at tv.phantombot.cache.TwitchCache.lambda$startup$0(TwitchCache.java:143)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+[03-08-2024 @ 03:48:42.830 GMT] [handleRequest()@Helix.java:228]
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at com.gmt2001.httpclient.HttpClient.request(HttpClient.java:113)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:276)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:225)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:355)
+	at tv.phantombot.twitch.api.Helix.lambda$getClipsAsync$20(Helix.java:1234)
+	at tv.phantombot.twitch.api.Helix.lambda$handleQueryAsync$3(Helix.java:362)
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:58)
+	at reactor.core.publisher.MonoCacheTime.subscribeOrReturn(MonoCacheTime.java:143)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4480)
+	at reactor.core.publisher.Mono.subscribeWith(Mono.java:4561)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4323)
+	at tv.phantombot.cache.TwitchCache.updateClips(TwitchCache.java:229)
+	at tv.phantombot.cache.TwitchCache.lambda$startup$1(TwitchCache.java:152)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+[03-08-2024 @ 03:48:45.920 GMT] [handleRequest()@Helix.java:228] java.util.concurrent.ExecutionException: java.net.UnknownHostException: api.twitch.tv
+[03-08-2024 @ 03:48:45.920 GMT] [handleRequest()@Helix.java:228] java.util.concurrent.ExecutionException: java.net.UnknownHostException: api.twitch.tv
+[03-08-2024 @ 03:48:45.936 GMT] [handleRequest()@Helix.java:228]
+[03-08-2024 @ 03:48:45.936 GMT] [handleRequest()@Helix.java:228]
+java.util.concurrent.ExecutionException: java.net.UnknownHostException: api.twitch.tv
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at com.gmt2001.httpclient.HttpClient.request(HttpClient.java:113)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:276)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:225)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:355)
+	at tv.phantombot.twitch.api.Helix.lambda$getUsersAsync$12(Helix.java:775)
+	at tv.phantombot.twitch.api.Helix.lambda$handleQueryAsync$3(Helix.java:362)
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:58)
+	at reactor.core.publisher.MonoCacheTime.subscribeOrReturn(MonoCacheTime.java:143)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4480)
+	at reactor.core.publisher.Mono.subscribeWith(Mono.java:4561)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4323)
+	at tv.phantombot.cache.TwitchCache.updateCache(TwitchCache.java:343)
+	at tv.phantombot.cache.TwitchCache.lambda$startup$0(TwitchCache.java:143)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.net.UnknownHostException: api.twitch.tv
+	at java.base/java.net.InetAddress$CachedAddresses.get(Unknown Source)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(Unknown Source)
+	at java.base/java.net.InetAddress.getAllByName0(Unknown Source)
+	at java.base/java.net.InetAddress.getAllByName(Unknown Source)
+	at java.base/java.net.InetAddress.getAllByName(Unknown Source)
+	at io.netty.util.internal.SocketUtils$9.run(SocketUtils.java:169)
+	at io.netty.util.internal.SocketUtils$9.run(SocketUtils.java:166)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at io.netty.util.internal.SocketUtils.allAddressesByName(SocketUtils.java:166)
+	at io.netty.resolver.DefaultNameResolver.doResolveAll(DefaultNameResolver.java:50)
+	at io.netty.resolver.SimpleNameResolver.resolveAll(SimpleNameResolver.java:79)
+	at io.netty.resolver.SimpleNameResolver.resolveAll(SimpleNameResolver.java:71)
+	at com.gmt2001.dns.CompositeInetNameResolver.doResolveAllRec(CompositeInetNameResolver.java:210)
+	at com.gmt2001.dns.CompositeInetNameResolver.lambda$doResolveAllRec$3(CompositeInetNameResolver.java:230)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.onNext(FluxPeek.java:185)
+	at reactor.core.publisher.MonoDelay$MonoDelayRunnable.propagateDelay(MonoDelay.java:271)
+	at reactor.core.publisher.MonoDelay$MonoDelayRunnable.run(MonoDelay.java:286)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:68)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:28)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	... 4 more
+java.util.concurrent.ExecutionException: java.net.UnknownHostException: api.twitch.tv
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at com.gmt2001.httpclient.HttpClient.request(HttpClient.java:113)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:276)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:225)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:355)
+	at tv.phantombot.twitch.api.Helix.lambda$getChannelFollowersAsync$48(Helix.java:3053)
+	at tv.phantombot.twitch.api.Helix.lambda$handleQueryAsync$3(Helix.java:362)
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:58)
+	at reactor.core.publisher.MonoCacheTime.subscribeOrReturn(MonoCacheTime.java:143)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4480)
+	at reactor.core.publisher.Mono.subscribeWith(Mono.java:4561)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4323)
+	at tv.phantombot.cache.FollowersCache.updateCache(FollowersCache.java:151)
+	at tv.phantombot.cache.FollowersCache.lambda$new$1(FollowersCache.java:73)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.net.UnknownHostException: api.twitch.tv
+	at java.base/java.net.InetAddress$CachedAddresses.get(Unknown Source)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(Unknown Source)
+	at java.base/java.net.InetAddress.getAllByName0(Unknown Source)
+	at java.base/java.net.InetAddress.getAllByName(Unknown Source)
+	at java.base/java.net.InetAddress.getAllByName(Unknown Source)
+	at io.netty.util.internal.SocketUtils$9.run(SocketUtils.java:169)
+	at io.netty.util.internal.SocketUtils$9.run(SocketUtils.java:166)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at io.netty.util.internal.SocketUtils.allAddressesByName(SocketUtils.java:166)
+	at io.netty.resolver.DefaultNameResolver.doResolveAll(DefaultNameResolver.java:50)
+	at io.netty.resolver.SimpleNameResolver.resolveAll(SimpleNameResolver.java:79)
+	at io.netty.resolver.SimpleNameResolver.resolveAll(SimpleNameResolver.java:71)
+	at com.gmt2001.dns.CompositeInetNameResolver.doResolveAllRec(CompositeInetNameResolver.java:210)
+	at com.gmt2001.dns.CompositeInetNameResolver.lambda$doResolveAllRec$3(CompositeInetNameResolver.java:230)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.onNext(FluxPeek.java:185)
+	at reactor.core.publisher.MonoDelay$MonoDelayRunnable.propagateDelay(MonoDelay.java:271)
+	at reactor.core.publisher.MonoDelay$MonoDelayRunnable.run(MonoDelay.java:286)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:68)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:28)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	... 4 more
+[03-08-2024 @ 03:48:49.794 GMT] [handleRequest()@Helix.java:228] java.util.concurrent.ExecutionException: java.net.UnknownHostException: api.twitch.tv
+[03-08-2024 @ 03:48:49.796 GMT] [handleRequest()@Helix.java:228]
+java.util.concurrent.ExecutionException: java.net.UnknownHostException: api.twitch.tv
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at com.gmt2001.httpclient.HttpClient.request(HttpClient.java:113)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:276)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:225)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:355)
+	at tv.phantombot.twitch.api.Helix.lambda$getChannelTeamsAsync$18(Helix.java:1052)
+	at tv.phantombot.twitch.api.Helix.lambda$handleQueryAsync$3(Helix.java:362)
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:58)
+	at reactor.core.publisher.MonoCacheTime.subscribeOrReturn(MonoCacheTime.java:143)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4480)
+	at reactor.core.publisher.Mono.block(Mono.java:1711)
+	at com.gmt2001.TwitchAPIv5.getChannelTeams(TwitchAPIv5.java:1078)
+	at tv.phantombot.cache.TwitchTeamsCache.updateCache(TwitchTeamsCache.java:91)
+	at tv.phantombot.cache.TwitchTeamsCache.run(TwitchTeamsCache.java:74)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.net.UnknownHostException: api.twitch.tv
+	at java.base/java.net.InetAddress$CachedAddresses.get(Unknown Source)
+	at java.base/java.net.InetAddress.getAllByName0(Unknown Source)
+	at java.base/java.net.InetAddress.getAllByName(Unknown Source)
+	at java.base/java.net.InetAddress.getAllByName(Unknown Source)
+	at io.netty.util.internal.SocketUtils$9.run(SocketUtils.java:169)
+	at io.netty.util.internal.SocketUtils$9.run(SocketUtils.java:166)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at io.netty.util.internal.SocketUtils.allAddressesByName(SocketUtils.java:166)
+	at io.netty.resolver.DefaultNameResolver.doResolveAll(DefaultNameResolver.java:50)
+	at io.netty.resolver.SimpleNameResolver.resolveAll(SimpleNameResolver.java:79)
+	at io.netty.resolver.SimpleNameResolver.resolveAll(SimpleNameResolver.java:71)
+	at com.gmt2001.dns.CompositeInetNameResolver.doResolveAllRec(CompositeInetNameResolver.java:210)
+	at com.gmt2001.dns.CompositeInetNameResolver.lambda$doResolveAllRec$3(CompositeInetNameResolver.java:230)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.onNext(FluxPeek.java:185)
+	at reactor.core.publisher.MonoDelay$MonoDelayRunnable.propagateDelay(MonoDelay.java:271)
+	at reactor.core.publisher.MonoDelay$MonoDelayRunnable.run(MonoDelay.java:286)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:68)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:28)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	... 1 more
+[03-08-2024 @ 03:48:52.942 GMT] [handleRequest()@Helix.java:228] java.util.concurrent.ExecutionException: java.net.UnknownHostException: api.twitch.tv
+[03-08-2024 @ 03:48:52.943 GMT] [handleRequest()@Helix.java:228]
+java.util.concurrent.ExecutionException: java.net.UnknownHostException: api.twitch.tv
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at com.gmt2001.httpclient.HttpClient.request(HttpClient.java:113)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:276)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:225)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:355)
+	at tv.phantombot.twitch.api.Helix.lambda$getUsersAsync$12(Helix.java:775)
+	at tv.phantombot.twitch.api.Helix.lambda$handleQueryAsync$3(Helix.java:362)
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:58)
+	at reactor.core.publisher.MonoCacheTime.subscribeOrReturn(MonoCacheTime.java:143)
+	at reactor.core.publisher.InternalMonoOperator.subscribe(InternalMonoOperator.java:57)
+	at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.subscribeNext(MonoIgnoreThen.java:240)
+	at reactor.core.publisher.MonoIgnoreThen$ThenIgnoreMain.onComplete(MonoIgnoreThen.java:203)
+	at reactor.core.publisher.MonoDelay$MonoDelayRunnable.propagateDelay(MonoDelay.java:272)
+	at reactor.core.publisher.MonoDelay$MonoDelayRunnable.run(MonoDelay.java:286)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:68)
+	at reactor.core.scheduler.SchedulerTask.call(SchedulerTask.java:28)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.net.UnknownHostException: api.twitch.tv
+	at java.base/java.net.InetAddress$CachedAddresses.get(Unknown Source)
+	at java.base/java.net.InetAddress.getAllByName0(Unknown Source)
+	at java.base/java.net.InetAddress.getAllByName(Unknown Source)
+	at java.base/java.net.InetAddress.getAllByName(Unknown Source)
+	at io.netty.util.internal.SocketUtils$9.run(SocketUtils.java:169)
+	at io.netty.util.internal.SocketUtils$9.run(SocketUtils.java:166)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at io.netty.util.internal.SocketUtils.allAddressesByName(SocketUtils.java:166)
+	at io.netty.resolver.DefaultNameResolver.doResolveAll(DefaultNameResolver.java:50)
+	at io.netty.resolver.SimpleNameResolver.resolveAll(SimpleNameResolver.java:79)
+	at io.netty.resolver.SimpleNameResolver.resolveAll(SimpleNameResolver.java:71)
+	at com.gmt2001.dns.CompositeInetNameResolver.doResolveAllRec(CompositeInetNameResolver.java:210)
+	at com.gmt2001.dns.CompositeInetNameResolver.lambda$doResolveAllRec$3(CompositeInetNameResolver.java:230)
+	at reactor.core.publisher.FluxPeek$PeekSubscriber.onNext(FluxPeek.java:185)
+	at reactor.core.publisher.MonoDelay$MonoDelayRunnable.propagateDelay(MonoDelay.java:271)
+	... 8 more
+[03-08-2024 @ 04:00:38.735 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 04:01:06.835 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 04:01:43.572 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 04:02:51.005 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 04:03:23.303 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 04:06:12.206 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 06:13:39.513 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 06:14:44.221 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 06:19:18.693 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 06:22:14.553 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 06:23:03.512 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 06:23:45.347 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 06:24:17.123 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 06:24:47.524 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 06:25:49.379 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 06:26:34.985 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 06:27:15.517 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:05:11.214 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:06:18.768 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:15:38.400 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:23:46.997 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:24:39.875 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:27:01.804 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:29:35.273 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:30:50.944 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:33:12.029 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:34:27.335 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:34:34.407 GMT] [lambda$whisper$44()@TMISlashCommands.java:558] Failed to /w potatosol: {"_success":true,"_post":"{\"message\":\"What do you want the mine to be?\"}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Unauthorized","message":"the sender does not have a verified phone number","_url":"/whispers?from_user_id=1042485289&to_user_id=37155370","_http":401,"status":401}
+[03-08-2024 @ 07:38:25.146 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:39:13.208 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:39:57.146 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:41:42.026 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:42:20.910 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:43:13.024 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:43:49.526 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:45:56.524 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:46:27.548 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:51:00.693 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:53:27.453 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:54:11.001 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:54:55.930 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-08-2024 @ 07:56:46.511 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json

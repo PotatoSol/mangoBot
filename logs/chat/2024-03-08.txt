@@ -1,0 +1,203 @@
+[03-08-2024 @ 02:01:22.637 GMT] potatosol: !fudgemine hello
+[03-08-2024 @ 02:01:22.641 GMT] mangb0t2: potatosol planted a mine! There are now 4 mines planted!
+[03-08-2024 @ 02:01:26.474 GMT] potatosol: hello
+[03-08-2024 @ 02:01:26.486 GMT] mangb0t2: potatosol ran over a mine!
+[03-08-2024 @ 02:04:02.762 GMT] potatosol: !100
+[03-08-2024 @ 02:04:02.765 GMT] mangb0t2: Gio OMEGADOWN
+[03-08-2024 @ 02:04:09.886 GMT] potatosol: !0subs
+[03-08-2024 @ 02:04:12.697 GMT] potatosol: !10subs
+[03-08-2024 @ 02:04:12.699 GMT] mangb0t2: https://webmshare.com/play/Ox5Qb
+[03-08-2024 @ 02:45:40.832 GMT] potatosol: !fudgemine test
+[03-08-2024 @ 02:45:40.834 GMT] mangb0t2: potatosol planted a mine! There are now 4 mines planted!
+[03-08-2024 @ 02:45:41.813 GMT] potatosol: test
+[03-08-2024 @ 02:45:41.830 GMT] mangb0t2: potatosol ran over a mine!
+[03-08-2024 @ 04:02:01.755 GMT] potatosol: !displaymines
+[03-08-2024 @ 04:02:22.335 GMT] potatosol: !displaymines 󠀀
+[03-08-2024 @ 04:02:52.829 GMT] potatosol: !displaymines
+[03-08-2024 @ 04:03:39.024 GMT] potatosol: !displaymines 󠀀
+[03-08-2024 @ 04:03:39.028 GMT] mangb0t2: asdlkm
+[03-08-2024 @ 04:03:39.037 GMT] mangb0t2: dog
+[03-08-2024 @ 04:03:43.193 GMT] potatosol: asdlkm
+[03-08-2024 @ 04:03:47.346 GMT] potatosol: asdlkm 󠀀
+[03-08-2024 @ 04:03:48.339 GMT] potatosol: dog
+[03-08-2024 @ 04:03:54.409 GMT] mangb0t2: potatosol planted a mine! There are now 3 mines planted!
+[03-08-2024 @ 04:03:54.404 GMT] potatosol: !fudgemine dog
+[03-08-2024 @ 04:03:58.397 GMT] mangb0t2: asdlkm
+[03-08-2024 @ 04:03:58.395 GMT] potatosol: !displaymines
+[03-08-2024 @ 04:03:58.407 GMT] mangb0t2: dog
+[03-08-2024 @ 04:03:59.591 GMT] potatosol: dog
+[03-08-2024 @ 04:04:01.751 GMT] potatosol: dog 󠀀
+[03-08-2024 @ 04:04:09.492 GMT] potatosol: !resetmines
+[03-08-2024 @ 04:04:14.664 GMT] mangb0t2: asdlkm
+[03-08-2024 @ 04:04:14.662 GMT] potatosol: !displaymines
+[03-08-2024 @ 04:04:14.674 GMT] mangb0t2: dog
+[03-08-2024 @ 04:04:17.688 GMT] potatosol: !resetmine
+[03-08-2024 @ 04:04:20.710 GMT] potatosol: !resetmines
+[03-08-2024 @ 04:04:23.820 GMT] potatosol: !displaymines
+[03-08-2024 @ 04:04:23.821 GMT] mangb0t2: asdlkm
+[03-08-2024 @ 04:04:23.832 GMT] mangb0t2: dog
+[03-08-2024 @ 04:06:19.436 GMT] mangb0t2: potatosol planted a mine! There are now 4 mines planted!
+[03-08-2024 @ 04:06:19.430 GMT] potatosol: !fudgemine hello
+[03-08-2024 @ 04:06:22.588 GMT] mangb0t2: asdlkm
+[03-08-2024 @ 04:06:22.585 GMT] potatosol: !displaymines
+[03-08-2024 @ 04:06:22.597 GMT] mangb0t2: dog
+[03-08-2024 @ 04:06:22.608 GMT] mangb0t2: hello
+[03-08-2024 @ 04:06:26.480 GMT] potatosol: !resetmines
+[03-08-2024 @ 04:06:31.199 GMT] potatosol: !displaymines
+[03-08-2024 @ 04:06:35.202 GMT] mangb0t2: potatosol planted a mine! There are now 1 mines planted!
+[03-08-2024 @ 04:06:35.199 GMT] potatosol: !fudgemine hello
+[03-08-2024 @ 04:06:37.733 GMT] potatosol: !resetmines
+[03-08-2024 @ 06:13:51.594 GMT] potatosol: !hello
+[03-08-2024 @ 06:14:22.965 GMT] potatosol: !hello 󠀀
+[03-08-2024 @ 06:14:48.244 GMT] potatosol: !hello
+[03-08-2024 @ 06:14:51.935 GMT] potatosol: !hello 󠀀
+[03-08-2024 @ 06:14:53.455 GMT] potatosol: !hello
+[03-08-2024 @ 06:14:54.341 GMT] potatosol: !hello 󠀀
+[03-08-2024 @ 06:14:55.221 GMT] potatosol: !hello
+[03-08-2024 @ 06:14:56.019 GMT] potatosol: !hello 󠀀
+[03-08-2024 @ 06:14:56.850 GMT] potatosol: !hello
+[03-08-2024 @ 06:14:57.769 GMT] potatosol: !hello 󠀀
+[03-08-2024 @ 06:14:58.744 GMT] potatosol: !hello
+[03-08-2024 @ 06:15:02.682 GMT] potatosol: !hellotest
+[03-08-2024 @ 06:15:04.603 GMT] potatosol: !hello test
+[03-08-2024 @ 06:19:36.076 GMT] potatosol: !hello
+[03-08-2024 @ 06:22:25.517 GMT] potatosol: hello
+[03-08-2024 @ 06:22:26.330 GMT] potatosol: !hello
+[03-08-2024 @ 06:23:09.688 GMT] potatosol: test
+[03-08-2024 @ 06:23:12.705 GMT] potatosol: !hello
+[03-08-2024 @ 06:23:47.667 GMT] potatosol: test
+[03-08-2024 @ 06:23:48.721 GMT] potatosol: !hello
+[03-08-2024 @ 06:23:48.725 GMT] mangb0t2: [JavaPackage tv.phantombot.cache.ViewerCache.activeChatters]
+[03-08-2024 @ 06:24:19.641 GMT] potatosol: !hello 󠀀
+[03-08-2024 @ 06:24:21.915 GMT] potatosol: !hello
+[03-08-2024 @ 06:24:23.287 GMT] potatosol: !hello 󠀀
+[03-08-2024 @ 06:24:24.381 GMT] potatosol: !hello
+[03-08-2024 @ 06:24:25.047 GMT] potatosol: !hello 󠀀
+[03-08-2024 @ 06:24:26.150 GMT] potatosol: !hello
+[03-08-2024 @ 06:24:26.900 GMT] potatosol: !hello 󠀀
+[03-08-2024 @ 06:24:49.349 GMT] mangb0t2: object
+[03-08-2024 @ 06:24:49.345 GMT] potatosol: !hello
+[03-08-2024 @ 06:26:13.440 GMT] potatosol: !hello 󠀀
+[03-08-2024 @ 06:26:37.638 GMT] mangb0t2: [JavaPackage tv.phantombot.cache.ViewerCache.instance]
+[03-08-2024 @ 06:26:37.635 GMT] potatosol: !hello
+[03-08-2024 @ 06:43:52.746 GMT] mangb0t2: potatosol planted a mine! There are now 1 mines planted!
+[03-08-2024 @ 07:05:24.801 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:06:21.406 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:06:21.411 GMT] mangb0t2: potatosol planted a mine! There are now 2 mines planted!
+[03-08-2024 @ 07:06:27.907 GMT] potatosol: test
+[03-08-2024 @ 07:08:07.606 GMT] mangb0t2: @PotatoSol, What do you want the mine to be?
+[03-08-2024 @ 07:08:07.604 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:08:49.239 GMT] mangb0t2: @PotatoSol, Usage: !whiteList [add / remove]
+[03-08-2024 @ 07:08:49.237 GMT] potatosol: !whitelist
+[03-08-2024 @ 07:23:32.056 GMT] mangb0t2: @PotatoSol, What do you want the mine to be?
+[03-08-2024 @ 07:23:32.054 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:23:50.580 GMT] mangb0t2: potatosol planted a mine! There are now 2 mines planted!
+[03-08-2024 @ 07:23:50.575 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:24:16.438 GMT] mangb0t2: fish
+[03-08-2024 @ 07:24:16.435 GMT] potatosol: !displaymines
+[03-08-2024 @ 07:24:16.448 GMT] mangb0t2: 󠀀
+[03-08-2024 @ 07:27:44.496 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:29:45.992 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:29:45.997 GMT] mangb0t2: potatosol planted a mine! There are now 2 mines planted!
+[03-08-2024 @ 07:29:52.845 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:30:53.018 GMT] mangb0t2: potatosol planted a mine! There are now 2 mines planted!
+[03-08-2024 @ 07:30:53.013 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:30:57.384 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:34:30.533 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:34:30.540 GMT] mangb0t2: potatosol planted a mine! There are now 2 mines planted!
+[03-08-2024 @ 07:34:33.970 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:34:33.966 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:36:54.260 GMT] mangb0t2: potatosol planted a mine! There are now 2 mines planted!
+[03-08-2024 @ 07:36:54.257 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:36:57.476 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:36:57.479 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:38:32.836 GMT] mangb0t2: potatosol planted a mine! There are now 3 mines planted!
+[03-08-2024 @ 07:38:32.831 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:38:36.137 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:38:36.133 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:39:16.215 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:39:16.221 GMT] mangb0t2: potatosol planted a mine! There are now 3 mines planted!
+[03-08-2024 @ 07:39:18.216 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:39:18.213 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:40:00.498 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:40:00.502 GMT] mangb0t2: potatosol planted a mine! There are now 3 mines planted!
+[03-08-2024 @ 07:40:01.990 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:40:01.994 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:40:04.443 GMT] mangb0t2: potatosol planted a mine! There are now 0 mines planted!
+[03-08-2024 @ 07:40:42.582 GMT] potatosol: !fudgemine dog
+[03-08-2024 @ 07:40:42.586 GMT] mangb0t2: potatosol planted a mine! There are now 3 mines planted!
+[03-08-2024 @ 07:40:47.038 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:40:47.035 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:40:50.672 GMT] mangb0t2: potatosol planted a mine! There are now 0 mines planted!
+[03-08-2024 @ 07:41:05.551 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:41:05.555 GMT] mangb0t2: potatosol planted a mine! There are now 3 mines planted!
+[03-08-2024 @ 07:41:07.950 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:41:07.952 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:41:10.314 GMT] mangb0t2: potatosol planted a mine! There are now 0 mines planted!
+[03-08-2024 @ 07:41:13.634 GMT] potatosol: !displaymines
+[03-08-2024 @ 07:41:13.636 GMT] mangb0t2: cat
+[03-08-2024 @ 07:41:13.644 GMT] mangb0t2: dog
+[03-08-2024 @ 07:41:13.655 GMT] mangb0t2: fish
+[03-08-2024 @ 07:41:13.664 GMT] mangb0t2: 󠀀
+[03-08-2024 @ 07:41:44.776 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:41:44.780 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:41:48.903 GMT] mangb0t2: potatosol planted a mine! There are now 0 mines planted!
+[03-08-2024 @ 07:42:23.383 GMT] potatosol: !fudgemine boof
+[03-08-2024 @ 07:42:23.389 GMT] mangb0t2: potatosol planted a mine! There are now 6 mines planted!
+[03-08-2024 @ 07:42:29.284 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:42:29.280 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:43:14.601 GMT] potatosol: !fudgemine basic
+[03-08-2024 @ 07:43:14.607 GMT] mangb0t2: potatosol planted a mine! There are now 8 mines planted!
+[03-08-2024 @ 07:43:18.495 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:43:18.491 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:43:52.807 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:43:52.812 GMT] mangb0t2: potatosol planted a mine! There are now 9 mines planted!
+[03-08-2024 @ 07:43:55.268 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:43:55.270 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:44:00.719 GMT] mangb0t2: potatosol planted a mine! There are now 10 mines planted!
+[03-08-2024 @ 07:45:57.846 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:45:57.852 GMT] mangb0t2: potatosol planted a mine! There are now 10 mines planted!
+[03-08-2024 @ 07:46:30.041 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:46:30.045 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:46:34.101 GMT] mangb0t2: potatosol planted a mine! There are now 11 mines planted!
+[03-08-2024 @ 07:46:35.890 GMT] mangb0t2: potatosol planted a mine! There are now 11 mines planted!
+[03-08-2024 @ 07:46:35.886 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:46:42.177 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:46:42.179 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:46:45.871 GMT] mangb0t2: potatosol planted a mine! There are now 12 mines planted!
+[03-08-2024 @ 07:46:48.355 GMT] mangb0t2: potatosol planted a mine! There are now 12 mines planted!
+[03-08-2024 @ 07:46:48.351 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:51:02.369 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:51:02.374 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:51:06.115 GMT] mangb0t2: potatosol planted a mine! There are now 13 mines planted!
+[03-08-2024 @ 07:51:08.335 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:51:08.338 GMT] mangb0t2: {user-type=broadcaster, client-nonce=0a841e0b1e7cd1a4a41ed627ce48585e, tmi-sent-ts=1709884270530, mod=0, subscriber=0, color=#FF9C5A, turbo=0, user-id=37155370, flags=, badges=broadcaster/1, room-id=37155370, display-name=PotatoSol, emotes=, first-msg=0, id=d4116969-d0f8-4e89-b32c-0a543ebef8ca, returning-chatter=0, badge-info=}
+[03-08-2024 @ 07:51:08.349 GMT] mangb0t2: potatosol planted a mine! There are now 13 mines planted!
+[03-08-2024 @ 07:53:29.373 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:53:29.369 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:53:33.779 GMT] mangb0t2: potatosol planted a mine! There are now 13 mines planted!
+[03-08-2024 @ 07:53:36.410 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:53:36.414 GMT] mangb0t2: [Ljava.lang.String;@68da2f5e
+[03-08-2024 @ 07:53:36.423 GMT] mangb0t2: potatosol planted a mine! There are now 13 mines planted!
+[03-08-2024 @ 07:54:13.015 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:54:13.018 GMT] mangb0t2: [Ljava.lang.String;@1e9adb12
+[03-08-2024 @ 07:54:13.028 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:54:17.567 GMT] mangb0t2: potatosol planted a mine! There are now 13 mines planted!
+[03-08-2024 @ 07:54:19.866 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:54:19.868 GMT] mangb0t2: [Ljava.lang.String;@77f1ec96
+[03-08-2024 @ 07:54:19.882 GMT] mangb0t2: potatosol planted a mine! There are now 13 mines planted!
+[03-08-2024 @ 07:54:59.718 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:54:59.723 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:55:04.311 GMT] mangb0t2: potatosol planted a mine! There are now 14 mines planted!
+[03-08-2024 @ 07:55:06.524 GMT] mangb0t2: 󠀀
+[03-08-2024 @ 07:55:06.522 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:55:06.538 GMT] mangb0t2: potatosol planted a mine! There are now 14 mines planted!
+[03-08-2024 @ 07:56:52.389 GMT] potatosol: !fudgemine 󠀀
+[03-08-2024 @ 07:56:52.395 GMT] mangb0t2: potatosol planted a mine! There are now 14 mines planted!
+[03-08-2024 @ 07:56:58.275 GMT] potatosol: hello
+[03-08-2024 @ 07:56:59.749 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:56:59.745 GMT] potatosol: !fudgemine
+[03-08-2024 @ 07:57:03.443 GMT] mangb0t2: potatosol planted a mine! There are now 15 mines planted!
+[03-08-2024 @ 07:57:05.440 GMT] potatosol: asdf
+[03-08-2024 @ 07:57:07.341 GMT] mangb0t2: /w potatosol What do you want the mine to be?
+[03-08-2024 @ 07:57:07.338 GMT] potatosol: !fudgemine

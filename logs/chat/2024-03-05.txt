@@ -1,0 +1,44 @@
+[03-05-2024 @ 01:43:51.562 GMT] potatosol: !fudge @venmoapp
+[03-05-2024 @ 01:46:09.453 GMT] potatosol: !command add !test hello
+[03-05-2024 @ 01:46:11.630 GMT] potatosol: !test
+[03-05-2024 @ 01:46:44.444 GMT] potatosol: !command create !test
+[03-05-2024 @ 01:47:25.162 GMT] potatosol: @PotatoSol, !pbcore [reconnect / disconnect]
+[03-05-2024 @ 01:47:25.159 GMT] potatosol: !potatosol
+[03-05-2024 @ 01:54:04.413 GMT] potatosol: @PotatoSol, !pbcore [reconnect / disconnect]
+[03-05-2024 @ 01:54:04.409 GMT] potatosol: !potatosol
+[03-05-2024 @ 02:01:26.758 GMT] potatosol: test
+[03-05-2024 @ 02:09:57.257 GMT] potatosol: !fudge @venmoapp
+[03-05-2024 @ 02:10:29.926 GMT] potatosol: !fudge @venmoapp 󠀀
+[03-05-2024 @ 02:10:34.001 GMT] potatosol: !fudge venmoapp
+[03-05-2024 @ 02:10:37.504 GMT] mangb0t2: @PotatoSol, !pbcore [reconnect / disconnect]
+[03-05-2024 @ 02:10:37.501 GMT] potatosol: !potatosol
+[03-05-2024 @ 02:10:41.605 GMT] potatosol: !pbcore reconnect
+[03-05-2024 @ 02:10:41.608 GMT] mangb0t2: @PotatoSol, Reconnecting to TMI and PubSub
+[03-05-2024 @ 02:10:49.215 GMT] potatosol: !fudge @venmoapp
+[03-05-2024 @ 02:12:01.270 GMT] potatosol: !fudge @mangb0t2
+[03-05-2024 @ 02:12:05.210 GMT] potatosol: !fudge @PotatoSol
+[03-05-2024 @ 02:12:07.301 GMT] potatosol: !fudge test
+[03-05-2024 @ 02:19:04.372 GMT] potatosol: !init
+[03-05-2024 @ 02:19:13.657 GMT] potatosol: !magic8ball
+[03-05-2024 @ 02:19:17.692 GMT] mangb0t2: PotatoSol Ask the magic-8ball a question with "!8ball [question]"
+[03-05-2024 @ 02:19:17.691 GMT] potatosol: !8ball
+[03-05-2024 @ 02:19:21.427 GMT] mangb0t2: Magic-8ball says... Yeah, for sure.
+[03-05-2024 @ 02:19:21.426 GMT] potatosol: !8ball wow
+[03-05-2024 @ 02:21:28.394 GMT] potatosol: !fudge test
+[03-05-2024 @ 02:22:01.859 GMT] potatosol: !fudge test 󠀀
+[03-05-2024 @ 02:22:06.498 GMT] potatosol: !fudge etest
+[03-05-2024 @ 02:22:30.998 GMT] potatosol: !fudge test
+[03-05-2024 @ 02:23:34.433 GMT] mangb0t2: before enter
+[03-05-2024 @ 02:23:34.429 GMT] potatosol: !fudge test 󠀀
+[03-05-2024 @ 02:23:34.442 GMT] mangb0t2: post enter
+[03-05-2024 @ 02:26:22.995 GMT] mangb0t2: before enter
+[03-05-2024 @ 02:26:22.993 GMT] potatosol: !fudge test
+[03-05-2024 @ 02:26:23.007 GMT] mangb0t2: post enter
+[03-05-2024 @ 02:26:23.024 GMT] mangb0t2: no stacks
+[03-05-2024 @ 02:26:30.993 GMT] potatosol: !fudge test\
+[03-05-2024 @ 02:26:30.995 GMT] mangb0t2: before enter
+[03-05-2024 @ 02:26:31.005 GMT] mangb0t2: some stacks
+[03-05-2024 @ 02:29:50.564 GMT] potatosol: !fudge test
+[03-05-2024 @ 02:31:02.987 GMT] potatosol: !fudge test 󠀀
+[03-05-2024 @ 02:31:38.578 GMT] potatosol: !fudge test
+[03-05-2024 @ 02:33:52.815 GMT] potatosol: !fudge test 󠀀

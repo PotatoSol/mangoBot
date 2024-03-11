@@ -1,0 +1,969 @@
+[03-06-2024 @ 07:56:44.502 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 07:58:47.451 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.453 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.454 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.455 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.456 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.456 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.457 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.459 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.459 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.460 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.461 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.461 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.462 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.463 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.464 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.465 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.468 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.468 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.469 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 07:58:47.470 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:01:37.181 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:04:22.618 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:07:22.132 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:08:07.088 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:08:15.880 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.881 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.921 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.923 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.924 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.925 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.926 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.926 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.927 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.928 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.928 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.929 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.930 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.930 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.931 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.932 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.932 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.933 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.934 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.934 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.935 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.936 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.936 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.937 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.937 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.938 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.939 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.939 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.940 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.940 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.941 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.941 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.942 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.943 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.943 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.944 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.946 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.946 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.947 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.948 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.949 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.949 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.950 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.950 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.951 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.952 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.952 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.953 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.954 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.954 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.955 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.956 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.956 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.957 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.957 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.958 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.959 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.959 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.960 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.963 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.964 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.965 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.966 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.966 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.967 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.968 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.969 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.969 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.970 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.971 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.971 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.972 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:15.973 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.973 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-06-2024 @ 08:08:15.974 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 08:08:33.488 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.490 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.490 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.591 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.593 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.594 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.595 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.595 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.596 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.596 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.597 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.598 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.599 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.600 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.601 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.601 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.602 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.603 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.604 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.604 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.605 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.606 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.608 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.609 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:08:33.610 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:10:51.832 GMT] [lambda$unban$8()@TMISlashCommands.java:298] Failed to /unban venmoapp: {"_success":true,"_post":"","_exception":"","_exceptionMessage":"","_type":"DELETE","error":"Bad Request","message":"The user in the user_id query parameter is not banned.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289&user_id=509811317","_http":400,"status":400}
+[03-06-2024 @ 08:12:42.638 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:13:03.895 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:03.997 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:03.998 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:03.999 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.000 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.001 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.001 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.002 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.003 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.004 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.005 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.006 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.006 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.007 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.008 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.009 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.009 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.010 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.011 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.012 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.013 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.013 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.014 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.015 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:13:04.017 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout mangb0t2: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"1042485289\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:18:25.549 GMT] [lambda$unban$8()@TMISlashCommands.java:298] Failed to /unban venmoapp: {"_success":true,"_post":"","_exception":"","_exceptionMessage":"","_type":"DELETE","error":"Bad Request","message":"The user in the user_id query parameter is not banned.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289&user_id=509811317","_http":400,"status":400}
+[03-06-2024 @ 08:19:08.522 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:20:50.513 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:23:00.644 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:24:01.019 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:25:02.795 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:25:39.728 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:26:29.019 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:27:29.612 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:33:34.680 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:35:49.471 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:37:50.473 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"Your knees break under the weight of your armor!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:37:56.922 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"Your knees break under the weight of your armor!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:39:04.022 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:39:35.370 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"Your knees break under the weight of your armor!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:39:41.081 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"Your knees break under the weight of your armor!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:39:44.618 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"Your knees break under the weight of your armor!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:39:47.145 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"Your knees break under the weight of your armor!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:39:48.720 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"Your knees break under the weight of your armor!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:39:50.184 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"Your knees break under the weight of your armor!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:41:29.727 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:53:30.342 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:55:42.769 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:56:27.511 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 08:57:21.776 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.778 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.779 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.780 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.780 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.781 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.782 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.783 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.784 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.784 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.785 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.786 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.787 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.787 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.789 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.789 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.790 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.790 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.791 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.792 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.793 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.794 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.794 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.795 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:57:21.796 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"You were nuked!\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 08:58:03.079 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"For glory.\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 09:02:25.516 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 09:02:32.391 GMT] [timeout()@TMISlashCommands.java:240] Failed to convert 1796.6129999160767 to an integer, using default /timeout duration
+[03-06-2024 @ 09:02:32.410 GMT] [timeout()@TMISlashCommands.java:241]
+java.lang.NumberFormatException: For input string: "1796.6129999160767"
+	at java.base/java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:234)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 09:02:34.606 GMT] [timeout()@TMISlashCommands.java:240] Failed to convert 2394.3959999084473 to an integer, using default /timeout duration
+[03-06-2024 @ 09:02:34.616 GMT] [timeout()@TMISlashCommands.java:241]
+java.lang.NumberFormatException: For input string: "2394.3959999084473"
+	at java.base/java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:234)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 09:02:36.305 GMT] [timeout()@TMISlashCommands.java:240] Failed to convert 2992.697000026703 to an integer, using default /timeout duration
+[03-06-2024 @ 09:02:36.314 GMT] [timeout()@TMISlashCommands.java:241]
+java.lang.NumberFormatException: For input string: "2992.697000026703"
+	at java.base/java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:234)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 09:02:37.698 GMT] [timeout()@TMISlashCommands.java:240] Failed to convert 3591.303999900818 to an integer, using default /timeout duration
+[03-06-2024 @ 09:02:37.713 GMT] [timeout()@TMISlashCommands.java:241]
+java.lang.NumberFormatException: For input string: "3591.303999900818"
+	at java.base/java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:234)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 09:02:40.050 GMT] [timeout()@TMISlashCommands.java:240] Failed to convert 4188.951999902725 to an integer, using default /timeout duration
+[03-06-2024 @ 09:02:40.062 GMT] [timeout()@TMISlashCommands.java:241]
+java.lang.NumberFormatException: For input string: "4188.951999902725"
+	at java.base/java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:234)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 09:02:46.867 GMT] [timeout()@TMISlashCommands.java:240] Failed to convert 4782.134999990463 to an integer, using default /timeout duration
+[03-06-2024 @ 09:02:46.877 GMT] [timeout()@TMISlashCommands.java:241]
+java.lang.NumberFormatException: For input string: "4782.134999990463"
+	at java.base/java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:234)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 09:05:21.309 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 09:07:19.932 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 09:08:18.324 GMT] [timeout()@TMISlashCommands.java:240] Failed to convert 9850.688999891281 to an integer, using default /timeout duration
+[03-06-2024 @ 09:08:18.343 GMT] [timeout()@TMISlashCommands.java:241]
+java.lang.NumberFormatException: For input string: "9850.688999891281"
+	at java.base/java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:234)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 09:08:56.922 GMT] [timeout()@TMISlashCommands.java:240] Failed to convert 10352.09299993515 to an integer, using default /timeout duration
+[03-06-2024 @ 09:08:56.931 GMT] [timeout()@TMISlashCommands.java:241]
+java.lang.NumberFormatException: For input string: "10352.09299993515"
+	at java.base/java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:234)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 09:08:59.575 GMT] [timeout()@TMISlashCommands.java:240] Failed to convert 10289.436000108719 to an integer, using default /timeout duration
+[03-06-2024 @ 09:08:59.585 GMT] [timeout()@TMISlashCommands.java:241]
+java.lang.NumberFormatException: For input string: "10289.436000108719"
+	at java.base/java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:234)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[03-06-2024 @ 09:11:33.172 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 09:15:47.283 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-06-2024 @ 09:16:48.383 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout venmoapp: {"_success":true,"_post":"{\"data\":{\"duration\":6400,\"reason\":\"potatosol gave you a smooch, reducing your fudge! <3\",\"user_id\":\"509811317\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field is already banned.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 09:17:09.722 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout venmoapp: {"_success":true,"_post":"{\"data\":{\"duration\":6379,\"reason\":\"\",\"user_id\":\"509811317\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field is already banned.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
+[03-06-2024 @ 09:18:05.824 GMT] [lambda$timeout$4()@TMISlashCommands.java:250] Failed to /timeout potatosol: {"_success":true,"_post":"{\"data\":{\"duration\":600,\"reason\":\"For glory.\",\"user_id\":\"37155370\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Bad Request","message":"The user specified in the user_id field may not be banned/timed out.","_url":"/moderation/bans?broadcaster_id=37155370&moderator_id=1042485289","_http":400,"status":400}
