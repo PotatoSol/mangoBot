@@ -41,6 +41,7 @@
             -H 'Client-Id: uo6dggojyb8d6soh92zknwmi5ej1q2'
      */
     var activeChatters = [];
+    var lastFudged;
 
     function removeFudgeStacks(inputUser) {
         if (!$.inidb.exists('timestamp', inputUser)) {
@@ -69,6 +70,8 @@
 
         if (!$.inidb.exists('armor', inputUser)) {
             $.inidb.set('armor', inputUser, 0);
+            $.timeoutUser(inputUser, Math.floor($.getIniDbNumber('fudgeStacks', inputUser)) * 60, inputReason)
+            lastFudged = inputUser;
         } else if ($.getIniDbNumber('armor', inputUser) > 0) {
             $.inidb.incr('armor', inputUser, -1);
             $.say(inputUser + " had armor!");
@@ -76,6 +79,7 @@
         } else if ($.inidb.exists('fudgeStacks', inputUser)) {
             let fudgestacks = $.getIniDbNumber('fudgeStacks', inputUser);
             let timestamp = $.getIniDbNumber('timestamp', inputUser);
+            lastFudged = inputUser;
             if (currentTime > timestamp + (fudgestacks * 60)) {
                 $.inidb.set('fudgeStacks', inputUser, inputFudge);
                 $.inidb.set('timestamp', inputUser, currentTime);
@@ -168,7 +172,7 @@
         if (activeChatters.indexOf(event.getSender()) != -1) {
             activeChatters.splice(activeChatters.indexOf(event.getSender()));
             activeChatters.push(event.getSender());
-        } else if (activeChatters.length > 100) {
+        } else if (activeChatters.length > 200) {
             activeChatters.shift();
             activeChatters.push(event.getSender());
         } else {
@@ -231,6 +235,26 @@
             if (args.length > 1) {
                 reason += " \"" + args.splice(1).join(' '); + "\"";
             }
+            if (reason == ""){
+                reason = "Fudged by " + senderUser
+            }
+            fudgeUser(targetUser, fudgeAmount, reason, senderUser);
+        }
+
+        /*
+        *  Fudge
+        */
+        if ($.equalsIgnoreCase(command, 'slap')) {
+            let targetUser = $.user.sanitize(args[0]);
+            let senderUser = $.user.sanitize(sender);
+            let fudgeAmount = calculateFudge(targetUser, senderUser)/5;
+            let reason = "";
+            if (args.length > 1) {
+                reason += " \"" + args.splice(1).join(' '); + "\"";
+            }
+            if (reason == ""){
+                reason = "Slapped by " + senderUser
+            }
             fudgeUser(targetUser, fudgeAmount, reason, senderUser);
         }
 
@@ -290,6 +314,7 @@
                     if (blownupUsers.indexOf(target) == -1) {
                         blownupUsers.push(target);
                     }
+                    activeChatters = activeChatters.splice(targetID, 1);
                     fudgeUser(target, calculateFudge(target, senderUser), "You were blown up by " + senderUser + "!", senderUser);
                 }
             }
@@ -326,14 +351,17 @@
             let escape = 0;
             let victims = [];
             let victim;
+            let victimID;
             for (let i = 0; i < 25; i++) {
-                victim = activeChatters[Math.floor(Math.random() * (activeChatters.length))];
+                victimID = Math.floor(Math.random() * (activeChatters.length));
+                victim = activeChatters[victimID];
                 while (victims.indexOf(victim) != -1 && escape < 100) {
                     victim = activeChatters[Math.floor(Math.random() * (activeChatters.length))];
                     escape += 1;
                 }
                 escape = 0;
                 if (victim != null) {
+                    activeChatters = activeChatters.splice(victimID, 1);
                     $.timeoutUser(victim, 600, "You were nuked!");
                     victims.push(victim);
                 }
@@ -356,24 +384,7 @@
         *   Fudge Bukkake - sets target
         */
         if ($.equalsIgnoreCase(command, 'fudgebukkake')) {
-            let target = args[0];
-            if (!$.inidb.exists('bukkake', '')) {
-                $.inidb.set('bukkake', target, 1);
-                $.inidb.set('bukkake', 'timestamp' + target.toLowerCase(), (Date.now() / 1000) + 600);
-            }
-            let timestamp = $.getIniDbNumber('bukkake', 'timestamp' + target.toLowerCase());
-            let keys = $.inidb.GetKeyList('bukkake', '');
-            for (i in keys) {
-                if (keys[i] == targets.toLowerCase()) {
-                    $.inidb.incr('bukkake', target, 1);
-                    $.inidb.incr('bukkkake', 'timestamp' + target.toLowerCase(), timestamp + 600);
-                }
-            }
-            if (timestamp < Date.now() / 1000) {
-                $.timeoutUser(target, 'timestamp' + target.toLowerCase(), timestamp - Date.now() / 1000)
-            } else {
-                $.untimeoutUser(target);
-            }
+            fudgeUser(lastFudged, calculatFudge(lastFudged, $.user.sanitize(event.getSender())), "mangoBleh", $.user.sanitize(event.getSender()))
         }
 
         /*
@@ -494,6 +505,7 @@
      */
     $.bind('initReady', function () {
         $.registerChatCommand('./custom/mangBotCommands.js', 'fudgeu', $.PERMISSION.Mod);
+        $.registerChatCommand('./custom/mangBotCommands.js', 'slap', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 'armoru', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 'fudgenade', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 'fudgeduel', $.PERMISSION.Mod);
