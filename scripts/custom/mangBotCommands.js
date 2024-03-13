@@ -115,6 +115,10 @@
         } else if (!$.isSub(inputTarget) && $.isSub(inputSender)) {
             fudgeAmount = 15;
         }
+        fudgeAmount = fudgeAmount * 60;
+        if(fudgeAmount < 0){
+            fudgeAmount = 600;
+        }
         return fudgeAmount;
     }
 
