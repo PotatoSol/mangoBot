@@ -375,11 +375,11 @@
             } else {
                 $.say(sender + " has launched a nuke!");
             }
-            
+
             let indexPos = []; //a list of activeChatters indexes
             while (indexPos.length < 25) {
                 var randomValue = Math.floor(Math.random() * activeChatters.length);
-                if(!indexPos.includes(randomValue)){
+                if (!indexPos.includes(randomValue)) {
                     indexPos.push(randomValue);
                 }
             }
@@ -531,10 +531,15 @@
             let optionB = args[2];
 
         }
+        /*
         //testing command, not enabled
         if ($.equalsIgnoreCase(command, 'test24')) {
             $.inidb.del('permcom', 'slap');
             $.inidb.del('permcom', 'slapu');
+        }
+        */
+        if ($.equalsIgnoreCase(command, 'dickpunch')) {
+            //TODO
         }
     });
 
@@ -556,8 +561,9 @@
         $.registerChatCommand('./custom/mangBotCommands.js', 'smooch', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 't', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 'bugreport', $.PERMISSION.Viewer);
+        //$.registerChatCommand('./custom/mangBotCommands.js', 'dickpunch', $.PERMISSION.Viewer);
 
-        $.registerChatCommand('./custom/mangBotCommands.js', 'test24', $.PERMISSION.Mod);
+        //$.registerChatCommand('./custom/mangBotCommands.js', 'test24', $.PERMISSION.Mod);
     });
 })();
 
