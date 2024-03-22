@@ -264,9 +264,10 @@
         }
 
         /*
-        *  Fudge
+        *  Slap
         */
-        if ($.equalsIgnoreCase(command, 'slap')) {
+        if ($.equalsIgnoreCase(command, 'slapu')) {
+            //$.say("mangoSlap 2Late");
             let targetUser = rmAt($.user.sanitize(args[0]));
             let senderUser = rmAt($.user.sanitize(sender));
             let fudgeAmount = calculateFudge(targetUser, senderUser) / 5;
@@ -322,15 +323,16 @@
             }
             var target, targetID;
             const minCeiled = Math.ceil(3), maxFloored = Math.floor(5);
-            let allUsers = activeChatters, length = allUsers.length,
+            let length = allUsers.length,
                 shieldedUsers = [], blownupUsers = [],
                 returnStringA = "", returnStringB = sender + " pulls the pin on a grenade...and throws! ",
                 numTargets = Math.floor(Math.random() * (maxFloored - minCeiled + 1) + minCeiled);
 
             while (shieldedUsers.length + blownupUsers.length < numTargets) {
+
                 targetID = Math.floor(Math.random() * length);
-                target = allUsers[targetID];
-                if (armorGrenade(target)) {
+                target = activeChatters[targetID];
+                if ($.getIniDbNumber('armor', target) > 0) { //if the target has armor
                     if (shieldedUsers.indexOf(target) == -1) {
                         shieldedUsers.push(target);
                         $.inidb.decr('armor', target, 1);
@@ -338,9 +340,9 @@
                 } else {
                     if (blownupUsers.indexOf(target) == -1) {
                         blownupUsers.push(target);
+                        activeChatters = activeChatters.filter((aVictim) => aVictim !== target)
+                        fudgeUser(target, calculateFudge(target, senderUser), "You were blown up by " + senderUser + "!", senderUser);
                     }
-                    activeChatters = activeChatters.filter((aVictim) => aVictim !== target)
-                    fudgeUser(target, calculateFudge(target, senderUser), "You were blown up by " + senderUser + "!", senderUser);
                 }
             }
 
@@ -530,8 +532,9 @@
 
         }
         //testing command, not enabled
-        if ($.equalsIgnoreCase(command, 'hello')) {
-
+        if ($.equalsIgnoreCase(command, 'test24')) {
+            $.inidb.del('permcom', 'slap');
+            $.inidb.del('permcom', 'slapu');
         }
     });
 
@@ -540,7 +543,7 @@
      */
     $.bind('initReady', function () {
         $.registerChatCommand('./custom/mangBotCommands.js', 'fudgeu', $.PERMISSION.Mod);
-        $.registerChatCommand('./custom/mangBotCommands.js', 'slap', $.PERMISSION.Mod);
+        $.registerChatCommand('./custom/mangBotCommands.js', 'slapu', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 'armoru', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 'fudgenade', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 'fudgeduel', $.PERMISSION.Mod);
@@ -554,7 +557,7 @@
         $.registerChatCommand('./custom/mangBotCommands.js', 't', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 'bugreport', $.PERMISSION.Viewer);
 
-        //$.registerChatCommand('./custom/mangBotCommands.js', 'hello', $.PERMISSION.Viewer);
+        $.registerChatCommand('./custom/mangBotCommands.js', 'test24', $.PERMISSION.Mod);
     });
 })();
 

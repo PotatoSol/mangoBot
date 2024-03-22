@@ -16,7 +16,7 @@
 */
 
 (function () {
-
+return;
     /*
     Helper methods
     */
@@ -2384,7 +2384,7 @@
             $.registerChatCommand('./custom/importedCommands.js', 'simply', $.PERMISSION.Viewer);
             $.registerChatCommand('./custom/importedCommands.js', 'patsfans', $.PERMISSION.Viewer);
             $.registerChatCommand('./custom/importedCommands.js', 'actualports', $.PERMISSION.Viewer);
-            $.registerChatCommand('./custom/importedCommands.js', 'slap', $.PERMISSION.Viewer);
+//            $.registerChatCommand('./custom/importedCommands.js', 'slap', $.PERMISSION.Viewer);
             $.registerChatCommand('./custom/importedCommands.js', 'gooms', $.PERMISSION.Viewer);
             $.registerChatCommand('./custom/importedCommands.js', 'sunken3', $.PERMISSION.Viewer);
             $.registerChatCommand('./custom/importedCommands.js', 'syrox', $.PERMISSION.Viewer);
