@@ -43,8 +43,17 @@
     var activeChatters = [];
     var lastFudged;
 
+    function rmAt(str) {
+        if (str.charAt(0) === "@") {
+            return str.slice(1);
+        } else {
+            return str;
+        }
+    }
+
     function removeFudgeStacks(inputUser) {
         if (!$.inidb.exists('timestamp', inputUser)) {
+            $.inidb.set('timestamp', inputUser, 0);
             return;
         }
         let currentTime = Math.floor((Date.now() / 1000));
@@ -55,11 +64,12 @@
         }
     }
 
-    //user should already be sanitized
-    function fudgeUser(inputUser, inputFudge, inputReason, inputSender) { //has to re add current timeout duration
+    //user should already be sanitized - inputFudge should be stacks
+    function fudgeUser(inputUser, inputFudge, inputReason, inputSender) {
         removeFudgeStacks(inputUser)
         let currentTime = Math.floor((Date.now() / 1000));
         if ($.isMod(inputUser)) {
+            activeChatters = activeChatters.filter((aVictim) => aVictim !== inputSender)
             $.timeoutUser(inputSender, 600, "idiot");
             return;
         }
@@ -70,26 +80,36 @@
 
         if (!$.inidb.exists('armor', inputUser)) {
             $.inidb.set('armor', inputUser, 0);
-            $.timeoutUser(inputUser, Math.floor($.getIniDbNumber('fudgeStacks', inputUser)) * 60, inputReason)
-            lastFudged = inputUser;
+            $.inidb.set('fudgeStacks', inputUser, inputFudge);
+            $.timeoutUser(inputUser, inputFudge * 60, inputReason)
+            activeChatters = activeChatters.filter((aVictim) => aVictim !== inputUser)
+            lastFudged = $.user.sanitize(inputUser);
         } else if ($.getIniDbNumber('armor', inputUser) > 0) {
             $.inidb.incr('armor', inputUser, -1);
             $.say(inputUser + " had armor!");
-            fudgeUser(inputSender, calculateFudge(inputSender, inputUser), inputReason, inputUser); //just send it back
-        } else if ($.inidb.exists('fudgeStacks', inputUser)) {
-            let fudgestacks = $.getIniDbNumber('fudgeStacks', inputUser);
-            let timestamp = $.getIniDbNumber('timestamp', inputUser);
-            lastFudged = inputUser;
-            if (currentTime > timestamp + (fudgestacks * 60)) {
-                $.inidb.set('fudgeStacks', inputUser, inputFudge);
-                $.inidb.set('timestamp', inputUser, currentTime);
-                $.timeoutUser(inputUser, Math.floor($.getIniDbNumber('fudgeStacks', inputUser)) * 60, inputReason);
-            } else {
-                $.inidb.incr('fudgeStacks', inputUser, inputFudge);
-                fudgestacks = $.getIniDbNumber('fudgeStacks', inputUser);
-                $.timeoutUser(inputUser, Math.floor($.getIniDbNumber('timestamp', inputUser) - currentTime + (fudgestacks * 60)), inputReason);
-            }
+            fudgeUser(inputSender, inputFudge, inputReason, inputUser); //just send it back
         }
+
+        let fudgestacks = $.getIniDbNumber('fudgeStacks', inputUser);
+        let timestamp = $.getIniDbNumber('timestamp', inputUser);
+        lastFudged = $.user.sanitize(inputUser);
+        let duration;
+        //not currently fudged
+        if (currentTime > timestamp + (fudgestacks * 60)) {
+            $.inidb.set('fudgeStacks', inputUser, inputFudge);
+            $.inidb.set('timestamp', inputUser, currentTime);
+            duration = inputFudge * 60;
+            $.timeoutUser(inputUser, duration, inputReason);
+            activeChatters = activeChatters.filter((aVictim) => aVictim !== inputUser)
+        } else {
+            //currently fudged
+            $.inidb.incr('fudgeStacks', inputUser, inputFudge);
+            fudgestacks = $.getIniDbNumber('fudgeStacks', inputUser);
+            duration = currentTime + (fudgestacks * 60) - $.getIniDbNumber('timestamp', inputUser);
+            $.timeoutUser(inputUser, duration, inputReason);
+            activeChatters = activeChatters.filter((aVictim) => aVictim !== inputUser)
+        }
+
     }
 
     function armorUser(inputUser) {
@@ -101,6 +121,7 @@
         if ($.getIniDbNumber('armor', inputUser) >= 5 && !$.isMod(inputUser)) {
             $.inidb.set('armor', inputUser, 0);
             $.timeoutUser(inputUser, 600, "Your knees break under the weight of your armor!");
+            activeChatters = activeChatters.filter((aVictim) => aVictim !== inputUser)
             $.say(inputUser + "'s knees break under the weight of their armor!");
         } else {
             $.say(inputUser + " armored up! They have " + $.getIniDbNumber('armor', inputUser) + " layer of armor.");
@@ -110,14 +131,13 @@
     function calculateFudge(inputTarget, inputSender) {
         removeFudgeStacks(inputTarget);
         let fudgeAmount = 10;
-        if ($.isSub(inputTarget) & !$.isSub(inputSender)) {
+        if ($.isSub(inputTarget) && !$.isSub(inputSender)) {
             fudgeAmount = 5;
         } else if (!$.isSub(inputTarget) && $.isSub(inputSender)) {
             fudgeAmount = 15;
         }
-        fudgeAmount = fudgeAmount * 60;
-        if(fudgeAmount < 0){
-            fudgeAmount = 600;
+        if (fudgeAmount < 0) {
+            fudgeAmount = 10;
         }
         return fudgeAmount;
     }
@@ -141,13 +161,9 @@
         let permitted = $.inidb.GetKeyList('minelayer', '');
         for (j in permitted) {
             if (event.getSender() == permitted[j]) {
-                let mineMsg = event.getMessage();
-                if (mineMsg.startsWith('!')) {
-                    mineMsg = mineMsg.substring(1);
-                }
-                if (mineMsg.includes(' ')) {
-                    let split = mineMsg.indexOf(' ');
-                    let mineMsg = mineMsg.subString(0, split).toLowerCase();
+                let mineMsg = event.getMessage().toLowerCase();
+                if (mineMsg.substring(0, 1) == "!") {
+                    return;
                 }
                 if ($.inidb.exists('mines', mineMsg)) {
                     $.inidb.incr('mines', mineMsg, 1);
@@ -173,8 +189,9 @@
         if ($.isMod(event.getSender())) {
             return;
         }
+
         if (activeChatters.indexOf(event.getSender()) != -1) {
-            activeChatters.splice(activeChatters.indexOf(event.getSender()));
+            activeChatters = activeChatters.filter((aVictim) => aVictim !== event.getSender())
             activeChatters.push(event.getSender());
         } else if (activeChatters.length > 200) {
             activeChatters.shift();
@@ -184,7 +201,7 @@
         }
         let permitted = $.inidb.GetKeyList('minelayer', '');
         for (j in permitted) {
-            if (event.getSender() == permitted[i]) {
+            if (event.getSender() == permitted[j]) {
                 newMine = args[0];
                 if ($.inidb.exists('mines', newMine)) {
                     $.inidb.incr('mines', newMine, 1);
@@ -194,7 +211,7 @@
                     count++;
                 }
                 $.say(sender + " planted a mine! There are now " + count + " mines planted!");
-                permitted.splice(permitted.indexOf(event.getSender()));
+                permitted = permitted.filter((minelayer) => minelayer !== sender);
             }
         }
         let duration;
@@ -205,6 +222,7 @@
                 $.inidb.del('mines', key)
                 $.say(event.getSender() + " ran over a mine!");
                 $.timeoutUser(event.getSender(), 600 * duration, "You ran over a mine! Mine: " + key);
+                activeChatters = activeChatters.filter((aVictim) => aVictim !== event.getSender())
                 break;
             }
         }
@@ -224,7 +242,7 @@
         *   Armor
         */
         if ($.equalsIgnoreCase(command, 'armoru')) {
-            targetUser = $.user.sanitize(action);
+            targetUser = rmAt($.user.sanitize(action));
             armorUser(targetUser);
         }
 
@@ -232,14 +250,14 @@
          *  Fudge
          */
         if ($.equalsIgnoreCase(command, 'fudgeu')) {
-            let targetUser = $.user.sanitize(args[0]);
-            let senderUser = $.user.sanitize(sender);
+            let targetUser = rmAt($.user.sanitize(args[0]));
+            let senderUser = rmAt($.user.sanitize(sender));
             let fudgeAmount = calculateFudge(targetUser, senderUser);
             let reason = "";
             if (args.length > 1) {
                 reason += " \"" + args.splice(1).join(' '); + "\"";
             }
-            if (reason == ""){
+            if (reason == "") {
                 reason = "Fudged by " + senderUser
             }
             fudgeUser(targetUser, fudgeAmount, reason, senderUser);
@@ -249,14 +267,14 @@
         *  Fudge
         */
         if ($.equalsIgnoreCase(command, 'slap')) {
-            let targetUser = $.user.sanitize(args[0]);
-            let senderUser = $.user.sanitize(sender);
-            let fudgeAmount = calculateFudge(targetUser, senderUser)/5;
+            let targetUser = rmAt($.user.sanitize(args[0]));
+            let senderUser = rmAt($.user.sanitize(sender));
+            let fudgeAmount = calculateFudge(targetUser, senderUser) / 5;
             let reason = "";
             if (args.length > 1) {
                 reason += " \"" + args.splice(1).join(' '); + "\"";
             }
-            if (reason == ""){
+            if (reason == "") {
                 reason = "Slapped by " + senderUser
             }
             fudgeUser(targetUser, fudgeAmount, reason, senderUser);
@@ -266,8 +284,8 @@
         *   Fudge Duel
         */
         if ($.equalsIgnoreCase(command, 'fudgeduel')) {
-            let targetUser = $.user.sanitize(action);
-            let senderUser = $.user.sanitize(sender);
+            let targetUser = rmAt($.user.sanitize(action));
+            let senderUser = rmAt($.user.sanitize(sender));
             if (Math.floor(Math.random() * 2)) {
                 $.say(senderUser + " challenges " + targetUser + " to a duel..." + senderUser + " shoots first!");
                 fudgeUser(targetUser, calculateFudge(targetUser, senderUser), "You lost the duel!", senderUser);
@@ -281,8 +299,10 @@
         *   Fudge Kamikaze
         */
         if ($.equalsIgnoreCase(command, 'fudgekamikaze')) {
-            $.timeoutUser($.user.sanitize(sender), 600, "For glory.");
-            $.timeoutUser($.user.sanitize(action), 600, sender + " sacrificed themself to take you out!")
+            $.timeoutUser(rmAt($.user.sanitize(sender)), 600, "For glory.");
+            $.timeoutUser(rmAt($.user.sanitize(action)), 600, sender + " sacrificed themself to take you out!")
+            activeChatters = activeChatters.filter((aVictim) => aVictim !== $.user.sanitize(sender));
+            activeChatters = activeChatters.filter((aVictim) => aVictim !== $.user.sanitize(action));
             $.say(sender + " goes out in a blaze of glory! " + action + " was blown up!");
         }
 
@@ -290,12 +310,13 @@
         *   Fudge Nade
         */
         if ($.equalsIgnoreCase(command, 'fudgenade')) {
-            let senderUser = $.user.sanitize(sender);
+            let senderUser = rmAt($.user.sanitize(sender));
             if (senderUser == null) {
                 senderUser = "mang0"
             }
             if (Math.floor(Math.random() * 100) == 69) {
                 $.timeoutUser(senderUser, 600, "You forgot to throw the grenade!");
+                activeChatters = activeChatters.filter((aVictim) => aVictim !== senderUser);
                 $.say(senderUser + " pulls the pin on a grenade...and forgets to throw!");
                 return;
             }
@@ -318,7 +339,7 @@
                     if (blownupUsers.indexOf(target) == -1) {
                         blownupUsers.push(target);
                     }
-                    activeChatters = activeChatters.splice(targetID, 1);
+                    activeChatters = activeChatters.filter((aVictim) => aVictim !== target)
                     fudgeUser(target, calculateFudge(target, senderUser), "You were blown up by " + senderUser + "!", senderUser);
                 }
             }
@@ -352,35 +373,34 @@
             } else {
                 $.say(sender + " has launched a nuke!");
             }
-            let escape = 0;
-            let victims = [];
-            let victim;
-            let victimID;
-            for (let i = 0; i < 25; i++) {
-                victimID = Math.floor(Math.random() * (activeChatters.length));
-                victim = activeChatters[victimID];
-                while (victims.indexOf(victim) != -1 && escape < 100) {
-                    victim = activeChatters[Math.floor(Math.random() * (activeChatters.length))];
-                    escape += 1;
-                }
-                escape = 0;
-                if (victim != null) {
-                    activeChatters = activeChatters.splice(victimID, 1);
-                    $.timeoutUser(victim, 600, "You were nuked!");
-                    victims.push(victim);
+            
+            let indexPos = []; //a list of activeChatters indexes
+            while (indexPos.length < 25) {
+                var randomValue = Math.floor(Math.random() * activeChatters.length);
+                if(!indexPos.includes(randomValue)){
+                    indexPos.push(randomValue);
                 }
             }
+
+            let victims = []; //a list of users
+            indexPos.forEach((ele) => {
+                victims.push(activeChatters[ele]);
+            })
+
             let returnString = "The nuke hit "
-            victims.forEach((loser, index) => {
-                returnString += loser;
+            victims.forEach((aVictim, index) => {
+                $.timeoutUser(aVictim, 600, "You were nuked!");
+                returnString += aVictim;
                 if (index < victims.length - 2) {
                     returnString += ", ";
-                } else if (index < victims.length - 1) {
+                }
+                if (index < victims.length - 1) {
                     returnString += ", and ";
                 } else {
                     returnString + "!";
                 }
             });
+
             $.say(returnString);
         }
 
@@ -388,7 +408,10 @@
         *   Fudge Bukkake - sets target
         */
         if ($.equalsIgnoreCase(command, 'fudgebukkake')) {
-            fudgeUser(lastFudged, calculatFudge(lastFudged, $.user.sanitize(event.getSender())), "mangoBleh", $.user.sanitize(event.getSender()))
+            if (lastFudged == null) {
+                lastFudged = activeChatters[Math.floor(Math.random() * (activeChatters.length - 1))];
+            }
+            fudgeUser(lastFudged, calculateFudge(lastFudged, $.user.sanitize(event.getSender())), "mangoBleh", $.user.sanitize(event.getSender()))
         }
 
         /*
@@ -439,7 +462,7 @@
         */
         if ($.equalsIgnoreCase(command, 'smooch')) {
             let currentTime = Math.floor(Date.now() / 1000);
-            let inputUser = $.user.sanitize(args[0]);
+            let inputUser = rmAt($.user.sanitize(args[0]));
             $.say(sender + " gives " + inputUser + " a smooch! <3");
             if ($.inidb.exists('fudgeStacks', inputUser)) {
                 let fudgestacks = $.getIniDbNumber('fudgeStacks', inputUser);
@@ -465,6 +488,13 @@
             }
         }
 
+        /*
+        *   Bug Report
+        */
+        if ($.equalsIgnoreCase(command, 'bugreport')) {
+            $.say('/w ' + event.getSender() + ' https://forms.gle/xK21Y7ZZdFAuq6BR6');
+        }
+
 
         /*
         *   shorthand for timeout
@@ -481,7 +511,8 @@
             if (reason == "" || reason == ".") {
                 reason = "You were timed out."
             }
-            $.timeoutUser($.user.sanitize(args[0]), duration, reason);
+            activeChatters = activeChatters.filter((aVictim) => aVictim !== rmAt($.user.sanitize[args[0]]))
+            $.timeoutUser(rmAt($.user.sanitize(args[0]), duration, reason));
         }
 
         /*  not enabled
@@ -521,6 +552,7 @@
         $.registerChatCommand('./custom/mangBotCommands.js', 'displaymines', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 'smooch', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 't', $.PERMISSION.Mod);
+        $.registerChatCommand('./custom/mangBotCommands.js', 'bugreport', $.PERMISSION.Viewer);
 
         //$.registerChatCommand('./custom/mangBotCommands.js', 'hello', $.PERMISSION.Viewer);
     });
