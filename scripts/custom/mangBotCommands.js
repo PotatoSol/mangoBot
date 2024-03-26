@@ -40,7 +40,7 @@
             -H 'Authorization: Bearer cfabdegwdoklmawdzdo98xt2fo512y' \
             -H 'Client-Id: uo6dggojyb8d6soh92zknwmi5ej1q2'
      */
-    var activeChatters = [];
+    var activeChatters = []; //TODO: store active chatters in a better way
     var lastFudged;
 
     function rmAt(str) {
@@ -50,6 +50,12 @@
             return str;
         }
     }
+
+    /**
+     * This function removes the fudgestack on a user when time's up.
+     * @param {*} inputUser username
+     * @returns 
+     */
 
     function removeFudgeStacks(inputUser) {
         if (!$.inidb.exists('timestamp', inputUser)) {
@@ -64,9 +70,18 @@
         }
     }
 
+
+    /**
+     * This command fudges a user. What more do you want?
+     * @param {*} inputUser username who is getting fudged
+     * @param {*} inputFudge 
+     * @param {*} inputReason reason for getting fudged (?)
+     * @param {*} inputSender user who sent a fudge
+     * @returns 
+     */
     //user should already be sanitized - inputFudge should be stacks
     function fudgeUser(inputUser, inputFudge, inputReason, inputSender) {
-        removeFudgeStacks(inputUser)
+        removeFudgeStacks(inputUser)        //
         let currentTime = Math.floor((Date.now() / 1000));
         if ($.isMod(inputUser)) {
             activeChatters = activeChatters.filter((aVictim) => aVictim !== inputSender)
@@ -85,7 +100,7 @@
             activeChatters = activeChatters.filter((aVictim) => aVictim !== inputUser)
             lastFudged = $.user.sanitize(inputUser);
         } else if ($.getIniDbNumber('armor', inputUser) > 0) {
-            $.inidb.incr('armor', inputUser, -1);
+            $.inidb.incr('armor', inputUser, -1); //armor goes down
             $.say(inputUser + " had armor!");
             fudgeUser(inputSender, inputFudge, inputReason, inputUser); //just send it back
         }
@@ -94,8 +109,7 @@
         let timestamp = $.getIniDbNumber('timestamp', inputUser);
         lastFudged = $.user.sanitize(inputUser);
         let duration;
-        //not currently fudged
-        if (currentTime > timestamp + (fudgestacks * 60)) {
+        if (currentTime > timestamp + (fudgestacks * 60)) {//not currently fudged
             $.inidb.set('fudgeStacks', inputUser, inputFudge);
             $.inidb.set('timestamp', inputUser, currentTime);
             duration = inputFudge * 60;
@@ -283,6 +297,7 @@
 
         /*
         *   Fudge Duel
+            //TODO do some testing and make sure it doesn't fuck up
         */
         if ($.equalsIgnoreCase(command, 'fudgeduel')) {
             let targetUser = rmAt($.user.sanitize(action));
@@ -298,6 +313,7 @@
 
         /*
         *   Fudge Kamikaze
+            //TODO do some testing and make sure it doesn't fuck up
         */
         if ($.equalsIgnoreCase(command, 'fudgekamikaze')) {
             $.timeoutUser(rmAt($.user.sanitize(sender)), 600, "For glory.");
@@ -309,6 +325,7 @@
 
         /* 
         *   Fudge Nade
+            //TODO need to fix this shit for some reason
         */
         if ($.equalsIgnoreCase(command, 'fudgenade')) {
             let senderUser = rmAt($.user.sanitize(sender));
@@ -377,29 +394,26 @@
             }
 
             let indexPos = []; //a list of activeChatters indexes
-            while (indexPos.length < 25) {
-                var randomValue = Math.floor(Math.random() * activeChatters.length);
-                if (!indexPos.includes(randomValue)) {
-                    indexPos.push(randomValue);
-                }
+            let victims = []; //a list of users
+            for(var i = 0; i < 25 || i < activeChatters.length; i++){
+                var selectedChatter;
+                do{
+                    selectedChatter = activeChatters[Math.floor(Math.random() * activeChatters.length)];
+                }while (!(victims.includes(selectedChatter)))
+                victims.push(selectedChatter);
             }
 
-            let victims = []; //a list of users
-            indexPos.forEach((ele) => {
-                victims.push(activeChatters[ele]);
-            })
-
-            let returnString = "The nuke hit "
+            let returnString = "The nuke hit ";
             victims.forEach((aVictim, index) => {
                 $.timeoutUser(aVictim, 600, "You were nuked!");
                 returnString += aVictim;
                 if (index < victims.length - 2) {
                     returnString += ", ";
                 }
-                if (index < victims.length - 1) {
+                else if (index < victims.length - 1) {
                     returnString += ", and ";
                 } else {
-                    returnString + "!";
+                    returnString += "!";
                 }
             });
 
@@ -409,6 +423,7 @@
         /*
         *   Fudge Bukkake - sets target
         */
+       
         if ($.equalsIgnoreCase(command, 'fudgebukkake')) {
             if (lastFudged == null) {
                 lastFudged = activeChatters[Math.floor(Math.random() * (activeChatters.length - 1))];
@@ -440,6 +455,7 @@
 
         /*
         *   fudgemine
+            //TODO allow multiple mines of the same word
         */
         if ($.equalsIgnoreCase(command, 'fudgemine')) {
             if (event.getArgs().length == 0 || event.getArgs()[0].trim() == "?" || event.getArgs()[0].trim() == "" || event.getArgs()[0].trim().length == 0) {
@@ -518,6 +534,7 @@
         }
 
         /*  not enabled
+        *   TODO make predictions work
         *   shorthand for pred
         *   !pred [duration] [option a] [option b]
         */
@@ -561,6 +578,7 @@
         $.registerChatCommand('./custom/mangBotCommands.js', 'smooch', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 't', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 'bugreport', $.PERMISSION.Viewer);
+        //TODO: make a prediction command
         //$.registerChatCommand('./custom/mangBotCommands.js', 'dickpunch', $.PERMISSION.Viewer);
 
         //$.registerChatCommand('./custom/mangBotCommands.js', 'test24', $.PERMISSION.Mod);
