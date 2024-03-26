@@ -1,0 +1,1 @@
+[03-24-2024 @ 00:08:47.022 GMT] [handleRequest()@Helix.java:316] Helix rejected a request [/channels?broadcaster_id=221292314] 400 Bad Request: Status contains banned words.

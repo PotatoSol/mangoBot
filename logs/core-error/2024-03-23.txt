@@ -1,0 +1,53 @@
+[03-23-2024 @ 23:16:05.168 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-23-2024 @ 23:17:26.552 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-23-2024 @ 23:21:15.522 GMT] [lambda$getChatters$12()@ViewerCache.java:248] java.lang.RuntimeException: {"_success":true,"_post":"","_exception":"","_exceptionMessage":"","_type":"GET","error":"Forbidden","message":"user 37155370 does not have moderator permissions for channel 221292314","_url":"/chat/chatters?broadcaster_id=221292314&moderator_id=37155370&first=1000","_http":403,"status":403}
+[03-23-2024 @ 23:21:15.552 GMT] [lambda$getChatters$12()@ViewerCache.java:248]
+java.lang.RuntimeException: {"_success":true,"_post":"","_exception":"","_exceptionMessage":"","_type":"GET","error":"Forbidden","message":"user 37155370 does not have moderator permissions for channel 221292314","_url":"/chat/chatters?broadcaster_id=221292314&moderator_id=37155370&first=1000","_http":403,"status":403}
+	at com.gmt2001.twitch.cache.ViewerCache.lambda$getChatters$5(ViewerCache.java:213)
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:58)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4495)
+	at reactor.core.publisher.Mono.subscribeWith(Mono.java:4561)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4323)
+	at com.gmt2001.twitch.cache.ViewerCache.getChatters(ViewerCache.java:249)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+[03-23-2024 @ 23:21:51.263 GMT] [lambda$getChatters$12()@ViewerCache.java:248] java.lang.RuntimeException: {"_success":true,"_post":"","_exception":"","_exceptionMessage":"","_type":"GET","error":"Forbidden","message":"user 37155370 does not have moderator permissions for channel 221292314","_url":"/chat/chatters?broadcaster_id=221292314&moderator_id=37155370&first=1000","_http":403,"status":403}
+[03-23-2024 @ 23:21:51.284 GMT] [lambda$getChatters$12()@ViewerCache.java:248]
+java.lang.RuntimeException: {"_success":true,"_post":"","_exception":"","_exceptionMessage":"","_type":"GET","error":"Forbidden","message":"user 37155370 does not have moderator permissions for channel 221292314","_url":"/chat/chatters?broadcaster_id=221292314&moderator_id=37155370&first=1000","_http":403,"status":403}
+	at com.gmt2001.twitch.cache.ViewerCache.lambda$getChatters$5(ViewerCache.java:213)
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:58)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4495)
+	at reactor.core.publisher.Mono.subscribeWith(Mono.java:4561)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4323)
+	at com.gmt2001.twitch.cache.ViewerCache.getChatters(ViewerCache.java:249)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+[03-23-2024 @ 23:23:29.773 GMT] [getProviderEmotes()@EmotesCache.java:140] Failed to get local emotes of sevenTv:tv.phantombot.twitch.emotes.EmoteApiRequestFailedException: Could not process returned json
+[03-23-2024 @ 23:45:49.082 GMT] [run()@TwitchValidate.java:346] Attempt to validate API (apioauth) OAUTH token failed.
+[03-23-2024 @ 23:55:21.804 GMT] [handleRequest()@Helix.java:228] java.util.concurrent.TimeoutException: null
+[03-23-2024 @ 23:55:21.817 GMT] [handleRequest()@Helix.java:228]
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at com.gmt2001.httpclient.HttpClient.request(HttpClient.java:113)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:276)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:225)
+	at tv.phantombot.twitch.api.Helix.handleRequest(Helix.java:355)
+	at tv.phantombot.twitch.api.Helix.lambda$getChannelTeamsAsync$18(Helix.java:1052)
+	at tv.phantombot.twitch.api.Helix.lambda$handleQueryAsync$3(Helix.java:362)
+	at reactor.core.publisher.MonoCreate.subscribe(MonoCreate.java:58)
+	at reactor.core.publisher.MonoCacheTime.subscribeOrReturn(MonoCacheTime.java:143)
+	at reactor.core.publisher.Mono.subscribe(Mono.java:4480)
+	at reactor.core.publisher.Mono.block(Mono.java:1711)
+	at com.gmt2001.TwitchAPIv5.getChannelTeams(TwitchAPIv5.java:1078)
+	at tv.phantombot.cache.TwitchTeamsCache.updateCache(TwitchTeamsCache.java:91)
+	at tv.phantombot.cache.TwitchTeamsCache.run(TwitchTeamsCache.java:74)
+	at java.base/java.lang.Thread.run(Unknown Source)

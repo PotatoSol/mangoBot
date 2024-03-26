@@ -3,8 +3,8 @@
 // Do NOT Modify! Overwritten when PhantomBot is restarted!
 var panelSettings = {
     panelPort   : 25000,
-    channelName : "potatosol",
-    auth        : "9GwJwIlsfw8McDWDOamiKw5qkTAjkM",
+    channelName : "lynn_doesnt_pray",
+    auth        : "54jopxFfkpN9TuuaTo1eG9Nt8zFhWC",
     http        : "https://"
 };
 

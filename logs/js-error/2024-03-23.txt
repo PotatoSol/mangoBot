@@ -1,0 +1,4 @@
+[03-23-2024 @ 23:22:13.750 GMT] [followHandler.js:59] JavaException: reactor.core.Exceptions$ReactiveException: java.io.IOException: {"_success":true,"_post":"{\"type\":\"channel.follow\",\"version\":\"2\",\"condition\":{\"broadcaster_user_id\":\"221292314\",\"moderator_user_id\":\"37155370\"},\"transport\":{\"method\":\"websocket\",\"session_id\":\"AgoQCYKT2vmTR1yRjyU7y1HxZBIGY2VsbC1i\"}}","_exception":"","_exceptionMessage":"","_type":"POST","error":"Forbidden","message":"subscription missing proper authorization","_url":"/eventsub/subscriptions","_http":403,"status":403}
+[03-23-2024 @ 23:49:21.510 GMT] [init.js:663] Command doesn't exist or is disabled/restricted: ping
+[03-23-2024 @ 23:49:23.926 GMT] [init.js:663] Command doesn't exist or is disabled/restricted: shopping
+[03-23-2024 @ 23:49:51.166 GMT] [init.js:663] Command doesn't exist or is disabled/restricted: grind

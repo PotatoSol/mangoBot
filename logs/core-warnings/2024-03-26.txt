@@ -1,0 +1,69 @@
+[03-26-2024 @ 03:43:00.289 GMT] [onClose()@TwitchMessageInterface.java:399] Connection to TMI closed [0, channel closed]
+[03-26-2024 @ 03:43:00.708 GMT] [onClose()@TwitchPubSub.java:381] Code [0] Reason [channel closed]
+[03-26-2024 @ 03:44:18.968 GMT] [initChat()@PhantomBot.java:409] Detected new installation, starting setup process...
+[03-26-2024 @ 03:44:19.051 GMT] [initChat()@PhantomBot.java:425] Will check again in 5 seconds
+[03-26-2024 @ 03:44:24.072 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-26-2024 @ 03:44:24.075 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-26-2024 @ 03:44:24.076 GMT] [initChat()@PhantomBot.java:425] Will check again in 10 seconds
+[03-26-2024 @ 03:44:34.082 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-26-2024 @ 03:44:34.086 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-26-2024 @ 03:44:34.088 GMT] [initChat()@PhantomBot.java:425] Will check again in 20 seconds
+[03-26-2024 @ 03:44:57.366 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-26-2024 @ 03:44:57.367 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-26-2024 @ 03:44:57.368 GMT] [initChat()@PhantomBot.java:425] Will check again in 40 seconds
+[03-26-2024 @ 03:45:37.384 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-26-2024 @ 03:45:37.389 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-26-2024 @ 03:45:37.392 GMT] [initChat()@PhantomBot.java:425] Will check again in 60 seconds
+[03-26-2024 @ 03:46:37.400 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-26-2024 @ 03:46:37.402 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-26-2024 @ 03:46:37.404 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-26-2024 @ 03:46:37.408 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-26-2024 @ 03:47:37.423 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-26-2024 @ 03:47:37.438 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-26-2024 @ 03:47:37.443 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-26-2024 @ 03:47:37.470 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-26-2024 @ 03:48:37.611 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as afalseplayer. Some features may not work
+[03-26-2024 @ 03:48:38.091 GMT] [handleRequest()@Helix.java:316] Helix rejected a request [/chat/chatters?broadcaster_id=545675004&moderator_id=221292314&first=1000] 403 Forbidden: user 221292314 does not have moderator permissions for channel 545675004
+[03-26-2024 @ 03:49:02.675 GMT] [onClose()@TwitchMessageInterface.java:399] Connection to TMI closed [0, channel closed]
+[03-26-2024 @ 03:49:03.101 GMT] [onClose()@TwitchPubSub.java:381] Code [0] Reason [channel closed]
+[03-26-2024 @ 03:49:20.795 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:272] API (apioauth) is not logged in as afalseplayer but CHAT (oauth) is. OAuth tokens may be reversed
+[03-26-2024 @ 03:49:21.524 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:272] API (apioauth) is not logged in as afalseplayer but CHAT (oauth) is. OAuth tokens may be reversed
+[03-26-2024 @ 03:49:22.870 GMT] [handleRequest()@Helix.java:316] Helix rejected a request [/chat/chatters?broadcaster_id=545675004&moderator_id=221292314&first=1000] 403 Forbidden: user 221292314 does not have moderator permissions for channel 545675004
+[03-26-2024 @ 03:50:14.071 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:272] API (apioauth) is not logged in as afalseplayer but CHAT (oauth) is. OAuth tokens may be reversed
+[03-26-2024 @ 03:50:14.728 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:272] API (apioauth) is not logged in as afalseplayer but CHAT (oauth) is. OAuth tokens may be reversed
+[03-26-2024 @ 03:50:16.593 GMT] [handleRequest()@Helix.java:316] Helix rejected a request [/chat/chatters?broadcaster_id=545675004&moderator_id=221292314&first=1000] 403 Forbidden: user 221292314 does not have moderator permissions for channel 545675004
+[03-26-2024 @ 03:50:48.111 GMT] [initChat()@PhantomBot.java:409] Detected new installation, starting setup process...
+[03-26-2024 @ 03:50:48.253 GMT] [initChat()@PhantomBot.java:425] Will check again in 5 seconds
+[03-26-2024 @ 03:50:53.272 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-26-2024 @ 03:50:53.274 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-26-2024 @ 03:50:53.279 GMT] [initChat()@PhantomBot.java:425] Will check again in 10 seconds
+[03-26-2024 @ 03:51:03.292 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-26-2024 @ 03:51:03.295 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-26-2024 @ 03:51:03.296 GMT] [initChat()@PhantomBot.java:425] Will check again in 20 seconds
+[03-26-2024 @ 03:51:23.301 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-26-2024 @ 03:51:23.304 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-26-2024 @ 03:51:23.305 GMT] [initChat()@PhantomBot.java:425] Will check again in 40 seconds
+[03-26-2024 @ 03:52:03.314 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-26-2024 @ 03:52:03.319 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-26-2024 @ 03:52:03.319 GMT] [initChat()@PhantomBot.java:425] Will check again in 60 seconds
+[03-26-2024 @ 03:53:03.335 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-26-2024 @ 03:53:03.341 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-26-2024 @ 03:53:03.341 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-26-2024 @ 03:53:03.343 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-26-2024 @ 03:54:03.358 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-26-2024 @ 03:54:03.366 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-26-2024 @ 03:54:03.367 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-26-2024 @ 03:54:03.368 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-26-2024 @ 03:55:03.376 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-26-2024 @ 03:55:03.378 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-26-2024 @ 03:55:03.380 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-26-2024 @ 03:55:03.383 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-26-2024 @ 03:56:03.637 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as lynn_doesnt_pray. Some features may not work
+[03-26-2024 @ 16:16:47.272 GMT] [onClose()@TwitchMessageInterface.java:399] Connection to TMI closed [0, channel closed]
+[03-26-2024 @ 16:16:47.393 GMT] [onClose()@TwitchPubSub.java:381] Code [0] Reason [channel closed]
+[03-26-2024 @ 16:16:48.118 GMT] [reconnect()@TwitchPubSub.java:147] Delaying next reconnect (PubSub) 1 seconds...
+[03-26-2024 @ 16:16:48.176 GMT] [reconnect()@TwitchSession.java:162] Delaying next reconnect 1 seconds...
+[03-26-2024 @ 16:17:06.418 GMT] [handleRequest()@Helix.java:316] Helix rejected a request [/eventsub/subscriptions?id=396b912f-ad5b-4eb5-a7a4-0ae1e0c00b08] 404 Not Found: not found
+[03-26-2024 @ 17:10:45.031 GMT] [handleRequest()@Helix.java:316] Helix rejected a request [/eventsub/subscriptions?id=396b912f-ad5b-4eb5-a7a4-0ae1e0c00b08] 404 Not Found: not found
+[03-26-2024 @ 17:25:19.555 GMT] [onClose()@TwitchMessageInterface.java:399] Connection to TMI closed [0, channel closed]
+[03-26-2024 @ 17:25:19.993 GMT] [onClose()@TwitchPubSub.java:381] Code [0] Reason [channel closed]

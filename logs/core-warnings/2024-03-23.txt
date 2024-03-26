@@ -1,0 +1,52 @@
+[03-23-2024 @ 23:21:13.970 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as lynn_doesnt_pray. Some features may not work
+[03-23-2024 @ 23:21:14.501 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as lynn_doesnt_pray. Some features may not work
+[03-23-2024 @ 23:21:15.520 GMT] [handleRequest()@Helix.java:316] Helix rejected a request [/chat/chatters?broadcaster_id=221292314&moderator_id=37155370&first=1000] 403 Forbidden: user 37155370 does not have moderator permissions for channel 221292314
+[03-23-2024 @ 23:21:26.581 GMT] [onClose()@TwitchMessageInterface.java:399] Connection to TMI closed [0, channel closed]
+[03-23-2024 @ 23:21:27.002 GMT] [onClose()@TwitchPubSub.java:381] Code [0] Reason [channel closed]
+[03-23-2024 @ 23:21:49.857 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as lynn_doesnt_pray. Some features may not work
+[03-23-2024 @ 23:21:50.365 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as lynn_doesnt_pray. Some features may not work
+[03-23-2024 @ 23:21:51.260 GMT] [handleRequest()@Helix.java:316] Helix rejected a request [/chat/chatters?broadcaster_id=221292314&moderator_id=37155370&first=1000] 403 Forbidden: user 37155370 does not have moderator permissions for channel 221292314
+[03-23-2024 @ 23:37:33.634 GMT] [initChat()@PhantomBot.java:409] Detected new installation, starting setup process...
+[03-23-2024 @ 23:37:33.729 GMT] [initChat()@PhantomBot.java:425] Will check again in 5 seconds
+[03-23-2024 @ 23:37:38.739 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-23-2024 @ 23:37:38.743 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-23-2024 @ 23:37:38.745 GMT] [initChat()@PhantomBot.java:425] Will check again in 10 seconds
+[03-23-2024 @ 23:37:48.749 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-23-2024 @ 23:37:48.758 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-23-2024 @ 23:37:48.762 GMT] [initChat()@PhantomBot.java:425] Will check again in 20 seconds
+[03-23-2024 @ 23:38:08.779 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-23-2024 @ 23:38:08.784 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-23-2024 @ 23:38:08.786 GMT] [initChat()@PhantomBot.java:425] Will check again in 40 seconds
+[03-23-2024 @ 23:38:48.800 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-23-2024 @ 23:38:48.802 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-23-2024 @ 23:38:48.803 GMT] [initChat()@PhantomBot.java:425] Will check again in 60 seconds
+[03-23-2024 @ 23:39:48.812 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-23-2024 @ 23:39:48.820 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-23-2024 @ 23:39:48.824 GMT] [initChat()@PhantomBot.java:425] Will check again in 60 seconds
+[03-23-2024 @ 23:40:48.838 GMT] [initChat()@PhantomBot.java:414] Setup not completed yet. Please set the channel to join
+[03-23-2024 @ 23:40:48.841 GMT] [initChat()@PhantomBot.java:415] Scroll up in the console to see instructions and logins
+[03-23-2024 @ 23:40:48.842 GMT] [initChat()@PhantomBot.java:425] Will check again in 60 seconds
+[03-23-2024 @ 23:41:48.851 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-23-2024 @ 23:41:48.855 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-23-2024 @ 23:41:48.856 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-23-2024 @ 23:41:48.857 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-23-2024 @ 23:42:48.869 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-23-2024 @ 23:42:48.872 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-23-2024 @ 23:42:48.873 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-23-2024 @ 23:42:48.874 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-23-2024 @ 23:43:48.886 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-23-2024 @ 23:43:48.891 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-23-2024 @ 23:43:48.896 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-23-2024 @ 23:43:48.904 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-23-2024 @ 23:44:48.921 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-23-2024 @ 23:44:48.923 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-23-2024 @ 23:44:48.923 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-23-2024 @ 23:44:48.925 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-23-2024 @ 23:45:48.938 GMT] [initChat()@PhantomBot.java:433] OAuth was invalid, not starting TMI (Chat)
+[03-23-2024 @ 23:45:48.941 GMT] [initChat()@PhantomBot.java:434] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[03-23-2024 @ 23:45:48.942 GMT] [initChat()@PhantomBot.java:435] The default URL is http://localhost:25000/oauth/
+[03-23-2024 @ 23:45:48.944 GMT] [initChat()@PhantomBot.java:438] Will check again in 60 seconds
+[03-23-2024 @ 23:47:33.889 GMT] [onMessage()@UserStateTMIProcessor.java:71] afalseplayer is not detected as a moderator!
+[03-23-2024 @ 23:47:33.891 GMT] [onMessage()@UserStateTMIProcessor.java:72] A lower rate limit is being used to prevent global muting.
+[03-23-2024 @ 23:47:33.892 GMT] [onMessage()@UserStateTMIProcessor.java:73] To fix this, the broadcaster must add afalseplayer as a moderator in Stream Manager
+[03-23-2024 @ 23:47:33.897 GMT] [onMessage()@UserStateTMIProcessor.java:74] or type the following command in Twitch Chat: /mod afalseplayer

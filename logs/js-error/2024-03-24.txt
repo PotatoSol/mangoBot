@@ -1,0 +1,5 @@
+[03-24-2024 @ 00:04:44.282 GMT] [init.js:663] Command doesn't exist or is disabled/restricted: cum234
+[03-24-2024 @ 00:07:21.337 GMT] [init.js:663] Command doesn't exist or is disabled/restricted: ping
+[03-24-2024 @ 00:07:41.265 GMT] [init.js:663] Command doesn't exist or is disabled/restricted: ping
+[03-24-2024 @ 00:08:47.027 GMT] [streamInfo.js:544] Failed to change the status. The Twitch API might be having issues.
+[03-24-2024 @ 00:08:47.051 GMT] [streamInfo.js:545] Status contains banned words.

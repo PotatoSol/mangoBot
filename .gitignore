@@ -1,0 +1,8 @@
+addons/healthcheck.txt
+addons/followHandler/followcount.txt
+config/phantombot.h2.mv.db
+web/common/js/wsConfig.js
+web/panel/img/logo.jpeg
+web/panel/js/utils/gamesList.txt
+web/playlist/js/playerConfig.js
+web/ytplayer/js/playerConfig.js

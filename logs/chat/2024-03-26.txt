@@ -1,0 +1,23 @@
+[03-26-2024 @ 01:18:00.122 GMT] lynn_doesnt_pray: !fudgenade
+[03-26-2024 @ 01:18:28.673 GMT] afalseplayer: lynn_doesnt_pray has launched a nuke!
+[03-26-2024 @ 01:18:28.661 GMT] lynn_doesnt_pray: !fudgenuke
+[03-26-2024 @ 01:22:41.903 GMT] lynn_doesnt_pray: !fudgemine lynn
+[03-26-2024 @ 01:22:41.953 GMT] afalseplayer: lynn_doesnt_pray planted a mine! There are now 17 mines planted!
+[03-26-2024 @ 01:22:56.453 GMT] lynn_doesnt_pray: !fudgemine 3f3f3f
+[03-26-2024 @ 01:22:56.468 GMT] afalseplayer: lynn_doesnt_pray planted a mine! There are now 18 mines planted!
+[03-26-2024 @ 01:22:57.959 GMT] lynn_doesnt_pray: 3f3f3f
+[03-26-2024 @ 04:04:35.433 GMT] lynn_doesnt_pray: !ping
+[03-26-2024 @ 04:04:38.888 GMT] lynn_doesnt_pray: !jmook
+[03-26-2024 @ 04:04:52.504 GMT] lynn_doesnt_pray: !jmook
+[03-26-2024 @ 04:05:32.211 GMT] lynn_doesnt_pray: !fudgeu
+[03-26-2024 @ 04:06:06.572 GMT] lynn_doesnt_pray: !fudge
+[03-26-2024 @ 04:06:11.807 GMT] lynn_doesnt_pray: !fudgeu fartamor
+[03-26-2024 @ 04:06:19.628 GMT] lynn_doesnt_pray: !prediction
+[03-26-2024 @ 04:06:22.003 GMT] lynn_doesnt_pray: !pred
+[03-26-2024 @ 04:06:23.802 GMT] lynn_doesnt_pray: !preds
+[03-26-2024 @ 04:06:27.232 GMT] lynn_doesnt_pray: !prediction 1 2 3
+[03-26-2024 @ 04:06:32.024 GMT] lynn_doesnt_pray: !prediction open
+[03-26-2024 @ 04:06:34.183 GMT] lynn_doesnt_pray: !~help
+[03-26-2024 @ 04:06:35.885 GMT] lynn_doesnt_pray: !help
+[03-26-2024 @ 04:06:38.235 GMT] lynn_doesnt_pray: !prediction help
+[03-26-2024 @ 04:09:48.878 GMT] lynn_doesnt_pray: !prediction options

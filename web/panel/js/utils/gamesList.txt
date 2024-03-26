@@ -3561,6 +3561,7 @@ Amagon
 Amagoushi no Yakata
 Amakara Twins: Souane to Issho
 Amakuchi! Dairoujou
+Amanda the Adventurer
 Amaranth III
 Amaranthine Voyage: Legacy of the Guardians
 Amaranthine Voyage: The Living Mountain
@@ -3773,6 +3774,7 @@ Amusement Planet Phantasmagoria
 Amy
 Amy's Fantasies
 Amy's Greenmart
+Amygdala
 An Airport Game
 An Airport for Aliens Currently Run by Dogs 
 An American Tail
@@ -4169,6 +4171,7 @@ Anodyne
 Anodyne 2: Return to Dust
 Anomalies
 Anomaly 2
+Anomaly Agent
 Anomaly Defenders
 Anomaly Korea
 Anomaly Warzone Earth Mobile Campaign
@@ -5236,6 +5239,7 @@ Asmik-kun World 2
 Asoberu Eigo: Word Magic DS
 Asobitaizen51
 Asobo Rakugaki
+Asonde Igo ga Tsuyoku-naru!! Ginsei Igo DS
 Asonde Mahjong ga Tsuyoku-naru! Ginsei Mahjong DX
 Asonde Shogi ga Tsuyoku-naru! Ginsei Shogi DX
 Asonde Shogi ga Tsuyoku-naru!! Ginsei Shogi DS
@@ -5386,6 +5390,7 @@ Asteroid Fight
 Asteroid Fire
 Asteroid Miner
 Asteroid Quest! Classic
+Asteroid Run: No Questions Asked
 Asteroid Smash
 Asteroidea
 Asteroids
@@ -5452,6 +5457,7 @@ Astro Chef
 Astro Colony
 Astro Command
 Astro Duel
+Astro Duel 2
 Astro Duel Deluxe
 Astro Empires
 Astro Emporia
@@ -5996,6 +6002,7 @@ Avoid the Noid
 Avoid: Classic Edition
 Avoider
 Avoidon
+Avoo
 Avorion
 Avowed
 Avoyd
@@ -6385,6 +6392,7 @@ Backgammon Blitz
 Backgammon Deluxe
 Backlash
 Backlash: A Turret Gunner Simulation
+Backpack Battles
 Backpack Hero
 Backpack Twins
 Backpacker
@@ -6619,6 +6627,7 @@ Ball of Light
 BallDrop
 Ballad of Solar
 Ballade For Maria
+Ballads at Midnight
 Ballads of Hongye
 Ballads of Reemus: When the Bed Bites
 Ballance
@@ -8223,6 +8232,7 @@ Big Striker
 Big Thanks Super Keirin
 Big Thinkers! 1st Grade
 Big Thinkers! Kindergarten
+Big Time
 Big Time Rush: Dance Party
 Big Time Sports
 Big Titty Teacher: Hentai School Life
@@ -8374,6 +8384,7 @@ Biomass
 Biome 3D
 Biomechanical Toy
 Biomes: Survival Era
+Biomorph
 Biomotor Unitron
 Biomutant
 Biomydra
@@ -12065,6 +12076,7 @@ CatCity: Smash
 CatDog: Quest for the Golden Hydrant
 CatRoots
 Catachresis: A Way Too Scary Game
+Cataclismo
 Cataclysm: Dark Days Ahead
 CataclysmRL
 Catacomb
@@ -14303,6 +14315,7 @@ Confederate Express
 Confess My Love
 Confidential Mission
 Confidential Money
+Confiscator
 Conflicks: Revolutionary Space Battles
 Conflict
 Conflict 2500
@@ -14388,6 +14401,7 @@ Conspiracies
 Conspiracies II: Lethal Networks
 Conspiracy Genius of Three Kingdoms
 Conspiracy: Weapons of Mass Destruction
+Constance
 Constant C
 Constantine
 Constitution
@@ -14712,6 +14726,7 @@ Cosmic Osmo's Hex Isle
 Cosmic Pirate
 Cosmic Race
 Cosmic Raiders
+Cosmic Reach
 Cosmic Relief: Prof. Renegade to the Rescue
 Cosmic Rift
 Cosmic Rochambo
@@ -15259,6 +15274,7 @@ CrimeCraft: BleedOut
 CrimeCraft: Kingpin
 CrimeWave
 Crimesight
+Criminal Archives: Alphabetic Murders
 Criminal Bundle
 Criminal Case
 Criminal Girls
@@ -16806,6 +16822,7 @@ Dark Side
 Dark Side of the Moon
 Dark Sider
 Dark Signs
+Dark Sky
 Dark Snow
 Dark Souls
 Dark Souls II
@@ -17442,6 +17459,7 @@ Death Toll
 Death Track: Resurrection
 Death Trap
 Death Trash
+Death Trick: Double Blind
 Death Trips
 Death Wake
 Death Wish 3
@@ -18211,6 +18229,7 @@ Destiny's Sword
 Destiny6
 Destrega
 Destropolis
+Destroy
 Destroy All Humans!
 Destroy All Humans! 2
 Destroy All Humans! 2: Reprobed
@@ -18480,6 +18499,7 @@ Diary Girl
 Diatomic
 Dicast: Rules of Chaos.
 Dice & Dungeons
+Dice Blaze
 Dice Brawl: Captain's League 
 Dice Defenders
 Dice Hunter: Quest of the Dicemancer
@@ -18487,6 +18507,7 @@ Dice Legacy
 Dice Puzzle
 Dice de Chocobo
 Dice of Olympus
+Dice-Zee
 Dicefolk
 Diceies
 Dicetiny
@@ -20502,6 +20523,7 @@ Drastic Killer
 Draugen
 Draughts Genius
 Draw
+Draw & Guess
 Draw Chilly
 Draw Nine
 Draw Poker
@@ -20886,6 +20908,7 @@ Duck Life: Battle
 Duck Life: Space
 Duck Man
 Duck Maze
+Duck Paradox
 Duck Punt
 Duck Season
 Duck Shoot
@@ -20987,6 +21010,7 @@ Dune Awakening
 Dune II: The Building of a Dynasty
 Dune Sea
 Dune!
+Dune: Imperium
 Dune: Spice Wars
 Dune: The Battle for Arrakis
 Dunes of War
@@ -22100,6 +22124,7 @@ Elite Lord of Alliance
 Elite Plus
 Elite Soccer
 Elite Starfighter
+Elite Status: Platinum Concierge
 Elite Warriors: Vietnam
 Elite: Dangerous
 Elite: The New Kind
@@ -28594,6 +28619,7 @@ Godzilla Trading Battle
 Godzilla Unleashed: Double Smash
 Godzilla VS 3 Daikaiju
 Godzilla Voxel Wars 
+Godzilla X Kong: Titan Chasers
 Godzilla!
 Godzilla-Kun
 Godzilla: Battle Legends
@@ -31281,6 +31307,7 @@ Hermie Hopperhead: Scrap Panic
 Hermina Lumen is Only Human
 Hermina to Culus: Lillie no Atelier Mou Hitotsu no Monogatari
 Hermit Complex
+Hermit and Pig
 Hermit the Sluggish Caterpillar of the Sea
 Hermitage: Strange Case Files
 Hero
@@ -31783,6 +31810,7 @@ Hidden Survivor
 Hidden Swap Buttons
 Hidden Through Time
 Hidden Through Time 2
+Hidden Through Time 2: Myths & Magic
 Hidden Treasures in the Forest of Dreams
 Hidden Valley 
 Hidden Valley Tower Defense
@@ -34139,6 +34167,7 @@ Inline
 Inline Race
 Inmates
 Inmost
+Innchanted
 Inner
 Inner Abyss
 Inner Chains
@@ -36074,6 +36103,7 @@ Juvei Quest
 Jyuujigen Ripputai Sypher Portable
 Jyym Pearson Adventure Tri-Pack
 Jījiǎ Xuànfēng Gédòu-dà
+Jīn Pūkè
 K'nife Fight
 K-1 Grand Prix
 K-1 Oujya ni Narou!
@@ -36551,6 +36581,7 @@ Katharsis
 Katharsis: The Second Act
 Kathy Rain
 Katou Hifumi Kyu-dan Shogi Club
+Katsl
 Katsuragi Misato Houdou Keikaku
 Katte ni Shirokuma
 Katto
@@ -36890,6 +36921,7 @@ Kidnapped Girl
 Kidosenshi Jyundam Seed Destiny
 Kidou Butouden G-Gundam
 Kidou Gekidan Haro Ichiza: Gundam Mahjong + Z: Sara ni Deki Ruyouni Nattana!
+Kidou Gekidan Haro Ichiza: Gundam Mahjong DS: Oyaji ni mo Agara Reta Koto Nainoni!
 Kidou Gekidan Haro Ichiza: Haro no Puyo Puyo
 Kidou Keisatsu Patlabor
 Kidou Keisatsu Patlabor - Griffon Hen
@@ -40076,6 +40108,7 @@ Lore: Aftermath
 Lorelai
 Lorelei and the Laser Eyes
 Loren The Amazon Princess
+Lorenzo il Magnifico
 Lorera
 Loretta
 Loretta no Shouzou
@@ -41302,6 +41335,7 @@ Magritte
 Magrunner: Dark Pulse
 Magus
 Magus in Mystic Geometries
+Mah Jong Parlour
 Mah Jong Quest
 Mah Jong Quest: Expeditions
 Mah Jongg -V-G-A-
@@ -41603,6 +41637,7 @@ Make My Video: INXS
 Make My Video: Kris Kross
 Make My Video: Marky Mark and the Funky Bunch
 Make Sail
+Make Way
 Make Your Own Murder Party
 Make a Killing
 Make it indie!
@@ -42121,6 +42156,7 @@ Maru-chan de Guu!
 Maruko Deluxe Quiz
 Marusa no Onna
 Marvel
+Marvel 1943: Rise of Hydra
 Marvel Avengers Academy
 Marvel Avengers Alliance Tactics
 Marvel Avengers: Battle for Earth
@@ -42216,6 +42252,7 @@ Mashō no Yakata Goblin
 Mask Of Fury 
 Mask of Mists
 Mask of Semblance
+Mask of the Plague Doctor
 Mask of the Rose
 MaskGun
 Masked Forces
@@ -42410,6 +42447,7 @@ Matrimelee
 Matrix Runner
 Matrix: Gridrunner 2
 Matsukata Hiroki no Super Trawling
+Matsukeke BURST!
 Matsumoto Tooru no Kabushiki Hisshou Gaku
 Matsumoto Tooru no Kabushiki Hisshou Gaku 2
 Matsumura Kunihiro Den: Saikyou no Rekishi wo Nurikaero!
@@ -43666,6 +43704,7 @@ Midnight Quest
 Midnight Race Club: Supercharged!
 Midnight Racing
 Midnight Racing: Long Night
+Midnight Raider
 Midnight Raiders
 Midnight Renegade: Recollections
 Midnight Resistance
@@ -43893,6 +43932,7 @@ Mimpi Dreams
 Min'na de Kūki Yomi. 1・2・3+
 Mina & Michi
 Mina the Hollower
+Minami Lane
 Minami no Umi no Odyssey
 Minasan No Okagesamadesu!
 Minazuki-tan: InfiltraTitty Lewd Beast Academy
@@ -44228,6 +44268,7 @@ Missile Command Recharged
 Missile Conflict Blitz
 Missile Control
 Missile Dancer
+Missile Dancer 2
 Missile Defender
 Missile Defense 3-D
 Missile Strike : War Arcade
@@ -44801,6 +44842,7 @@ Monster League
 Monster Legends
 Monster Life
 Monster Logic
+Monster Loves You Too!
 Monster Loves You!
 Monster Madness Online
 Monster Madness: Battle for Suburbia
@@ -47709,6 +47751,7 @@ Night and Day
 Night at the Museum: Battle of the Smithsonian
 Night in the Storm
 Night in the Woods
+Night of Full Moon
 Night of Terror
 Night of the Blood Moon
 Night of the Cephalopods
@@ -48491,6 +48534,7 @@ OK K.O.! Let’s Play Heroes
 OK, Dracula
 OK/Normal
 OLDTV
+OLLLO
 OMG HD Zombies!
 OMG-Z
 OMG: Our Manic Game
@@ -49200,6 +49244,7 @@ Ooblets
 Ooer
 Ooga Booga
 Ooh & Aah's Fetch-A-Fruit
+Ooka Ooka Adventure
 Ookami Otoko Satsujin Jiken
 Ookami to Koushinryou: Boku to Horo no Ichinen
 Ookami to Koushinryou: Umi o Wataru Kaze
@@ -49546,6 +49591,7 @@ Otaku no Seiza: An Adventure in the Otaku Galaxy
 Otaku's Adventure
 Othello
 Othello Millennium
+Othello Shiyouyo
 Othello World
 Othello World II: Yume to Michi e no Chousen
 Othello de Othello DS
@@ -49678,6 +49724,7 @@ Out of the Park Baseball 20
 Out of the Park Baseball 2005
 Out of the Park Baseball 21
 Out of the Park Baseball 22
+Out of the Park Baseball 25
 Out of the Park Baseball 3
 Out of the Park Baseball 4
 Out of the Park Baseball 5
@@ -49785,6 +49832,7 @@ Outta Gas
 Outtrigger
 Outwar
 Outward
+Outward 2
 Outwars
 Outwit!
 Outzone
@@ -50601,6 +50649,7 @@ Paragon: The Overprime
 Paragraph 78
 Paralives
 Parallax
+Parallel
 Parallel Kingdom
 Parallelia
 Parallels Cross
@@ -51448,6 +51497,7 @@ Physical Contact: Picture Place
 Physical Contact: Speed
 Physical Exorcism: Case 01
 Physican
+Physics! Fun
 Physicus: Save the World with Science!
 Physint (working title)
 Physix Break
@@ -52001,6 +52051,7 @@ Pizza Game
 Pizza Morgana
 Pizza Panic
 Pizza Pop!
+Pizza Possum
 Pizza Time Explosion
 Pizza Titan Ultra
 Pizza Tower
@@ -53207,7 +53258,10 @@ Pretty Girls Game Collection 2
 Pretty Girls Game Collection 3
 Pretty Girls Klondike Solitaire
 Pretty Girls Mahjong Solitaire
+Pretty Girls Mahjong Solitaire: Blue
+Pretty Girls Mahjong Solitaire: Green
 Pretty Girls Panic!
+Pretty Girls Panic! Plus
 Pretty Girls Rivers
 Pretty Girls Speed
 Pretty Girls Tile Match
@@ -53495,6 +53549,7 @@ Pro Mahjong Tsuwamono GB
 Pro Mahjong Tsuwamono GB 2
 Pro Mahjong Tsuwamono GBA
 Pro Mountain Bike Simulator
+Pro Moves Soccer
 Pro Pilkki 2
 Pro Pilot
 Pro Pilot '99
@@ -55301,6 +55356,7 @@ Rainbow Moon
 Rainbow Rage Squad
 Rainbow Rapture
 Rainbow Reactor
+Rainbow Six: SMOL
 Rainbow Skies
 Rainbow Walker
 Rainbow Warrior
@@ -55324,6 +55380,7 @@ Rakion
 Rakker and the Sinking Cities
 Raklem: War on Earth
 Rakuen
+Rakugaki Kingdom
 Rakugaki Showtime
 Rakugaki Special
 Rakugakids
@@ -55427,6 +55484,7 @@ Random Heroes 2
 Random Heroes 3
 Random Royale 
 Randomish Races
+Randy & Manilla
 Range Game
 Ranger Mission
 Ranger X
@@ -56531,6 +56589,7 @@ Return to Castle Wolfenstein: Tides of War
 Return to Dark Castle
 Return to Eden
 Return to Genesis
+Return to Grace
 Return to Haunted House
 Return to Kroz
 Return to Monkey Island
@@ -56553,6 +56612,7 @@ Returners
 Reunion
 Reunited
 Reus
+Reus 2
 Rev
 Rev Up! RC Grand Prix
 Reveal Fantasia
@@ -58484,6 +58544,7 @@ SOF/Raiders
 SOL Cycling
 SOL: Exodus
 SOMA
+SOPA
 SORA
 SOS
 SOS Survival
@@ -60585,6 +60646,7 @@ Shaun the Sheep: Off His Head
 Shawl
 Shawn Johnson Gymnastics
 Shaype
+Shazballz
 She Dreams Elsewhere
 She Falls to a Perverted Brat
 She Is An "Anal" Slave
@@ -60974,6 +61036,7 @@ Shisen-Sho NIKAKUdori
 Shisen-shou: Joshiryou-hen - Match It
 Shisen-shou: Match-Mania
 Shisha no Yobu Tachi
+Shishi Ballad of the Oracle
 Shit Storm
 Shit!!
 Shiver: Vanishing Hitchhiker
@@ -62178,6 +62241,7 @@ Slave Of God
 Slave Police Michiru & Misuzu
 Slave RPG
 Slave Zero
+Slave Zero X
 Slave of a Witch
 Slave-Maid Princess
 SlaveHack 2
@@ -62369,6 +62433,7 @@ Small Soldiers: Globotech Design Lab
 Small Soldiers: Squad Commander
 Small Town Terrors: Galdor's Bluff
 Small Town Terrors: Pilgrim's Hook
+Small World
 Small World 2
 SmallBall Baseball
 SmallBall Football
@@ -63133,6 +63198,7 @@ Sony Computer Science Kenkyujo Mogi Kenitirou Hakusi Kansyuu: Nou ni Kaikan Aha 
 Sony Computer Science Kenkyujo Mogi Kenitirou Hakusi Kansyuu: Nou ni Kaikan Minna de Aha Taiken!
 Sooty's Fun With Numbers
 Sophia and the Mansion of Doubt
+Sophia the Traveler
 Sophie's Curse
 Sophie's World
 Sophstar
@@ -63284,6 +63350,7 @@ SoulCalibur: Unbreakable Soul
 SoulCraft
 SoulCraft 2
 SoulHunt
+SoulQuest
 SoulSet
 SoulTrap
 Souland
@@ -63779,6 +63846,7 @@ Spark & Sparkle
 Spark Man
 Spark Rising
 Spark The Electric Jester
+Spark Vs The Marshmallows
 Spark World
 Spark the Electric Jester 2
 Spark the Electric Jester 3
@@ -65503,6 +65571,7 @@ Stocks And Bonds
 Stoked
 Stoked: Big Air Edition
 Stolen
+Stolen Realm
 Stolen in 60 Seconds
 Stomp
 Stone
@@ -67370,6 +67439,7 @@ Superman: The Man of Steel
 Superman: The Mysterious Mr. Mist
 Supermarket Mania
 Supermarket Shriek
+Supermarket Simulator
 Supermotor
 Supermoves
 Supernatural Super Squad Fight!
@@ -68950,6 +69020,7 @@ Teenage Mutant Ninja Turtles: Manhattan Missions
 Teenage Mutant Ninja Turtles: Master Splinter's Training Pack
 Teenage Mutant Ninja Turtles: Mutant Madness
 Teenage Mutant Ninja Turtles: Mutant Rumble
+Teenage Mutant Ninja Turtles: Mutants Unleashed
 Teenage Mutant Ninja Turtles: Mutants in Manhattan
 Teenage Mutant Ninja Turtles: Out of the Shadows
 Teenage Mutant Ninja Turtles: Portal Power
@@ -71412,6 +71483,7 @@ The Little Vikings
 The Lodge
 The Logomancer
 The Lone Ranger
+The Lonesome Fog
 The Long Dark
 The Long Drive
 The Long Gate
@@ -73196,6 +73268,7 @@ Thomas the Tank Engine & Friends
 Thomas the Tank Engine 2
 Thomas the Tank Engine and Friends Pinball
 Thomas the Tank Engine's Fun with Words
+Thong Girl: The Video Game
 Thor
 Thor's Hammer
 Thor: God of Thunder
@@ -73664,6 +73737,7 @@ Tiny Robots Recharged
 Tiny Rogues
 Tiny Room Stories: Town Mystery
 Tiny Royale
+Tiny Sasquatch
 Tiny Sea Adventure
 Tiny Shop - Craft and Design
 Tiny Snow
@@ -74280,6 +74354,7 @@ Top Skater
 Top Speed
 Top Spin
 Top Spin 2
+Top Spin 2K25
 Top Spin 3
 Top Spin 4
 Top Striker
@@ -74484,6 +74559,7 @@ Touch Battle Tank: Tag Combat
 Touch Darts
 Touch Detective
 Touch Detective 2 1/2
+Touch Detective 3 + The Complete Case Files
 Touch Dic
 Touch Down Football Solitaire
 Touch Hockey: FS5
@@ -75250,6 +75326,7 @@ Trickster
 Trickster Online
 Trickster VR
 Trickstyle
+Tricky Doors
 Tricky Kick
 Tricky Towers
 Tricky Truck
@@ -75618,6 +75695,7 @@ Tunnels of Armageddon
 Tunnels of Despair
 Tunnels of Doom
 Tunnels of Fahad 
+Tunnet
 Turba
 Turbo
 Turbo 64
@@ -76293,6 +76371,7 @@ Umbra
 Umbraclaw
 Umbrella Corps
 Umesawa Yukari no Igo Seminar
+Umezawa Yukari no Yasashii Igo
 Umfend
 Umi Tsuri Meijin: Suzuki Hen
 Umi no Nushi Tsuri
@@ -76659,7 +76738,6 @@ Untitled Prologue
 Untitled Rebel Wolves Game
 Untitled SIE London Game
 Untitled Shinobi Game
-Untitled Skydance Marvel Game
 Untitled Skydance Star Wars Game
 Untitled Star Wars FPS
 Untitled Star Wars Strategy
@@ -77947,6 +78025,7 @@ Voxel Turf
 Voxel Tycoon
 Voxel Warfare Online
 VoxelMaze
+VoxelScaper
 Voxeldom
 Voxelgram
 Voxelstein 3D
@@ -78307,6 +78386,7 @@ Wangan Warrior X
 Wani Wani World
 Wanking Simulator
 Wanko Mix
+Wanko to Asobou! Mezase Dog Trainer!
 Wanko to Kurasou
 Wanko to Lily
 Wanna Be Wizard
@@ -78390,6 +78470,7 @@ War of Angels
 War of Ashird
 War of Crown
 War of Eclipse
+War of Flowers
 War of Nerves!
 War of Ninja
 War of Omens
@@ -79065,6 +79146,7 @@ What happened to Survey Team 4?
 What in The World?
 What the Bat?
 What the Block
+What the Car?
 What the Dub?!
 What the Duck
 What the Golf?
@@ -79473,6 +79555,8 @@ WinPlex
 WinRisk
 WinTrek
 WinWheel
+Wind Peaks
+Wind Peaks 2
 Wind Slayer
 Wind and Water: Puzzle Battles
 Wind of Luck: Arena
@@ -79862,6 +79946,7 @@ Wizkid: The Story of Wizball II
 Wizodd
 Wizorb
 Wizplus
+Wizzerd Quest
 Wo Long: Fallen Dynasty
 Wo Yao Da
 WoM
@@ -80534,6 +80619,7 @@ Wújìn Zhī Jiàn Mìngyùn
 Władcy Ciemności
 Włatcy móch wrzód na dópie
 Wǔlín Zhēng Bà Zhī Yīngxióng Tiē
+Wǔzǐqí
 X
 X Games Snowboarder
 X Japan - Virtual Shock 001
@@ -80699,6 +80785,7 @@ Xcellor8
 Xdot
 Xecutor
 Xel
+Xelan Force
 Xena  Warrior Princess
 Xena: Warrior Princess
 Xena: Warrior Princess - The Talisman of Fate
@@ -80982,6 +81069,7 @@ Yellow
 Yellow Lemon
 Yellow Peril
 Yellow Submarine
+Yellow Taxi Goes Vroom
 Yellow the Yellow Artifact
 Yellow: The Yellow Artifact
 Yendorian Tales Book I
@@ -81054,6 +81142,7 @@ Yogi's Great Escape
 Yogoreta Seifuku Hakusyo: Shimai Hagareru
 Yogurting Pop!
 Yogventures!
+Yohane the Parhelion - NUMAZU in the MIRAGE -
 Yohane the Parhelion: BLAZE in the DEEPBLUE
 Yoiyami Dreamer
 Yojigen no Ie: 4 DIMENSION HOUSE
@@ -81780,6 +81869,7 @@ Zodicat
 Zoeti
 Zoey 101
 Zoey 101: Field Trip Fiasco
+Zofia
 Zoids
 Zoids 2: Zenebasu no Gyakushuu
 Zoids Assault

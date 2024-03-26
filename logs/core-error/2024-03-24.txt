@@ -1,0 +1,24 @@
+[03-24-2024 @ 00:06:54.302 GMT] [send()@TwitchSession.java:117] Failed to send message to Twitch [NullPointerException]: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-24-2024 @ 00:06:54.303 GMT] [send()@TwitchSession.java:118] java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+[03-24-2024 @ 00:06:54.335 GMT] [send()@TwitchSession.java:118]
+java.lang.NullPointerException: Cannot invoke "com.gmt2001.twitch.cache.Viewer.id()" because the return value of "com.gmt2001.twitch.cache.ViewerCache.getByLogin(String)" is null
+	at com.gmt2001.twitch.tmi.TMISlashCommands.timeout(TMISlashCommands.java:222)
+	at com.gmt2001.twitch.tmi.TMISlashCommands.checkAndProcessCommands(TMISlashCommands.java:62)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.redirectSlashCommandsAndSendPrivMessage(TwitchMessageInterface.java:223)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:207)
+	at com.gmt2001.twitch.tmi.TwitchMessageInterface.sendPrivMessage(TwitchMessageInterface.java:173)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:92)
+	at tv.phantombot.twitch.irc.TwitchSession.send(TwitchSession.java:128)
+	at tv.phantombot.twitch.irc.TwitchSession.lambda$onNext$3(TwitchSession.java:188)
+	at com.gmt2001.ratelimiters.WindowedRateLimiter.waitAndRun(WindowedRateLimiter.java:158)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:187)
+	at tv.phantombot.twitch.irc.TwitchSession.onNext(TwitchSession.java:33)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consumeNext(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.takeItems(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$BufferedSubscription.consume(Unknown Source)
+	at java.base/java.util.concurrent.SubmissionPublisher$ConsumerTask.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
