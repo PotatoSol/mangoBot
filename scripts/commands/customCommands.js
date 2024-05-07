@@ -647,6 +647,8 @@
          * @commandpath commands - Provides a list of all available custom commands.
          */
         if ($.equalsIgnoreCase(command, 'commands')) {
+            $.say('https://tinyurl.com/mangb0t2comms');
+            /*
             var cmds = $.inidb.GetKeyList('command', ''),
                     aliases = $.inidb.GetKeyList('aliases', ''),
                     externalCommands = $.inidb.GetKeyList('externalCommands', ''),
@@ -680,6 +682,7 @@
                 $.say($.whisperPrefix(sender) + $.lang.get('customcommands.404.no.commands'));
             }
             return;
+            */
         }
 
         /*
