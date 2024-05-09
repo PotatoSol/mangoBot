@@ -23,7 +23,7 @@
 
     //Gets timeout duration on a user
     /*
-     * @transformer customapijson.
+     * @transformer customapijson
      * @formula (customapijson url:str specs:str) httpGet url and extract json info according to specs
      * @labels twitch discord noevent commandevent customapi
      * @notes the command tag (token) can be placed in the url for a secret token saved via !tokencom or the panel
@@ -64,56 +64,13 @@
         }
     }
 
-    function pickupFudge(inputUser, inputFudge, inputReason, inputSender) {
-        removeFudgeStacks(inputUser)
-        let currentTime = Math.floor((Date.now() / 1000));
-        if ($.isMod(inputUser)) {
-            activeChatters = activeChatters.filter((aVictim) => aVictim !== inputSender)
-            $.timeoutUser(inputSender, 600, "the bullet ricocheted off " + inputUser + "'s armor, idiot");
-            return;
-        }
-
-        if (!$.inidb.exists('fudgeStacks', inputUser)) {
-            $.inidb.set('fudgeStacks', inputUser, 0);
-        }
-
-        if (!$.inidb.exists('armor', inputUser)) {
-            $.inidb.set('armor', inputUser, 0);
-            $.inidb.set('fudgeStacks', inputUser, inputFudge);
-            activeChatters = activeChatters.filter((aVictim) => aVictim !== inputUser)
-            lastFudged = $.user.sanitize(inputUser);
-        } else if ($.getIniDbNumber('armor', inputUser) > 0) {
-            $.inidb.incr('armor', inputUser, -1);
-            $.say(inputUser + " had armor!");
-            fudgeUser(inputSender, inputFudge, inputReason, inputUser); //just send it back
-        }
-
-        let fudgestacks = $.getIniDbNumber('fudgeStacks', inputUser);
-        let timestamp = $.getIniDbNumber('timestamp', inputUser);
-        lastFudged = $.user.sanitize(inputUser);
-        let duration;
-        //not currently fudged
-        if (currentTime > timestamp + (fudgestacks * 60)) {
-            $.inidb.set('fudgeStacks', inputUser, inputFudge);
-            $.inidb.set('timestamp', inputUser, currentTime);
-            duration = inputFudge * 60;
-            activeChatters = activeChatters.filter((aVictim) => aVictim !== inputUser)
-        } else {
-            //currently fudged
-            $.inidb.incr('fudgeStacks', inputUser, inputFudge);
-            fudgestacks = $.getIniDbNumber('fudgeStacks', inputUser);
-            duration = currentTime + (fudgestacks * 60) - $.getIniDbNumber('timestamp', inputUser);
-            activeChatters = activeChatters.filter((aVictim) => aVictim !== inputUser)
-        }
-    }
-
     //user should already be sanitized - inputFudge should be stacks
     function fudgeUser(inputUser, inputFudge, inputReason, inputSender) {
         removeFudgeStacks(inputUser)
         let currentTime = Math.floor((Date.now() / 1000));
         if ($.isMod(inputUser)) {
             activeChatters = activeChatters.filter((aVictim) => aVictim !== inputSender)
-            $.timeoutUser(inputSender, 600, "the bullet ricocheted off " + inputUser + "'s armor, idiot");
+            $.timeoutUser(inputSender, 600, "idiot");
             return;
         }
 
@@ -171,20 +128,6 @@
         }
     }
 
-    function pickupArmor(inputUser){
-        if (!$.inidb.exists('armor', inputUser)) {
-            $.inidb.set('armor', inputUser, 1);
-        } else {
-            $.inidb.incr('armor', inputUser, 1);
-        }
-        if ($.getIniDbNumber('armor', inputUser) >= 5 && !$.isMod(inputUser)) {
-            $.inidb.set('armor', inputUser, 0);
-            $.timeoutUser(inputUser, 600, "Your knees break under the weight of your armor!");
-            activeChatters = activeChatters.filter((aVictim) => aVictim !== inputUser)
-            $.say(inputUser + "'s knees break under the weight of their armor!");
-        } 
-    }
-
     function calculateFudge(inputTarget, inputSender) {
         removeFudgeStacks(inputTarget);
         let fudgeAmount = 10;
@@ -215,28 +158,26 @@
     }
 
     function launchNuke() {
-        let indexPos = []; //a list of activeChatters 
-        let aoe = Math.floor(activeChatters.length / 8); //takes 5% of current active chatters
-        if(aoe > 25){
-            aoe = 25;
-        }
-        if (aoe < 8){
-            aoe = 8;
-        }
-        while (indexPos.length < aoe) {
+        let indexPos = []; //a list of activeChatters indexes
+        while (indexPos.length < 25) {
             var randomValue = Math.floor(Math.random() * activeChatters.length);
-            if (indexPos.indexOf(activeChatters[randomValue]) == -1) {
-                indexPos.push(activeChatters[randomValue]);
+            if (!indexPos.includes(randomValue)) {
+                indexPos.push(randomValue);
             }
         }
 
-        let returnString = "The nuke hit ";
-        indexPos.forEach((aVictim, index) => {
+        let victims = []; //a list of users
+        indexPos.forEach((ele) => {
+            victims.push(activeChatters[ele]);
+        })
+
+        let returnString = "The nuke hit "
+        victims.forEach((aVictim, index) => {
             $.timeoutUser(aVictim, 600, "You were nuked!");
             returnString += aVictim;
-            if (index < indexPos.length - 2) {
+            if (index < victims.length - 2) {
                 returnString += ", ";
-            } else if (index < indexPos.length - 1) {
+            } else if (index < victims.length - 1) {
                 returnString += ", and ";
             } else {
                 returnString + "!";
@@ -274,13 +215,6 @@
         }
     })
 
-    $.bind('ircClearchatEvent', function (event) {
-        let timedUser = rmAt($.user.sanitize(event.getSender()));
-        if(activeChatters.indexOf(timedUser) != -1){
-            activeChatters = activeChatters.filter((aVictim) => aVictim !== timedUser)
-        }
-    })
-
     /**
      * @event ircChannelMessage
      */
@@ -289,8 +223,6 @@
             keys = $.inidb.GetKeyList('mines', ''),
             word,
             key;
-
-        let senderUser = rmAt($.user.sanitize(event.getSender()));
         if($.getIniDbNumber('nukecounts', 'countdown') > 0){
             $.inidb.decr('nukecounts', 'countdown', 1);
             let msgcount = $.getIniDbNumber('nukecounts', 'countdown');
@@ -306,15 +238,19 @@
             }
         }
 
-        if ($.isMod(senderUser)) {
+        if ($.isMod(event.getSender())) {
             return;
         }
-        if (activeChatters.indexOf(senderUser) != -1) { //if activechatters has current chatter
-            activeChatters = activeChatters.filter((aVictim) => aVictim !== senderUser) //remove them
+
+        if (activeChatters.indexOf(event.getSender()) != -1) { //if activechatters has current chatter
+            activeChatters = activeChatters.filter((aVictim) => aVictim !== event.getSender()) //remove them
+            activeChatters.push(event.getSender()); //and then put them at the end
+        } else if (activeChatters.length > 200) { //if there are more then 200 activechatters
+            activeChatters.shift(); //remove the first one
+            activeChatters.push(event.getSender()); //put the current chatter at the end
+        } else {
+            activeChatters.push(event.getSender()); //just put them in
         }
-
-        activeChatters.push(senderUser); //put into end
-
         let permitted = $.inidb.GetKeyList('minelayer', '');
         for (j in permitted) {
             if (event.getSender() == permitted[j]) {
@@ -333,7 +269,7 @@
         let duration;
         for (i in keys) {
             key = keys[i].toLowerCase();
-            if (message.toLowerCase().includes(key) && key != '') {
+            if (message.includes(key) && key != '') {
                 duration = $.getIniDbNumber('mines', key);
                 $.inidb.del('mines', key)
                 $.say(event.getSender() + " ran over a mine!");
@@ -403,29 +339,11 @@
         if ($.equalsIgnoreCase(command, 'fudgeduel')) {
             let targetUser = rmAt($.user.sanitize(args[1]));
             let senderUser = rmAt($.user.sanitize(args[0]));
-            if(!$.inidb.exists('duelwins', targetUser)){
-                $.inidb.set('duelwins', targetUser, 0);
-            }
-            if(!$.inidb.exists('duellosses', targetUser)){
-                $.inidb.set('duellosses', targetUser, 0);
-            }
-            if(!$.inidb.exists('duelwins', senderUser)){
-                $.inidb.set('duelwins', senderUser, 0);
-            }
-            if(!$.inidb.exists('duellosses', senderUser)){
-                $.inidb.set('duellosses', senderUser, 0);
-            }
             if (Math.floor(Math.random() * 2)) {
-                $.inidb.incr('duelwins', senderUser, 1);
-                $.inidb.incr('duellosses', targetUser, 1);
-                $.say(senderUser + " (" + $.getIniDbNumber('duelwins', senderUser) + "/" + $.getIniDbNumber('duellosses', senderUser) + ") challenges " + 
-                targetUser + " (" + $.getIniDbNumber('duelwins', targetUser) + "/" + $.getIniDbNumber('duellosses', targetUser) + ") to a duel..." + senderUser + " shoots first!");
+                $.say(senderUser + " challenges " + targetUser + " to a duel..." + senderUser + " shoots first!");
                 fudgeUser(targetUser, calculateFudge(targetUser, senderUser), "You lost the duel!", senderUser);
             } else {
-                $.inidb.incr('duelwins', targetUser, 1);
-                $.inidb.incr('duellosses', senderUser, 1);
-                $.say(senderUser + " (" + $.getIniDbNumber('duelwins', senderUser) + "/" + $.getIniDbNumber('duellosses', senderUser) + ") challenges " + 
-                    targetUser + " (" + $.getIniDbNumber('duelwins', targetUser) + "/" + $.getIniDbNumber('duellosses', targetUser) + ") to a duel..." + targetUser + " shoots first!");
+                $.say(senderUser + " challenges " + targetUser + " to a duel..." + targetUser + " shoots first!");
                 fudgeUser(senderUser, calculateFudge(senderUser, targetUser), "You lost the duel!", targetUser);
             }
         }
@@ -437,7 +355,7 @@
             let targetUser = rmAt($.user.sanitize(args[1]));
             let senderUser = rmAt($.user.sanitize(args[0]));
             $.timeoutUser(senderUser, 600, "For glory.");
-            $.timeoutUser(targetUser, 600, senderUser + " sacrificed themself to take you out!")
+            $.timeoutUser(targetUser, 600, args[1] + " sacrificed themself to take you out!")
             activeChatters = activeChatters.filter((aVictim) => aVictim !== $.user.sanitize(targetUser));
             activeChatters = activeChatters.filter((aVictim) => aVictim !== $.user.sanitize(senderUser));
             $.say(senderUser + " goes out in a blaze of glory! " + targetUser + " was blown up!");
@@ -605,11 +523,10 @@
                     }
                     fudgestacks = $.getIniDbNumber('fudgeStacks', inputUser);
                     let newTimeout = Math.floor(currentTime + (fudgestacks * 60) - timestamp);
-                    if (newTimeout <= 0) {
+                    if (newTimeout < 0) {
                         newTimeout = 0;
                     }
                     $.timeoutUser(inputUser, newTimeout, sender + " gave you a smooch, reducing your fudge! <3");
-                    
                 } else {
                     $.untimeoutUser(inputUser);
                 }
@@ -641,8 +558,8 @@
             if (reason == "" || reason == ".") {
                 reason = "You were timed out."
             }
-            $.timeoutUser(rmAt($.user.sanitize(args[0]), duration, reason));
             activeChatters = activeChatters.filter((aVictim) => aVictim !== rmAt($.user.sanitize[args[0]]))
+            $.timeoutUser(rmAt($.user.sanitize(args[0]), duration, reason));
         }
 
         /*  not enabled
@@ -655,67 +572,10 @@
                 return;
             }
             let duration, optionA, optionB = args;
-        }
 
-        if ($.equalsIgnoreCase(command, 'antiair')) {
-            let senderUser = event.getSender();
-            if(args.length > 0){
-                senderUser = args[0];
-            }
-            if($.getIniDbNumber('nukecounts', 'countdown') <= 0){
-                $.say(senderUser + " launched an anti-air missile, but there's no nuke to stop...");
-                $.timeoutUser(rmAt($.sanitize(senderUser), 600, "There wasn't a nuke to anti-air..."));
-            }
-            let returnString = rmAt(senderUser) + " launched an Anti-air missile...";
-            if(Math.floor(Math.random() * 100) >= 97){
-                returnString += "and it stopped the nuke!";
-                $.inidb.set('nukecounts', 'nukecount', 0);
-                $.inidb.set('nukecounts', 'countdown', -1);
-                //add logic to stop the nuke
-            } else {
-                returnString += "but it missed the nuke!"
-                if(Math.floor(Math.random() * 100) >= 90){
-                    let randomVictim = activeChatters[Math.floor(Math.random() * activeChatters.length)] - 1;
-                    returnString += " ...and it hit " + randomVictim + " in the face!";
-                    $.timeoutUser(rmAt($.sanitize(randomVictim)), 600, senderUser + "'s anti-air missile hit you in the face!");
-                    activeChatters = activeChatters.filter((aVictim) => aVictim !== rmAt($.sanitize(randomVictim)));
-                }
-            }
-            $.say(returnString);
-        }
-
-        if ($.equalsIgnoreCase(command, 'dickpunch')) {
             
-            let senderUser = event.getSender();
-            let victim;
-            if(args.length == 0){
-                victim = activeChatters[Math.floor(Math.random() * activeChatters.length)] - 1;
-            } else {
-                victim = rmAt($.user.sanitize(args[0]));
-            }
-            $.say(senderUser + " punched " + victim + " in the dick!");
-        }
 
-        if ($.equalsIgnoreCase(command, 'fudge')) {
-            pickupFudge();
-        }
 
-        if ($.equalsIgnoreCase(command, 'armor')) {
-            pickupArmor();
-        }
-
-        if ($.equalsIgnoreCase(command, 'potatosolcomm')) {
-            if (rmAt($.user.sanitize(event.getSender())).toLowerCase() == "potatosol"){
-                $.say("test initiated, demodding");
-                $.say("/unmod potatosol");
-                $.say("/timeout potatosol 10");
-                $.say("/untimeout potatosol");
-                $.say("/mod potatosol");
-            }
-        }
-
-        if ($.equalsIgnoreCase(command, 'ping')) {
-            $.say("/w " + event.getSender() + " pong");
         }
         /*
         //testing command, not enabled
@@ -724,17 +584,18 @@
             $.inidb.del('permcom', 'slapu');
         }
         */
+        if ($.equalsIgnoreCase(command, 'dickpunch')) {
+            //TODO
+        }
     });
 
     /*
      * @event initReady
      */
     $.bind('initReady', function () {
-        $.registerChatCommand('./custom/mangBotCommands.js', 'fudgeu', $.PERMISSION.Mod); //fix this so it can just be fudge and pick up from mangbot
+        $.registerChatCommand('./custom/mangBotCommands.js', 'fudgeu', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 'slapu', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 'armoru', $.PERMISSION.Mod);
-        $.registerChatCommand('./custom/mangBotCommands.js', 'fudge', $.PERMISSION.Mod); //to pick up from mangb0t1, not sure if this works
-        $.registerChatCommand('./custom/mangBotCommands.js', 'armor', $.PERMISSION.Mod); //to pick up from mangb0t1, not sure if this works
         $.registerChatCommand('./custom/mangBotCommands.js', 'fudgenade', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 'fudgeduel', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 'fudgenuke', $.PERMISSION.Mod);
@@ -745,14 +606,10 @@
         $.registerChatCommand('./custom/mangBotCommands.js', 'stopnuke', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 'displaymines', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 'displayviewers', $.PERMISSION.Mod);
-        $.registerChatCommand('./custom/mangBotCommands.js', 'antiair', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 'smooch', $.PERMISSION.Mod);
         $.registerChatCommand('./custom/mangBotCommands.js', 't', $.PERMISSION.Mod);
-        $.registerChatCommand('./custom/mangBotCommands.js', 'ping', $.PERMISSION.Viewer);
         $.registerChatCommand('./custom/mangBotCommands.js', 'bugreport', $.PERMISSION.Viewer);
         $.registerChatCommand('./custom/mangBotCommands.js', 'dickpunch', $.PERMISSION.Viewer);
-        $.registerChatCommand('./custom/mangBotCommands.js', 'potatosolcomm', $.PERMISSION.Viewer);
-        //$.registerChatCommand('./custom/mangBotCommands.js', 'dickpunch', $.PERMISSION.Viewer);
 
         //$.registerChatCommand('./custom/mangBotCommands.js', 'test24', $.PERMISSION.Mod);
     });
