@@ -188,6 +188,9 @@
     function calculateFudge(inputTarget, inputSender) {
         removeFudgeStacks(inputTarget);
         let fudgeAmount = 10;
+        if(inputTarget === void 0 || inputSender === void 0){
+            return 10;
+        }
         if ($.isSub(inputTarget) && !$.isSub(inputSender)) {
             fudgeAmount = 5;
         } else if (!$.isSub(inputTarget) && $.isSub(inputSender)) {
@@ -260,6 +263,9 @@
                 if (mineMsg.substring(0, 1) == "!") {
                     return;
                 }
+                if (mineMsg.length < 3){
+                    return;
+                }
                 if ($.inidb.exists('mines', mineMsg)) {
                     $.inidb.incr('mines', mineMsg, 1);
                 } else { $.inidb.set('mines', mineMsg, 1) }
@@ -274,12 +280,14 @@
         }
     })
 
+    /*
     $.bind('ircClearchatEvent', function (event) {
-        let timedUser = rmAt($.user.sanitize(event.getSender()));
+        let timedUser = rmAt($.user.sanitize(event.getSender())); //doesn't actually do anything, get sender doesnt exist?
         if(activeChatters.indexOf(timedUser) != -1){
             activeChatters = activeChatters.filter((aVictim) => aVictim !== timedUser)
         }
     })
+    */
 
     /**
      * @event ircChannelMessage
@@ -299,9 +307,9 @@
             }
             if(msgcount % 10 == 0 && msgcount > 0){
                 if(msgcount == 10){
-                    $.say("A nuke is landing in " + msgcount + ' messages...hug somebody...');
+                    $.say("mangoNUKE A nuke is landing in " + msgcount + ' messages...hug somebody... mangoNUKE');
                 } else {
-                    $.say("A nuke is landing in " + msgcount + ' messages...');
+                    $.say("mangoNUKE A nuke is landing in " + msgcount + ' messages... mangoNUKE');
                 }
             }
         }
@@ -335,11 +343,16 @@
             key = keys[i].toLowerCase();
             if (message.toLowerCase().includes(key) && key != '') {
                 duration = $.getIniDbNumber('mines', key);
+                if(duration <= 0){
+                    $.inidb.decr('mines', key, 1);
+                    break;
+                } else {
                 $.inidb.del('mines', key)
                 $.say(event.getSender() + " ran over a mine!");
                 $.timeoutUser(event.getSender(), 600 * duration, "You ran over a mine! Mine: " + key);
                 activeChatters = activeChatters.filter((aVictim) => aVictim !== event.getSender())
                 break;
+                }
             }
         }
     });
@@ -384,8 +397,8 @@
         */
         if ($.equalsIgnoreCase(command, 'slapu')) {
             //$.say("mangoSlap 2Late");
-            let targetUser = rmAt($.user.sanitize(args[0]));
-            let senderUser = rmAt($.user.sanitize(sender));
+            let targetUser = rmAt($.user.sanitize(args[1]));
+            let senderUser = rmAt($.user.sanitize(args[0]));
             let fudgeAmount = calculateFudge(targetUser, senderUser) / 5;
             let reason = "";
             if (args.length > 1) {
@@ -447,10 +460,13 @@
         *   Fudge Nade
         */
         if ($.equalsIgnoreCase(command, 'fudgenade')) {
-            let senderUser = $.user.sanitize(args[0]);
-            if (senderUser == null) {
+            let senderUser;
+            if(args.length == 0){
                 senderUser = "mang0"
+            } else {
+                senderUser = $.user.sanitize(event.getArgs()[0]);
             }
+
             senderUser = rmAt(senderUser);
             if (Math.floor(Math.random() * 100) == 69) {
                 $.timeoutUser(senderUser, 600, "You forgot to throw the grenade!");
@@ -462,7 +478,7 @@
             const minCeiled = Math.ceil(3), maxFloored = Math.floor(5);
             let length = activeChatters.length,
                 shieldedUsers = [], blownupUsers = [],
-                returnStringA = "", returnStringB = sender + " pulls the pin on a grenade...and throws! ",
+                returnStringA = "", returnStringB = senderUser + " pulls the pin on a grenade...and throws! ",
                 numTargets = Math.floor(Math.random() * (maxFloored - minCeiled + 1) + minCeiled);
 
             while (shieldedUsers.length + blownupUsers.length < numTargets) {
@@ -516,7 +532,7 @@
             if (sender == null || sender == "") {
                 sender = "Someone";
             }
-            $.say(sender + " has launched a nuke!  It will land in " + countdown + " messages!");
+            $.say("mangoNUKE " + sender + " has launched a nuke!  It will land in " + countdown + " messages! mangoNUKE");
         }
 
         if ($.equalsIgnoreCase(command, 'stopnuke')) {
@@ -568,13 +584,26 @@
         *   fudgemine
         */
         if ($.equalsIgnoreCase(command, 'fudgemine')) {
-            let senderUser = rmAt($.user.sanitize(args[0]));
-            if (event.getArgs().length == 0 || event.getArgs()[0].trim() == "?" || event.getArgs()[0].trim() == "" || event.getArgs()[0].trim().length == 0) {
+            let senderUser = rmAt($.user.sanitize(event.getArgs()[0]));
+            if(senderUser.length <= 1){
+                senderUser = sender;
+            }
+            if (event.getArgs().length <= 1) {
                 $.inidb.set('minelayer', senderUser, 0);
                 $.say('/w ' + senderUser + ' What do you want the mine to be?');
                 return;
             }
-            let newMine = event.getArgs()[0].toLowerCase();
+            let newMine = "";
+            args.slice(1).forEach((ele) => {
+                newMine += ele + " ";
+            })
+            if(newMine.length < 3 && newMine.length > 0){
+                $.inidb.set('minelayer', senderUser, 0);
+                $.say("/w " + senderUser + " Mines must be atleast 3 characters, what do you want the mine to be?")
+                return;
+            }
+            newMine = newMine.trim();
+
             if ($.inidb.exists('mines', newMine)) {
                 $.inidb.incr('mines', newMine, 1);
             } else { $.inidb.set('mines', newMine, 1) }
@@ -583,7 +612,7 @@
             for (i in keys) {
                 count++;
             }
-            $.say(sender + " planted a mine! There are now " + count + " mines planted!");
+            $.say(senderUser + " planted a mine! There are now " + count + " mines planted!");
         }
 
         /*
@@ -599,7 +628,7 @@
                 let timestamp = $.getIniDbNumber('timestamp', inputUser);
                 if (currentTime < timestamp + (fudgestacks * 60)) {
                     $.inidb.decr('fudgeStacks', inputUser, 10);
-                    if ($.getIniDbNumber('fudgeStacks', inputUser) == 0) {
+                    if ($.getIniDbNumber('fudgeStacks', inputUser) <= 0) {
                         $.untimeoutUser(inputUser);
                         return;
                     }
@@ -689,7 +718,7 @@
             let senderUser = event.getSender();
             let victim;
             if(args.length == 0){
-                victim = activeChatters[Math.floor(Math.random() * activeChatters.length)] - 1;
+                victim = activeChatters[Math.floor(Math.random() * activeChatters.length) - 1];
             } else {
                 victim = rmAt($.user.sanitize(args[0]));
             }
